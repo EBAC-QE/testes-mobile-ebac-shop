@@ -2,30 +2,30 @@
   "uid" : "b1a8273437954620fa374b796ffaacdd",
   "children" : [ {
     "name" : "shoud list products",
-    "uid" : "4648b226e3d9493f",
+    "uid" : "f43ae0c6c617881f",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1643486825078,
-      "stop" : 1643486828054,
-      "duration" : 2976
+      "start" : 1643490658143,
+      "stop" : 1643490660616,
+      "duration" : 2473
     },
     "flaky" : false,
     "newFailed" : false,
-    "parameters" : [ "iphone-14.0" ]
+    "parameters" : [ "00008020-000B0518263B002E-15.1" ]
   }, {
     "name" : "should search by Ingrid",
-    "uid" : "2cbac9441f266519",
+    "uid" : "66e52bd42a3ee4c7",
     "parentUid" : "b1a8273437954620fa374b796ffaacdd",
     "status" : "passed",
     "time" : {
-      "start" : 1643486843383,
-      "stop" : 1643486850065,
-      "duration" : 6682
+      "start" : 1643490700539,
+      "stop" : 1643490706194,
+      "duration" : 5655
     },
     "flaky" : false,
     "newFailed" : false,
-    "parameters" : [ "iphone-14.0" ]
+    "parameters" : [ "00008020-001A6C501A03002E-15.1" ]
   } ],
   "name" : "behaviors"
 }

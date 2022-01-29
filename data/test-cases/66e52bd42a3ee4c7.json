@@ -1,12 +1,12 @@
 {
-  "uid" : "2cbac9441f266519",
+  "uid" : "66e52bd42a3ee4c7",
   "name" : "should search by Ingrid",
   "fullName" : "Search products.should search by Ingrid",
-  "historyId" : "69b3b026b1c18de9b07b37a8b1e8e39a",
+  "historyId" : "231f4d2e76e3d4b1e8454070c7edfadc",
   "time" : {
-    "start" : 1643486843383,
-    "stop" : 1643486850065,
-    "duration" : 6682
+    "start" : 1643490700539,
+    "stop" : 1643490706194,
+    "duration" : 5655
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -18,11 +18,11 @@
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "7b188a2f2db63712",
+      "uid" : "58ab4f21e9254abb",
       "name" : "Execution video",
-      "source" : "7b188a2f2db63712.mp4",
+      "source" : "58ab4f21e9254abb.mp4",
       "type" : "video/mp4",
-      "size" : 183172
+      "size" : 177
     } ],
     "parameters" : [ ],
     "stepsCount" : 0,
@@ -58,7 +58,7 @@
   } ],
   "parameters" : [ {
     "name" : "device",
-    "value" : "iphone-14.0"
+    "value" : "00008020-001A6C501A03002E-15.1"
   } ],
   "links" : [ ],
   "hidden" : false,
@@ -69,6 +69,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "2cbac9441f266519.json",
-  "parameterValues" : [ "iphone-14.0" ]
+  "source" : "66e52bd42a3ee4c7.json",
+  "parameterValues" : [ "00008020-001A6C501A03002E-15.1" ]
 }

@@ -1,12 +1,12 @@
 {
-  "uid" : "4648b226e3d9493f",
+  "uid" : "f43ae0c6c617881f",
   "name" : "shoud list products",
   "fullName" : "Product List.shoud list products",
-  "historyId" : "c7101fa96238f514e0247c8b632a7178",
+  "historyId" : "b0cac642db7a47ce669595fd081fca1a",
   "time" : {
-    "start" : 1643486825078,
-    "stop" : 1643486828054,
-    "duration" : 2976
+    "start" : 1643490658143,
+    "stop" : 1643490660616,
+    "duration" : 2473
   },
   "description" : "",
   "descriptionHtml" : "",
@@ -18,11 +18,11 @@
     "status" : "passed",
     "steps" : [ ],
     "attachments" : [ {
-      "uid" : "7d07d8dc217fc3b1",
+      "uid" : "c870c2024a109cc7",
       "name" : "Execution video",
-      "source" : "7d07d8dc217fc3b1.mp4",
+      "source" : "c870c2024a109cc7.mp4",
       "type" : "video/mp4",
-      "size" : 54457
+      "size" : 69783
     } ],
     "parameters" : [ ],
     "stepsCount" : 0,
@@ -58,7 +58,7 @@
   } ],
   "parameters" : [ {
     "name" : "device",
-    "value" : "iphone-14.0"
+    "value" : "00008020-000B0518263B002E-15.1"
   } ],
   "links" : [ ],
   "hidden" : false,
@@ -69,6 +69,6 @@
     "categories" : [ ],
     "tags" : [ ]
   },
-  "source" : "4648b226e3d9493f.json",
-  "parameterValues" : [ "iphone-14.0" ]
+  "source" : "f43ae0c6c617881f.json",
+  "parameterValues" : [ "00008020-000B0518263B002E-15.1" ]
 }

@@ -1,20 +1,20 @@
 [ {
-  "uid" : "4648b226e3d9493f",
+  "uid" : "f43ae0c6c617881f",
   "name" : "shoud list products",
   "time" : {
-    "start" : 1643486825078,
-    "stop" : 1643486828054,
-    "duration" : 2976
+    "start" : 1643490658143,
+    "stop" : 1643490660616,
+    "duration" : 2473
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "2cbac9441f266519",
+  "uid" : "66e52bd42a3ee4c7",
   "name" : "should search by Ingrid",
   "time" : {
-    "start" : 1643486843383,
-    "stop" : 1643486850065,
-    "duration" : 6682
+    "start" : 1643490700539,
+    "stop" : 1643490706194,
+    "duration" : 5655
   },
   "status" : "passed",
   "severity" : "normal"
