@@ -1,0 +1,39 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "Product List",
+    "children" : [ {
+      "name" : "shoud list products",
+      "uid" : "4648b226e3d9493f",
+      "parentUid" : "62c4c9b698d0557a56f9a285e6352d87",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643486825078,
+        "stop" : 1643486828054,
+        "duration" : 2976
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "iphone-14.0" ]
+    } ],
+    "uid" : "62c4c9b698d0557a56f9a285e6352d87"
+  }, {
+    "name" : "Search products",
+    "children" : [ {
+      "name" : "should search by Ingrid",
+      "uid" : "2cbac9441f266519",
+      "parentUid" : "36fe3d2dba441c24ceffd29ec5cc5260",
+      "status" : "passed",
+      "time" : {
+        "start" : 1643486843383,
+        "stop" : 1643486850065,
+        "duration" : 6682
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "iphone-14.0" ]
+    } ],
+    "uid" : "36fe3d2dba441c24ceffd29ec5cc5260"
+  } ],
+  "name" : "packages"
+}

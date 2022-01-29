@@ -1,0 +1,74 @@
+{
+  "uid" : "2cbac9441f266519",
+  "name" : "should search by Ingrid",
+  "fullName" : "Search products.should search by Ingrid",
+  "historyId" : "69b3b026b1c18de9b07b37a8b1e8e39a",
+  "time" : {
+    "start" : 1643486843383,
+    "stop" : 1643486850065,
+    "duration" : 6682
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "7b188a2f2db63712",
+      "name" : "Execution video",
+      "source" : "7b188a2f2db63712.mp4",
+      "type" : "video/mp4",
+      "size" : 183172
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-1"
+  }, {
+    "name" : "suite",
+    "value" : "Search products"
+  }, {
+    "name" : "testClass",
+    "value" : "Search products"
+  }, {
+    "name" : "testMethod",
+    "value" : "should search by Ingrid"
+  }, {
+    "name" : "package",
+    "value" : "Search products"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "device",
+    "value" : "iphone-14.0"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "2cbac9441f266519.json",
+  "parameterValues" : [ "iphone-14.0" ]
+}
