@@ -4,9 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "npx wdio run ./wdio.conf.js",
-    "test:ios": "npx wdio run ./wdio.ios.conf.js --suite products",
-    "test:ios-bs": "npx wdio run ./wdio.ios.bs.conf.js --suite products",
+    "test": "npx wdio run ./config/wdio.conf.js",
     "report": "npx allure open allure-report"
   },
   "keywords": [],
@@ -22,6 +20,7 @@
     "@wdio/spec-reporter": "^7.10.1",
     "allure-commandline": "^2.13.8",
     "appium": "^1.21.0",
+    "dotenv": "^14.3.2",
     "wdio-video-reporter": "^3.1.2"
   }
 }
