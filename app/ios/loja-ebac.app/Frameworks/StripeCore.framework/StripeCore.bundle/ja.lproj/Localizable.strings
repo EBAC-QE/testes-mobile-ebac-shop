@@ -1,6 +1,12 @@
 /* Text for close button */
 "Close" = "閉じる";
 
+/* Text for button to scan a credit card */
+"Scan Card" = "クレジットカードをスキャン";
+
+/* Button title to open camera to scan credit/debit card */
+"Scan card" = "カードをスキャン";
+
 /* An error message displayed when the customer's iban is invalid. */
 "The IBAN you entered is invalid." = "入力した IBAN が無効です。";
 
@@ -9,6 +15,9 @@
 
 /* Unexpected error, such as a 500 from Stripe or a JSON parse error */
 "There was an unexpected error -- try again in a few seconds" = "予期しないエラーが発生しました。数秒後にもう一度お試しください";
+
+/* Button to reload web view if we were unable to connect. */
+"Try again" = "もう一度お試しください";
 
 /* Error when the card has already expired */
 "Your card has expired" = "クレジットカードの有効期限が切れています";

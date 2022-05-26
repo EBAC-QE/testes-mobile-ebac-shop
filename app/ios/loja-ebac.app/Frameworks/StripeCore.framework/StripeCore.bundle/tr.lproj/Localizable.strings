@@ -1,6 +1,12 @@
 /* Text for close button */
 "Close" = "Kapat";
 
+/* Text for button to scan a credit card */
+"Scan Card" = "Kartı Tara";
+
+/* Button title to open camera to scan credit/debit card */
+"Scan card" = "Kartı tara";
+
 /* An error message displayed when the customer's iban is invalid. */
 "The IBAN you entered is invalid." = "Girdiğiniz IBAN geçersiz.";
 
@@ -9,6 +15,9 @@
 
 /* Unexpected error, such as a 500 from Stripe or a JSON parse error */
 "There was an unexpected error -- try again in a few seconds" = "Beklenmedik bir hata oluştu -- birazdan tekrar deneyin";
+
+/* Button to reload web view if we were unable to connect. */
+"Try again" = "Tekrar dene";
 
 /* Error when the card has already expired */
 "Your card has expired" = "Kartınızın kullanım süresi dolmuş";

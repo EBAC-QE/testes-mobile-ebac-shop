@@ -19,6 +19,9 @@
 /* This is a Payment Method type brand name so shouldn&apos;t be translated unless it has a different name in a given localization. */
 "AU BECS Debit" = "AU BECS debetas";
 
+/* Payment Method type brand name. */
+"AU BECS Direct Debit" = "AU BECS tiesioginis debetas";
+
 /* part of {Account} ending in {last4} */
 "Account" = "Sąskaita";
 
@@ -40,6 +43,9 @@
 /* Title shown above a card entry form */
 "Add a card" = "Pridėti kortelę";
 
+/* Button prompt to add a bank account as a payment method. */
+"Add bank account" = "Pridėti banko sąskaitą";
+
 /* Label of a button displayed below a card entry form that saves the card details */
 "Add card" = "Pridėti kortelę";
 
@@ -49,17 +55,20 @@
 /* Title shown above a form where the customer can enter payment information like credit card details, email, billing address, etc. */
 "Add your payment information" = "Pridėkite mokėjimo informaciją";
 
-/* Caption for Address field on address form */
-"Address" = "Adresas";
-
 /* Address line 2 placeholder for billing address form. */
 "Address line 2 (optional)" = "2 adreso eilutė (pasirenkama)";
+
+/* Payment Method type brand name */
+"Affirm" = "Affirm";
 
 /* Payment Method type brand name  */
 "Afterpay" = "Afterpay";
 
 /* Payment Method type brand name */
 "AfterpayClearpay" = "AfterpayClearpay";
+
+/* Payment Method type brand name */
+"AfterpayClearpay_copy" = "AfterpayClearpay";
 
 /* Source type brand name */
 "Alipay" = "„Alipay“";
@@ -69,9 +78,6 @@
 
 /* Caption for Apartment/Address line 2 field on address form */
 "Apt." = "But.";
-
-/* Label of an address field in hk */
-"Area" = "Sritis";
 
 /* Title for bank picker section */
 "BANK" = "BANKAS";
@@ -94,6 +100,9 @@
 /* Source type brand name */
 "Bancontact" = "„Bancontact“";
 
+/* Link Instant Debit payment method display name */
+"Bank" = "Bankas";
+
 /* Label for Bank Account selection or detail entry form */
 "Bank Account" = "Banko sąskaita";
 
@@ -103,11 +112,32 @@
 /* Billing address section title for card form entry. */
 "Billing address" = "Atsiskaitymo adresas";
 
+/* Payment Method type brand name */
+"Boleto" = "Boleto";
+
+/* Klarna buy now or pay later copy */
+"Buy now or pay later with Klarna." = "Pirkite dabar arba mokėkite vėliau naudodami \"Klarna\".";
+
+/* Text providing link to terms for ACH payments */
+"By continuing, you agree to authorize payments pursuant to <terms>these terms</terms>." = "Tęsdami sutinkate autorizuoti mokėjimus pagal šias <terms>sąlygas</terms>.";
+
+/* Mandate text displayed when paying via Link instant debit. */
+"By continuing, you agree to authorize payments pursuant to these <terms>terms</terms>." = "Tęsdami sutinkate autorizuoti mokėjimus pagal šias <terms>sąlygas</terms>.";
+
+/* Legal text shown when creating a Link account. */
+"By joining Link, you agree to the <terms>Terms</terms> and <privacy>Privacy Policy</privacy>." = "Jungdamiesi prie Link sutinkate su <terms>Sąlygomis</terms> ir <privacy>Privatumo politika</privacy>.";
+
 /* SEPA legal authorization text – must use official translations. */
 "By providing your IBAN and confirming this payment, you are authorizing %@ and Stripe, our payment service provider, to send instructions to your bank to debit your account and your bank to debit your account in accordance with those instructions. You are entitled to a refund from your bank under the terms and conditions of your agreement with your bank. A refund must be claimed within 8 weeks starting from the date on which your account was debited." = "Pateikdami IBAN ir patvirtindami šį mokėjimą, Jūs sutinkate, kad %@ ir „Stripe“, mūsų mokėjimų paslaugų teikėjas, kreiptųsi į Jūsų banką dėl lėšų nurašymo iš Jūsų sąskaitos, ir sutinkate, kad Jūsų bankas, gavęs pateiktą mokėjimo nurodymą, iš Jūsų sąskaitos nurašytų mokėjimo nurodyme nurodytą lėšų sumą. Jūs turite teisę kreiptis į savo banką dėl nurašytų lėšų sugrąžinimo, vadovaudamiesi savo su banku sudaryta sutartimi. Jūsų reikalavimas sugrąžinti lėšas turi būti pateiktas bankui ne vėliau kaip per 8 savaites nuo lėšų nurašymo iš Jūsų sąskaitos dienos.";
 
+/* Legal text shown when using AUBECS. */
+"By providing your bank account details and confirming this payment, you agree to this Direct Debit Request and the <terms>Direct Debit Request service agreement</terms>, and authorise Stripe Payments Australia Pty Ltd ACN 160 180 343 Direct Debit User ID number 507156 (“Stripe”) to debit your account through the Bulk Electronic Clearing System (BECS) on behalf of %@ (the \"Merchant\") for any amounts separately communicated to you by the Merchant. You certify that you are either an account holder or an authorised signatory on the account listed above." = "Pateikdami savo banko sąskaitos duomenis ir patvirtindami šį mokėjimą, jūs sutinkate su šiuo tiesioginio debeto prašymu ir <terms>tiesioginio debeto prašymo paslaugų sutartimi</terms> bei įgaliojate „Stripe Payments Australia Pty Ltd“, ACN 160 180 343, tiesioginio debeto naudotojo ID numeris 507156 (toliau – „Stripe“) nurašyti nuo jūsų sąskaitos per masinę elektroninę tarpuskaitos sistemą (BECS) %@ vardu (toliau – „Pardavėjas“) bet kokias sumas, atskirai jums nurodytas Pardavėjo. Jūs patvirtinate, kad esate sąskaitos turėtojas arba įgaliotas pasirašyti minėtą sąskaitą asmuo.";
+
 /* SEPA mandate text */
 "By providing your payment information and confirming this payment, you authorise (A) %@ and Stripe, our payment service provider, to send instructions to your bank to debit your account and (B) your bank to debit your account in accordance with those instructions. As part of your rights, you are entitled to a refund from your bank under the terms and conditions of your agreement with your bank. A refund must be claimed within 8 weeks starting from the date on which your account was debited. Your rights are explained in a statement that you can obtain from your bank. You agree to receive notifications for future debits up to 2 days before they occur." = "Pateikdami mokėjimo duomenis ir patvirtindami šį mokėjimą, leidžiate (A) „%@“ ir „Stripe“ (mūsų mokėjimo paslaugų teikėjui) jūsų bankui siųsti nurodymus nurašyti pinigus iš jūsų sąskaitos ir (B) leidžiate savo bankui, gavus tokius nurodymus, nurašyti pinigus iš jūsų sąskaitos. Pagal jūsų su banku sudarytos sutarties sąlygas turite teisę iš banko reikalauti pinigų grąžinimo. Prašymą grąžinti pinigus turite pateikti per 8 savaites nuo pinigų iš jūsų sąskaitos nurašymo dienos. Jūsų teisės paaiškintos pareiškime, kurį galite gauti iš savo banko. Sutinkate gauti pranešimus apie būsimus nurašymus likus iki 2 dienų iki jų įvykdymo momento.";
+
+/* Mandate text with link to terms when saving a bank account payment method to a merchant (merchant name replaces %@). */
+"By saving your bank account for %@ you agree to authorize payments pursuant to <terms>these terms</terms>." = "Išsaugodami savo banko sąskaitą %@, sutinkate autorizuoti mokėjimus pagal šias <terms>sąlygas</terms>.";
 
 /* Title for card number entry field */
 "CARD" = "KORTELĖ";
@@ -124,9 +154,6 @@
 /* Label for entering CVV in text field */
 "CVV" = "CVV";
 
-/* Button title to cancel action in an alert */
-"Cancel" = "Atšaukti";
-
 /* Title for credit card number entry field */
 "Card" = "Kortelė";
 
@@ -142,9 +169,6 @@
 /* TODO */
 "Choose a payment method" = "Pasirinkite mokėjimo būdą";
 
-/* Caption for City field on address form */
-"City" = "Miestas";
-
 /* Payment Method type brand name */
 "Clearpay" = "Clearpay";
 
@@ -153,15 +177,6 @@
 
 /* Title for contact info form */
 "Contact" = "Susisiekti";
-
-/* Text for continue button */
-"Continue" = "Tęsti";
-
-/* Caption for Country field on address form */
-"Country" = "Šalis";
-
-/* Caption for County field on address form (only countries that use county, like United Kingdom) */
-"County" = "Apygarda";
 
 /* Title for delivery address entry section */
 "DELIVERY ADDRESS" = "PRISTATYMO ADRESAS";
@@ -172,26 +187,11 @@
 /* Title for delivery address entry section */
 "Delivery Address" = "Pristatymo adresas";
 
-/* Label of an address field */
-"Department" = "Skyrius";
-
-/* Label for the district field on an address form */
-"District" = "Rajonas";
-
-/* Label of an address field */
-"Do Si" = "Do Si";
-
 /* Source type brand name */
 "EPS" = "EPS";
 
 /* Button title to enter editing mode */
 "Edit" = "Redaguoti";
-
-/* Label of an address field */
-"Eircode" = "Pašto kodas (EIR)";
-
-/* Used to describe address in United Arab Emirates */
-"Emirate" = "Emyratas";
 
 /* Payment Method type brand name */
 "FPX" = "FPX";
@@ -219,6 +219,9 @@
 
 /* Source type brand name */
 "Klarna" = "Klarna";
+
+/* Link Payment Method type brand name */
+"Link" = "\"Link\"";
 
 /* Title for screen when data is still loading from the network. */
 "Loading…" = "Įkeliama...";
@@ -250,14 +253,8 @@
 /* Button to move to the next text entry field */
 "Next" = "Toliau";
 
-/* No comment provided by engineer. */
-"OK" = "GERAI";
-
 /* Payment Method type brand name */
 "OXXO" = "OXXO";
-
-/* Label of an address field */
-"Oblast" = "Sritis";
 
 /* Button to pay with a Bank Account (using FPX). */
 "Online Banking (FPX)" = "Interneto banko paslaugos (FPX)";
@@ -268,17 +265,17 @@
 /* Title of a section containing a card form that will collect the payment information from the user. */
 "Or pay with a card" = "Arba mokėti kortele";
 
-/* An option in a dropdown selector indicating the customer's desired selection is not in the list. e.g., 'Choose your bank: Bank1, Bank2, Other' */
-"Other" = "Kita";
-
 /* Source type brand name */
 "P24" = "P24";
 
-/* Label of an address field */
-"Parish" = "Parapija";
-
 /* Label of a button that initiates payment when tapped */
 "Pay %@" = "Mokėti %@";
+
+/* Klarna pay later copy */
+"Pay later with Klarna." = "Mokėkite vėliau naudodami \"Klarna\".";
+
+/* Pay over time with Affirm copy */
+"Pay over time with %@" = "Mokėkite vėliau naudodami %@";
 
 /* Pay with {payment method} */
 "Pay with %@" = "Mokėti naudojant %@";
@@ -289,9 +286,6 @@
 /* Title for Payment Method screen */
 "Payment Method" = "Mokėjimo būdas";
 
-/* Caption for Phone field on address form */
-"Phone" = "Telefonas";
-
 /* Accessibility instructions for card scanning. */
 "Point the camera at your card." = "Nukreipkite fotoaparatą į kortelę.";
 
@@ -301,17 +295,8 @@
 /* Caption for Postal Code field on address form (only shown in countries other than the United States) */
 "Postal Code" = "Pašto kodas";
 
-/* Short string for postal code (text used in non-US countries) */
-"Postal code" = "Pašto kodas";
-
-/* Label of an address field */
-"Prefecture" = "Prefektūra";
-
 /* Label of a button that, when tapped, initiates payment, becomes disabled, and displays this text */
 "Processing..." = "Apdorojama...";
-
-/* Caption for Province field on address form (only countries that use province, like Canada) */
-"Province" = "Provincija";
 
 /* Payment Method type brand name. */
 "Przelewy24" = "Przelewy24";
@@ -329,6 +314,12 @@
 /* Title for confirmation alert to remove a card */
 
 "Remove Card" = "Šalinti kortelę";
+/* Title for confirmation alert to remove a saved bank account payment method */
+
+"Remove bank account" = "Pašalinti banko sąskaitą";
+/* Content for alert popup prompting to confirm removing a saved bank account. e.g. 'Remove bank account ending in 4242' */
+
+"Remove bank account ending in %@" = "Pašalinti banko sąskaitą, kurios paskutiniai skaičiai %@";
 /* part of {SEPA Account} ending in {last4} */
 
 "SEPA Account" = "SEPA sąskaita";
@@ -353,12 +344,9 @@
 /* The label of a switch indicating whether to save the user&apos;s card for future payments to this merchant */
 
 "Save this card for future %@ payments" = "Išsaugoti kortelę vėlesniems %@ mokėjimams";
-/* Text for button to scan a credit card */
+/* The label of a switch indicating whether to save the user's card for future payment */
 
-"Scan Card" = "Skenuoti kortelę";
-/* Label of a button displayed below a payment method form. Tapping the button closes the form and uses the entered payment method details for checkout in the next step */
-
-"Select" = "Pasirinkti";
+"Save this card for future Stripe payments" = "Išsaugoti kortelę vėlesniems \"Stripe\" mokėjimams";
 /* label for iDEAL-bank selection picker */
 
 "Select bank" = "Pasirinkti banką";
@@ -382,17 +370,11 @@
    Source type brand name */
 "Sofort" = "Sofort";
 
-/* Caption for State field on address form (only countries that use state , like United States) */
-"State" = "Valstija";
-
 /* Caption for generalized state/province/region field on address form (not tied to a specific country&apos;s format) */
 "State / Province / Region" = "Valstija / provincija / regionas";
 
-/* Label of an address field */
-"Suburb" = "Priemiestis";
-
-/* Label of an address field */
-"Suburb or city" = "Priemiestis arba miestas";
+/* Prompt for microdeposit verification before completing purchase with merchant. %@ will be replaced by merchant business name */
+"Stripe will deposit $0.01 to your account in 1-2 business days. Then you’ll get an email with instructions to complete payment to %@." = "Po 1–2 darbo dienas „Stripe“ į jūsų sąskaitą įneš 0,01 USD. Tada gausite el. laišką su nurodymais, kaip užbaigti mokėjimą %@.";
 
 /* Error string displayed to user when they have entered an incomplete BSB number. BSB refers to an Australian bank account number */
 "The BSB you entered is incomplete." = "Įvestas neišsamus BSB numeris.";
@@ -406,23 +388,14 @@
 /* An error message displayed when the IBAN country code is not supported. */
 "The IBAN you entered is invalid, \"%@\" is not a supported country code." = "Įvedėte neteisingą IBAN kodą, \"%@\" nėra palaikomas šalies kodas.";
 
-/* An error message displayed when the customer's iban is invalid. */
-"The IBAN you entered is invalid." = "Įvedėte neteisingą IBAN.";
-
 /* Error when the seleted payment method is not available (eg attempted to use 3D Secure on a card that does not support it). */
 "The selected payment method is not available." = "Pasirinktas mokėjimo būdas yra neprieinamas.";
-
-/* Error when there is a problem processing the credit card */
-"There was an error processing your card -- try again in a few seconds" = "Įvyko kortelės apdorojimo klaida, po kelių sekundžių bandykite dar kartą";
 
 /* Error when 3DS2 authentication timed out. */
 "Timed out authenticating your payment method -- try again" = "Baigėsi mokėjimo būdui autentifikuoti skirtas laikas, bandykite dar kartą";
 
 /* Error when the user hasn&apos;t allowed the current app to access the camera when scanning a payment card. &apos;Settings&apos; is the localized name of the iOS Settings app. */
 "To scan your card, allow camera access in Settings." = "Kad nuskaitytumėte kortelę, nustatymuose suteikite prieigą fotoaparatui.";
-
-/* Label of an address field */
-"Town or city" = "Miestelis arba miestas";
 
 /* Payment Method type brand name */
 "UPI" = "UPI";
@@ -460,17 +433,11 @@
 /* Error message for when postal code in form is invalid (US only) */
 "Your ZIP is invalid." = "Jūsų pašto kodas yra netinkamas.";
 
-/* Error when the card has already expired */
-"Your card has expired" = "Kortelė baigė galioti";
-
 /* Error message for card form when card number is incomplete */
 "Your card number is incomplete." = "Neišsamus kortelės numeris.";
 
 /* Error message for card form when card number is invalid */
 "Your card number is invalid." = "Netinkamas kortelės numeris.";
-
-/* Error when the card was declined by the credit card networks */
-"Your card was declined" = "Kortelė buvo atmesta";
 
 /* Error message for card details form when expiration date isn&apos;t entered completely */
 "Your card's expiration date is incomplete." = "Neišsami kortelės galiojimo pabaigos data.";
@@ -478,41 +445,23 @@
 /* Error message for card details form when expiration date is invalid */
 "Your card's expiration date is invalid." = "Netinkama kortelės galiojimo pabaigos data.";
 
-/* Error when the card&apos;s expiration month is not valid */
-"Your card's expiration month is invalid" = "Negaliojantis kortelės galiojimo pabaigos mėnuo";
-
 /* String to describe an invalid month in expiry date. */
 "Your card's expiration month is invalid." = "Negaliojantis kortelės galiojimo pabaigos mėnuo.";
-
-/* Error when the card&apos;s expiration year is not valid */
-"Your card's expiration year is invalid" = "Kortelės galiojimo pabaigos metai neteisingi";
 
 /* String to describe an invalid year in expiry date. */
 "Your card's expiration year is invalid." = "Kortelės galiojimo pabaigos metai neteisingi.";
 
-/* Error when the card number is not valid */
-"Your card's number is invalid" = "Negaliojantis kortelės numeris";
-
 /* Error message for card entry form when CVC/CVV is incomplete. */
 "Your card's security code is incomplete." = "Neišsamus kortelės saugos kodas.";
 
-/* Error when the card&apos;s CVC is not valid */
-"Your card's security code is invalid" = "Kortelės saugos kodas negalioja";
-
 /* Error message for card entry form when CVC/CVV is invalid */
 "Your card's security code is invalid." = "Kortelės saugos kodas negalioja.";
-
-/* Error when customer's name is invalid */
-"Your name is invalid." = "Jūsų vardas neteisingas.";
 
 /* Error message for when postal code in form is incomplete */
 "Your postal code is incomplete." = "Pašto kodas neišsamus.";
 
 /* Error message for when postal code in form is invalid */
 "Your postal code is invalid." = "Jūsų pašto kodas yra netinkamas.";
-
-/* Short string for zip code (United States only) Please keep to 5 characters or less if possible. */
-"ZIP" = "Pašto kodas";
 
 /* Caption for Zip Code field on address form (only shown when country is United States only) */
 "ZIP Code" = "Pašto kodas";

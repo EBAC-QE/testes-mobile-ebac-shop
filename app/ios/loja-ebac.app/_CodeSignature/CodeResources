@@ -18,7 +18,7 @@
 		</data>
 		<key>Assets.car</key>
 		<data>
-		cnZQxg8RpeQfiq+WXhPOXV+Gu68=
+		vUezV5gbnbybjm6Qnt3ZUxG0NNw=
 		</data>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Frameworks/App.framework/App</key>
 		<data>
-		CKOK19baqpDfsCcHfTOQW0A3M3o=
+		eaY8UaPhETcZadYc2kpe2vBnvoc=
 		</data>
 		<key>Frameworks/App.framework/Info.plist</key>
 		<data>
@@ -54,15 +54,15 @@
 		</data>
 		<key>Frameworks/App.framework/_CodeSignature/CodeResources</key>
 		<data>
-		DBlnDzTEBbvdYMlSQZSyTKkGcg8=
+		7661BfLHgN2h2K3V5qiuZRTwVq0=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/.env</key>
 		<data>
-		PPkff2rQzzsvgiEsqMM197UM500=
+		S0YIVu3McwhakIEhcH0vEegBVhs=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<data>
-		dPvBSeEpOO3TaM9KushKsjVdrw4=
+		g8iIIEW3MabF4AoKBIbTgGvq7t8=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
 		<data>
@@ -70,59 +70,59 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/NOTICES.Z</key>
 		<data>
-		S0No6d3TAlOjgxey/RQTP2qinYw=
+		th1/kKaUerlXanH8OGUqmoKCCxc=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<data>
-		33xe6rFwPlxRnZOgZWsODADpUI4=
+		mcmNrC70e/OT89y/p5EgxkVsLrs=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/isolate_snapshot_data</key>
 		<data>
-		7Jt1VzUkTmBMIqzT8+Exp0F3vXU=
+		eQjUSN4q35Uzd/55EBjW4jV/nYU=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<data>
-		TQIn5O6wUk3Ah/5HEXryBPtS5w4=
+		O8Ykjl7bVLUoK4UHMOOJyCkh1II=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/lang/de.json</key>
 		<data>
-		VgWpIU0XCnDcPEct8QzLXJCpyLg=
+		qJyIqwoFS40kr+mt2NnR0FphQ+c=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/lang/en.json</key>
 		<data>
-		hAIzbRBei/aX44WBQpJXImofIgc=
+		yTJxicniEpcC9eHRmFPiOr7ry5w=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/lang/es.json</key>
 		<data>
-		leT/XYtOmEqSbrh/Twgpch0yWxk=
+		d/SxfElt8WGZ0UpOjf921hm2EM8=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/lang/fr.json</key>
 		<data>
-		kDfJ68VVhvwQADb3o5vVbozDmGM=
+		ujjch4yz5nqFdXKTzYcIvVCZ7EA=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/lang/hi.json</key>
 		<data>
-		hNofkj0rdSS7WTX2P5SCu2ZlxqI=
+		xWVs5AHwdO+mSDv0RXS3eFaiSj8=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/lang/it.json</key>
 		<data>
-		/sIr+A4RmyoN+KHa5ZZwduPAEZE=
+		JZ/QSJbofU527s/+1dcvQMNSVZ0=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/lang/nl.json</key>
 		<data>
-		kwBJU/hFM26K5bd7l0bQTKkpMbU=
+		+EyoAOHtvk510flHWStOqjgYCkQ=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/lang/pt.json</key>
 		<data>
-		UNE2KlxcIUJ/2yhvgRb0jKDu1/E=
+		xJrQjhzFZL1pBdZoGtiaJc8Z8UA=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/lang/tr.json</key>
 		<data>
-		/Jw4yUlFtJIa6UOefPV7CZ9nbBY=
+		CEFTCMoBI5+RvkGbUVXiPvvRWdE=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/lang/zh.json</key>
 		<data>
-		v+KFUWxTXRqmDvazc2IiiQ9YBu0=
+		ixqvsGljR3/VREgaG7pGl/VxfLQ=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
 		<data>
@@ -131,6 +131,10 @@
 		<key>Frameworks/App.framework/flutter_assets/packages/status_alert/assets/fonts/SFNS.ttf</key>
 		<data>
 		04QWrTYYiOjNtb9iZhB+gnEQWV4=
+		</data>
+		<key>Frameworks/App.framework/flutter_assets/packages/wakelock_web/assets/no_sleep.js</key>
+		<data>
+		4X7PZ95hkgUE15GU2+5c1VKgHP0=
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/public/assets/fonts/.gitkeep</key>
 		<data>
@@ -186,23 +190,23 @@
 		</data>
 		<key>Frameworks/App.framework/flutter_assets/vm_snapshot_data</key>
 		<data>
-		cuieaQ9j+9gCTKYPRhW1tc4y4co=
+		EGrx+ceECFYMCwgndwmfZXgJFDU=
 		</data>
 		<key>Frameworks/FMDB.framework/FMDB</key>
 		<data>
-		EJ5lS5DpcLln/vXIOLsH8/YfiTY=
+		QJIyS6RyaBtiII5YT4hP53f7Z7A=
 		</data>
 		<key>Frameworks/FMDB.framework/Info.plist</key>
 		<data>
-		mpPOezyK3+cnBvIfU/s6SIyuFmc=
+		4uGsrhg0B5ebgWGEpn4lvOXxTl4=
 		</data>
 		<key>Frameworks/FMDB.framework/_CodeSignature/CodeResources</key>
 		<data>
-		zdjaWU0PCFjkV3TyAfAX0ggkrfQ=
+		mpfcXd3qTTBeymU2s61u/iUprmg=
 		</data>
 		<key>Frameworks/Flutter.framework/Flutter</key>
 		<data>
-		UCHwYTxncXzBLGB/r3YlF1CKhS4=
+		9YwKyOU4CEwhsrsnWqi+uzzsxA0=
 		</data>
 		<key>Frameworks/Flutter.framework/Headers/Flutter.h</key>
 		<data>
@@ -214,15 +218,15 @@
 		</data>
 		<key>Frameworks/Flutter.framework/Headers/FlutterBinaryMessenger.h</key>
 		<data>
-		etrFpvIkvsKk1mlvYXGTBvgwzzE=
+		Qj6OtkzORWI38PIdXyyJc+eribM=
 		</data>
 		<key>Frameworks/Flutter.framework/Headers/FlutterCallbackCache.h</key>
 		<data>
-		7bvv6icUG3Vh8xBTZDi569tVAyk=
+		lTUaQzdBsC/YVTRn48+amlv1iw4=
 		</data>
 		<key>Frameworks/Flutter.framework/Headers/FlutterChannels.h</key>
 		<data>
-		sHj+Q0IC9IHcDQFEUVW9NjjVwyo=
+		bhEGVRctQGJxYtCb3asK0k4Iq74=
 		</data>
 		<key>Frameworks/Flutter.framework/Headers/FlutterCodecs.h</key>
 		<data>
@@ -234,11 +238,11 @@
 		</data>
 		<key>Frameworks/Flutter.framework/Headers/FlutterEngine.h</key>
 		<data>
-		ue9DV5MB5/LGPYS9hBo3Wr3di5c=
+		X2Ckj0pVfsQ7Xw54ga19s0nSyTg=
 		</data>
 		<key>Frameworks/Flutter.framework/Headers/FlutterEngineGroup.h</key>
 		<data>
-		mT/+8HRgYH0zRGbDsH53rIW1Xlg=
+		nZcTgHGDD30QzPLlQfP8gP+S06o=
 		</data>
 		<key>Frameworks/Flutter.framework/Headers/FlutterHeadlessDartRunner.h</key>
 		<data>
@@ -254,11 +258,11 @@
 		</data>
 		<key>Frameworks/Flutter.framework/Headers/FlutterPlugin.h</key>
 		<data>
-		+fobtZzAsiVeUQCTJcgII0nydHs=
+		S/UeCZ6Y0yI99FfBwKgU9PS43Ew=
 		</data>
 		<key>Frameworks/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h</key>
 		<data>
-		K+zH/EWMTvLAMWxrQi5N0H8ITu0=
+		zAGEwFaURRrydTUwPCDUz7GJ6zM=
 		</data>
 		<key>Frameworks/Flutter.framework/Headers/FlutterTexture.h</key>
 		<data>
@@ -266,11 +270,11 @@
 		</data>
 		<key>Frameworks/Flutter.framework/Headers/FlutterViewController.h</key>
 		<data>
-		HnjrTJBnh6roH17ANtquMUKFNEE=
+		Q3r7sTHoNIBT8yAHHi1CJOHApog=
 		</data>
 		<key>Frameworks/Flutter.framework/Info.plist</key>
 		<data>
-		hcaWpwYuo3fU5o4Xjm5ETWwC09U=
+		VgBhro8/63X3x6HFxEBZQT4LP7g=
 		</data>
 		<key>Frameworks/Flutter.framework/Modules/module.modulemap</key>
 		<data>
@@ -278,27 +282,27 @@
 		</data>
 		<key>Frameworks/Flutter.framework/_CodeSignature/CodeResources</key>
 		<data>
-		BDL9IPoRN1mmnzGvtaC3vfHXzlU=
+		q+aLXxWxSnZEB41M+bc2Fe4M67I=
 		</data>
 		<key>Frameworks/Flutter.framework/icudtl.dat</key>
 		<data>
-		1QumeTTkdhWvmY7i40QoJewEapE=
+		5zcJ5BY+w7z+M0to6P+uUWPn04o=
 		</data>
 		<key>Frameworks/Stripe.framework/Info.plist</key>
 		<data>
-		iSemC3JNfMTZkiL92YJrd+qhMAs=
+		bZsizd4VFwD+PeGlADbB2pxRISo=
 		</data>
 		<key>Frameworks/Stripe.framework/Stripe</key>
 		<data>
-		mI19OQtv5NI49a+fiRjToxQssR4=
+		+jX41/3FQfHULNF6IkHtjWaf40w=
 		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/Info.plist</key>
 		<data>
-		qDNjgH7+9iAedY+RD/321CSqC1Y=
+		1HUpsys6kvR6nXkeLmtlEV5oeBI=
 		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		wopoVZxDejeLTeU2Ah7uvfixT0g=
+		HHollwfR7Ho15AANL8TTtstiBik=
 		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -306,15 +310,23 @@
 		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		elDR+js2dD+4fTDRvFkNLQvBH5Y=
+		4Y2QggUq75lBGnT6HEp3yJQdAEw=
 		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		K5xlpV/1Z4b4aJ2wGHjQ3BARC3U=
+		JWwPcW/laInU+K+gaTTPhNx+y5U=
 		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/_CodeSignature/CodeSignature</key>
 		<data>
 		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		</data>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/affirm_mark@3x.png</key>
+		<data>
+		V4GBEz8vi1c3rK50tqF0MoKQxo8=
+		</data>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/affirm_mark_dark@3x.png</key>
+		<data>
+		VwvCx1nlWKusH4C4eUWUf3aC14I=
 		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/afterpay_icon_info@3x.png</key>
 		<data>
@@ -340,6 +352,70 @@
 		<data>
 		1bTo7i6sVSY85whK/COW4EpBVzo=
 		</data>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/back_button@3x.png</key>
+		<data>
+		d+mJIvRzibaX8WltdY+KXSHYC0I=
+		</data>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/bank_icon_boa@3x.png</key>
+		<data>
+		bMShpFvkQd/qmEvrFyk2Xm3mcgg=
+		</data>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/bank_icon_capitalone@3x.png</key>
+		<data>
+		gzELzyZWb70GJp+uRiQ70kDB6lw=
+		</data>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/bank_icon_citibank@3x.png</key>
+		<data>
+		nUakpzvITlNz208OJjtLPwXNvNA=
+		</data>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/bank_icon_compass@3x.png</key>
+		<data>
+		L2yVdV9/GfWvHOR43O86xo3lwxQ=
+		</data>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/bank_icon_default@3x.png</key>
+		<data>
+		+hO9i4cPG9QdRmrTDmPKZ6b6H1E=
+		</data>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/bank_icon_morganchase@3x.png</key>
+		<data>
+		daa/GtynDNSzeUVYMweXcIeOWYc=
+		</data>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/bank_icon_nfcu@3x.png</key>
+		<data>
+		iCLb77mBCyDDgSQTl7mji5SIY90=
+		</data>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/bank_icon_pnc@3x.png</key>
+		<data>
+		3Q2A2+cnoZNDjJlzXLptHLgaGM0=
+		</data>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/bank_icon_stripe@3x.png</key>
+		<data>
+		aJN2V61BGjyOkeEoKxGGm2vXAIM=
+		</data>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/bank_icon_suntrust@3x.png</key>
+		<data>
+		b9NkIVSNT4ZC/KzcEYJLnhTs8gs=
+		</data>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/bank_icon_svb@3x.png</key>
+		<data>
+		cPFNmkCSY5oDTWXj0z8hJ7ihlTI=
+		</data>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/bank_icon_td@3x.png</key>
+		<data>
+		PaWq25SC5hyLkH1YYrYnCU+r+lM=
+		</data>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/bank_icon_usaa@3x.png</key>
+		<data>
+		I2Oqe7DT3u6P/Rqg3D+faeU4rv8=
+		</data>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/bank_icon_usbank@3x.png</key>
+		<data>
+		RnacFUQYAQcZDsOlqnf6/fVLjkI=
+		</data>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/bank_icon_wellsfargo@3x.png</key>
+		<data>
+		LjuWGtkaXym050zfIVxve/sA0wg=
+		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/bankofmelbourne@3x.png</key>
 		<data>
 		21KENzIsPUqxMDdkBldIE/uHzxI=
@@ -356,7 +432,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jEpG3yGn3hy01qfpQpMTe6w6MSs=
+			XB2ogRXYuGULeqVJguj08gAWWUI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -369,18 +445,14 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Xt/iHAH+ULATxfAOZ6XvBsAbviU=
+			jOvZ1dBHiW9oUGlIzdYfwb/ATXc=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/card_amex@3x.png</key>
 		<data>
-		9QesAHgRj/0LfIFFaViEvFB4TOE=
-		</data>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/card_amex_dark@3x.png</key>
-		<data>
-		+ez9GUkExnZ4Z6diT0gnTLeHI8Q=
+		IY3+G1dPyp7zeH8L20TbVPc9CA0=
 		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/card_cvc_amex_icon@3x.png</key>
 		<data>
@@ -390,6 +462,14 @@
 		<data>
 		HA8jOhaosABNEmv85UwV4vEFeOU=
 		</data>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/card_cvc_amex_updated_icon@3x.png</key>
+		<data>
+		xFlBRTJKYID/9Jgkhz2VPeAmtYY=
+		</data>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/card_cvc_amex_updated_icon_dark@3x.png</key>
+		<data>
+		UsUhgkWebqYkToHA0Dec1xEe3iA=
+		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/card_cvc_icon@3x.png</key>
 		<data>
 		YGRk31zy3/ASued70seyVzjDeDs=
@@ -398,53 +478,37 @@
 		<data>
 		ccQbr5MuLI2bxeYp3WbgqFXA27g=
 		</data>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/card_cvc_updated_icon@3x.png</key>
+		<data>
+		jh3L19gr8d6TTR/MJS8O4gx7vog=
+		</data>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/card_cvc_updated_icon_dark@3x.png</key>
+		<data>
+		wYvvNLiQ2YlOU58XwZmrJYlL1f0=
+		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/card_diners@3x.png</key>
 		<data>
-		tXUkwWcuVyOVWhBmEzo52lqd5qI=
-		</data>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/card_diners_dark@3x.png</key>
-		<data>
-		Im6LYL8Ify2Sh9yTDsHcLTPdTNc=
+		KC+dEeqgFRhLSUeIHqHLx3Yxmuc=
 		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/card_discover@3x.png</key>
 		<data>
-		H65Xu7NCBfW1ximYRCIwDmjpkT0=
-		</data>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/card_discover_dark@3x.png</key>
-		<data>
-		ZqAXCknsmX+t+s6k0TrtpFtbaJw=
+		94QsxgIpj/EEbJoocOinDDSi+mU=
 		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/card_jcb@3x.png</key>
 		<data>
-		eiN8rKHSXhnalR/R5GwM5oPAXqQ=
-		</data>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/card_jcb_dark@3x.png</key>
-		<data>
-		rK4HgpqUHAraWMxhPQqlHLWBgQ8=
+		JYq7U4TN+7WyCYFdoXAdg7m41sY=
 		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/card_mastercard@3x.png</key>
 		<data>
-		Su1OEqSDpwGTd7SpO5L/ULkIHZk=
-		</data>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/card_mastercard_dark@3x.png</key>
-		<data>
-		yh386SZ8ssuVgmeRHYeBge7EEdg=
+		2QI3QKEioON+JuxNt0SvJtiSDlw=
 		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/card_unionpay@3x.png</key>
 		<data>
-		pLf/5PLwozfRmlYV3HAtz6qW/4g=
-		</data>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/card_unionpay_dark@3x.png</key>
-		<data>
-		8BO+RM/ITqmKyISnYixsV1RHgFM=
+		IbB9WNHBqRjtaO8WCDvk5Ks7h88=
 		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/card_unknown@3x.png</key>
 		<data>
-		psQ/JUYu6EsnCf2XL2vm8HtE/Q8=
-		</data>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/card_unknown_dark@3x.png</key>
-		<data>
-		wjGcUnVeRiXa1OZQajUBBiU0cEw=
+		CkCbzmdyvTM2Rz3YcXqDa6CEnIM=
 		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/card_unknown_icon@3x.png</key>
 		<data>
@@ -454,13 +518,17 @@
 		<data>
 		W/tuhjSCwBNewa/i1Riw4m/Mpuo=
 		</data>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/card_unknown_updated_icon@3x.png</key>
+		<data>
+		XfigwJI7i8HEYDwF00s4wIN18yA=
+		</data>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/card_unknown_updated_icon_dark@3x.png</key>
+		<data>
+		peZGSXydgC9g3MXbpCDNw+ERgsw=
+		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/card_visa@3x.png</key>
 		<data>
-		go8bZVY3fOeDtu0J12WO79GoN/4=
-		</data>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/card_visa_dark@3x.png</key>
-		<data>
-		Wwz5iuACLKEKRMbjJYedixUUc18=
+		eK8MxXGYxBcUxjyW7AuTd7Yx5fY=
 		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/cba@3x.png</key>
 		<data>
@@ -478,7 +546,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			17+LDKWGQ3hGgCrXm2rAhAhSQns=
+			w36TrY02ffadsatXcVvJ4LcXqnk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -487,7 +555,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Z9T3nbYFhJGg12InMNqGtnCSFlg=
+			USETptM6XmBjSibx1YiWk8EVvkw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -496,7 +564,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			icyvFRIE+ghIYZZD7MeQ96jTqKY=
+			8o9Af6yORT/SlnvAwmBfFzmMpPg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -505,7 +573,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			94E7X16/DTk8otXLhJqH3pmkl9I=
+			03AWifBeSLwYbAyZLbzMM5DU8BQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -514,7 +582,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			q3yqpCAvYKLJZ/AKKM7Q9RX5tX0=
+			/RS2bGev9AVnR1bXE9uqnhGhh0o=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -523,7 +591,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wlimPlQZYUtf+A8i1VgQMcv8/OQ=
+			pKvt3ihW62zwEgiGoA8sl8BJ3A4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -532,7 +600,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Bj5CPpRxYsfhFYWAis2k6rx+T6A=
+			vkF0pMdZQv2MFoN490a8QXu3+iM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -541,7 +609,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			03jioT9SDLNNQAHlbp2e5288qY0=
+			AEfiOzSgYOxqeJTCG+I9ypCeCHE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -550,7 +618,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			vTeHK/DhStgzUpddQZlCKV31XHo=
+			yFhkMtKNm8YD+rtFzcBdeTl8QQA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -559,7 +627,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BGIr+V9tma/LgP5dRSGHOXcq0Wc=
+			ikqwnWJhNe8VoK2j5oue6Ax1VLU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -568,7 +636,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			rUZPsmuwDl23hEZyh4ZTzRAHesM=
+			t3QBQ5SOXcwiKvdtTMSR/61S2YU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -581,11 +649,15 @@
 		<data>
 		fBvafebB8oMuL90Rpqw5Kj3RyZY=
 		</data>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/form_specs.json</key>
+		<data>
+		WH5slsD6KDA/qJsFNWvN1zHZpXo=
+		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/fr-CA.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ys/6T28YcASYdCzIddbX8THK2cg=
+			Zg5mS8ZUmq5oAY2SazhvW+d0bP4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -594,7 +666,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PqWK1QhK96nOptClBDoKCw7D15s=
+			Mb8dl9CHvkTnl1jrjx2E4uEyi4Y=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -603,7 +675,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			SKm9p2wAG28m9FRlMgdKTnG1fjY=
+			KWmKYaRQKr6S5q6bHXSxVQiTA2s=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -612,26 +684,26 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UZmjeGspz1zGwKoB18oGV+ijVUE=
+			jyDpdqgJCQe1L/FuQMt+f7B7wEQ=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-affirm@3x.png</key>
+		<data>
+		ETzawdA19lhGVxSZ//2a73iyw4g=
+		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-afterpay@3x.png</key>
 		<data>
-		Q1+x6PCDDBY7dyklswZQkk2+Sq4=
+		mSr175qdgP8oVIAxJFznmOXxv2k=
 		</data>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-afterpay_dark@3x.png</key>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-aubecsdebit@3x.png</key>
 		<data>
-		l81QM4+7gEhP6Vn27BpeLl21hD8=
+		iOv8hEBI5Er7RbIsg8cOpBCQY0o=
 		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-bancontact@3x.png</key>
 		<data>
-		bz5KSkvQH4JiiddbaK/+TyhaAGw=
-		</data>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-bancontact_dark@3x.png</key>
-		<data>
-		9/NVE8XHwgsQmj4vpoBZRRSEPq0=
+		9v1G+Qls6qOj3sADUhHaeyvLvNg=
 		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-card@3x.png</key>
 		<data>
@@ -639,51 +711,43 @@
 		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-eps@3x.png</key>
 		<data>
-		aZVGJ4VD5vJBsERFbCktf8fdwGg=
-		</data>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-eps_dark@3x.png</key>
-		<data>
-		LhOg+5h/UGGu/iOGhiU8OwTxpCw=
+		R9wb/y5dhtFKSZ3uIvysVyWJUqM=
 		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-giropay@3x.png</key>
 		<data>
-		4CFjfZwlyYdBxUBVERV5/U4KTIQ=
-		</data>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-giropay_dark@3x.png</key>
-		<data>
-		Sb4f0FV1SOkzggo8A5s4/xP82pA=
+		GsDzijd/yM7lImRz9qyJe0CrYwQ=
 		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-ideal@3x.png</key>
 		<data>
-		47gNaqZ/tSSJeOkglAEOtmLmA4w=
+		ryJA005HmCKysU3SREs8znFv4LE=
 		</data>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-ideal_dark@3x.png</key>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-klarna@3x.png</key>
 		<data>
-		OB8kCj3GyXaFU8RsfhT20iTfTMo=
+		FwDgefIuiQDZvqJw6XCK5nvGKt0=
 		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-p24@3x.png</key>
 		<data>
-		zU+71q87DLoahLFHVYODuDAsBCM=
+		qROvuNMzrBLaYrCn2vcjGsm7cCk=
 		</data>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-p24_dark@3x.png</key>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-paypal@3x.png</key>
 		<data>
-		v5ALk3merh2seUt/oXzcZ07XGo8=
+		vqocd904xaX0RFiqyjMwpgnyzWg=
+		</data>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-paypal_dark@3x.png</key>
+		<data>
+		w8JVSsvDerGeCulaHvnGFyRmxFQ=
 		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-sepa@3x.png</key>
 		<data>
-		SoHRUAn5QdPXVwdyDY08/iMVluA=
+		iZJnY1+EtTzdxUpeo+Yc6DLfgIs=
 		</data>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-sepa_dark@3x.png</key>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/icon_add_bordered@3x.png</key>
 		<data>
-		shrlBRrPMii5aktbKPiPlk6Cqc0=
+		MYAo56DZ0+6QkQsprfW57EoFMB0=
 		</data>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-sofort@3x.png</key>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/icon_cancel@3x.png</key>
 		<data>
-		6y5xl2iQOvn38cQs4aQkcf+/yM8=
-		</data>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-sofort_dark@3x.png</key>
-		<data>
-		3bq3WfYLpBKqIpOQI3OH488a0mk=
+		1INlxYbwy5zTkEj3jeiSp7tnpf8=
 		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/icon_checkmark@3x.png</key>
 		<data>
@@ -693,9 +757,25 @@
 		<data>
 		b6q2kZm98i64zQkmVtl/5ieNroM=
 		</data>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/icon_chevron_left_standalone@3x.png</key>
+		<data>
+		bgerGNaGPrtWktHshqhd40f2FbE=
+		</data>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/icon_link_error@3x.png</key>
+		<data>
+		QqTAwrt21UGftDK7DwNW/D9+p0k=
+		</data>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/icon_link_success@3x.png</key>
+		<data>
+		nx0dTULERMX3t0ki8tMimIhkZlU=
+		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/icon_lock@3x.png</key>
 		<data>
-		LG2ZFsaKB1Z2I+7NUfY1BuXMWG0=
+		dqC3+h57yI9+1OZJXcRD3zCc/uM=
+		</data>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/icon_menu@3x.png</key>
+		<data>
+		ncTVfk8IdO5PZNvsmJA3ibTjo+c=
 		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/icon_plus@3x.png</key>
 		<data>
@@ -705,11 +785,15 @@
 		<data>
 		4DYTk8ccn4fmby0c8cQf0KhjVE8=
 		</data>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/icon_x_standalone@3x.png</key>
+		<data>
+		noYOPRiXvzuu9uMGJr1VcSaCNu8=
+		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/id.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			c6Cfy3YFZNd/4Pm671z8DMA9280=
+			QoMtYAdLtOsJpJll2tBqGS23jdM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -718,7 +802,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/lnl+e/7R2O4clfu9DAqMMBweww=
+			TLIA9vRjnF16Q0sYDo5F/0QpUJ8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -727,7 +811,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2BlCguDo2vsoDBCwCDRvDZFSops=
+			e08fuaQnKKsxGXq0ZkIZxI7Gliw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -736,16 +820,20 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			lWhEJAJEt0HOVZeaGsbcC5PaKX4=
+			JGgdVj1rNETftZSgm1O30/3sPgw=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/link_logo@3x.png</key>
+		<data>
+		UGPrqWYS5z0mF3zJdK/xTEVVkN4=
+		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/lt-LT.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wH9+5NMSiGRA3jAaEdVqCMzxxbA=
+			LPQzGbODC+INYdTxi9C0FvKNGjA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -754,7 +842,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uMxjmwmKhG+Q2P6tmq5PbDdqrds=
+			c4X/Vv/Aq2tZkIKS1B1zT3YCXpw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -763,7 +851,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			64nn6mMMGFVu8YgJAN6Bcv4xC4M=
+			OVG8IOkEplAMNz71PCI5zsssXDA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -772,7 +860,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			8qRSRqeepbwv2nD/teo8x42+rcI=
+			GKrIVjl+2R7q9IyyPu13Wj6ER9k=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -785,7 +873,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aaOvrcpVKyzOrqOpzO73BpntPbQ=
+			69iQLRTP4IEswETCpb1KT4QzBH0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -794,7 +882,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			HUZnvSxqm3n/WsA4EfRnT+vdgFI=
+			sSgHEU8Sq+TxsbvL3nmiwubN5gA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -803,7 +891,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ghSyeOjK93tqcMp9S6zmwP9+AYs=
+			ZSzl6fKoKgdtVyKZGZQ/R7NEQtI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -812,7 +900,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Hy8+wG8zXEMfAXe6zwLkL+gUzUI=
+			Z+/W7HAHdQvoH+elyx0uXnLHfSc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -821,7 +909,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			m1ZJLr0woQ/UqXAt3mPPGMukrpQ=
+			gZwtB2ZDeiBd4nrUkZ8I4ADrtIk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -830,7 +918,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			djeeJ7sLZ/0PW3M4CXJr2Mus2YI=
+			uj/7lXiAfRML0Kc7cLI1B+5ki1o=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -839,7 +927,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6/PCjy17XUtyl7t058mExXNYTXY=
+			pfINi9189smO5NJGgbpZN8fpmR8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -848,7 +936,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			4mUAFPJkiwdxWogb1fF9RJVjODU=
+			c5LxNCI0R2tmzaif+W5kkf9oaJc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -857,7 +945,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Nuc9e4F/RL4J+FjTE89c5ekUXRY=
+			rvbELhFf5zowgYkC/kqVIyyBT4w=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -866,7 +954,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			6jLtImXBYfqlu0mR1h0+IYTaCKs=
+			K3zY8rAwt3kUQDFhOAcZ/jUijPg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1071,10 +1159,6 @@
 		<data>
 		nmDDwoJPaMVz7b0hIOy008ZVKgU=
 		</data>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/stripe@3x.png</key>
-		<data>
-		fWyI/YqdqdgD4pNxeoeXicJ4JaI=
-		</data>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/suncorpmetway@3x.png</key>
 		<data>
 		mxCbIN2E94Ju5hzPXtfaBkK6HfA=
@@ -1083,7 +1167,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ApuspkEz0LB1P5xoFn8Zhf9ywHA=
+			rM0rHJSna2el2ldEL/64pC7l5iY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1101,7 +1185,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			d9Pi+a7kJhO6p29CpJtRo1hn77U=
+			e8ic1qr+PsYkgidAiJZmfSfebMk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1110,7 +1194,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UOloXZkIlwNA06eFxV9u7xvRD/w=
+			yTXVnsSBd2P0192zUxZmKzTKmIw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1123,7 +1207,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yqaiJdnZ8KKu6wyx7UzpzsKY6vI=
+			x2QcLcPG1fTyYIoN1GMMAhRQ7sc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1132,7 +1216,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			yS9Pk9g5xXYTpckmLdl/WQQa2Ao=
+			Vh4Z4i5tA5xDH0SW4U6X7P4VVbc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1141,7 +1225,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pkj0U5TMb+6Fo0bUr8ziwl6R/NA=
+			vsTn518XIIos8wcfBNIXzXj0ts8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1152,11 +1236,11 @@
 		</data>
 		<key>Frameworks/Stripe.framework/Stripe3DS2.bundle/Info.plist</key>
 		<data>
-		awsTSi4W+TfQD+qYd/rqDHks5S8=
+		Fm8Dp0G24Y7Qu8RCB61Cug//xHQ=
 		</data>
 		<key>Frameworks/Stripe.framework/Stripe3DS2.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		UyhY8wudeZnVQbIq8knn14nYOOM=
+		vuC7CKlqhZ7GJsKbYl4SDqPIiPA=
 		</data>
 		<key>Frameworks/Stripe.framework/Stripe3DS2.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -1164,7 +1248,7 @@
 		</data>
 		<key>Frameworks/Stripe.framework/Stripe3DS2.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		lGQPVymt87P0RiOqDyxMIuBa8E0=
+		E/JI7qk7ZP0bi9h2sPNm6c3zytM=
 		</data>
 		<key>Frameworks/Stripe.framework/Stripe3DS2.bundle/_CodeSignature/CodeResources</key>
 		<data>
@@ -1582,23 +1666,35 @@
 		</dict>
 		<key>Frameworks/Stripe.framework/_CodeSignature/CodeResources</key>
 		<data>
-		bUSJY7b/+IL9sx5Pf8iXmG9UddA=
+		q1SSLrZ+Co6iL0j16e8kwKzYIJU=
+		</data>
+		<key>Frameworks/StripeApplePay.framework/Info.plist</key>
+		<data>
+		WupscCR8HuXVFKBOzVI3AP+KY/Y=
+		</data>
+		<key>Frameworks/StripeApplePay.framework/StripeApplePay</key>
+		<data>
+		8w4wmS+xC9G1r8iSTTBWHWFnNhI=
+		</data>
+		<key>Frameworks/StripeApplePay.framework/_CodeSignature/CodeResources</key>
+		<data>
+		zhUS98GesqhIPOD/4p45RNuikNM=
 		</data>
 		<key>Frameworks/StripeCore.framework/Info.plist</key>
 		<data>
-		vu3cdsDF3GsljmDSxI2QIwVYmEI=
+		UbGFupcpcRJ/rTWGTFDYAu/vXFM=
 		</data>
 		<key>Frameworks/StripeCore.framework/StripeCore</key>
 		<data>
-		U080dxlZP3rV9AWSWlHlBBy29n8=
+		kIQn6s0SzQHQ70AhSx6JfgQkM/w=
 		</data>
 		<key>Frameworks/StripeCore.framework/StripeCore.bundle/Info.plist</key>
 		<data>
-		37/lrRBw+Ur0O5ZpBvy2ic/Um9E=
+		xDjHztHYiuJFQxQiubDY3Ot6mBg=
 		</data>
 		<key>Frameworks/StripeCore.framework/StripeCore.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		FIq8wgJUxqlahIjpuUFnk6oS0Bw=
+		4C+k88bQhNJgvJZzNrDx2L5H+2Y=
 		</data>
 		<key>Frameworks/StripeCore.framework/StripeCore.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -1606,11 +1702,11 @@
 		</data>
 		<key>Frameworks/StripeCore.framework/StripeCore.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		++ZnPZPWxDLn0xXc5aq5ByPMBnk=
+		I7w2nw+rD31CbGBbQqcM9nPTnII=
 		</data>
 		<key>Frameworks/StripeCore.framework/StripeCore.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		/VT3sQg9c42GVVNTz/9Gy5PQDGE=
+		5H6m3YpBrC+kOfWUD3bZFwkIezU=
 		</data>
 		<key>Frameworks/StripeCore.framework/StripeCore.bundle/_CodeSignature/CodeSignature</key>
 		<data>
@@ -1620,7 +1716,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UJnXAxaWFfxMZ/w8DWZsfApmT7I=
+			D8/ApZp56HHiJyBH1LGPaNqfohY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1629,7 +1725,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			WckxqWw+BKLrDIKhNIlkXOHKbGE=
+			+AZ6nTWWfLs0CP+bMzvoFnb0KVw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1638,7 +1734,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			flEFWcSh1FOFfgB2b518ldBi7GI=
+			BFL+2hXKv7JmrCiLud40444bg2U=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1647,7 +1743,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			QwQE+i9TTKQWJhGHqih15U+x4A4=
+			jmug4VAyz05bF5QF9ev0tfZt5KM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1656,7 +1752,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			iT01iRgCA7H9OPJklILhyzan4lk=
+			cFInStd2Ss8bUp2Vl+Y/JpVi3bg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1665,7 +1761,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			68W/jhrUaN2VifS8E8M79XNhN8Q=
+			h/8EBAUs2a4kcHqkSJwcXHu46Nk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1674,7 +1770,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mDZoiayy8FchwFrRZpaQLRxsR58=
+			6mbHf4z3nQuo8lXaTZCU044e6UI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1683,7 +1779,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/mj4cbW/AwhkEQbCdc5B9XM6mU0=
+			dZSsbcn9LHK4d29VlxjTQalveVU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1692,7 +1788,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aK6HgSbSSRCuYJuJN9KlhcCrzfk=
+			p03M0POLqwABoRjMKmjnI/jW0B8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1701,7 +1797,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5NL41TPhzuNmr8jmyA8MAHuih1A=
+			jn55TecN0aZG/dVxk99CnkSPZY8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1710,7 +1806,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ZeU44d8yyO5Ze7hs9VMhsNfGW8M=
+			aOefUmb1v3e8lsa5GCGoEUsdbVg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1719,7 +1815,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2uvY1Y0XTSAthGVMpbQGY11noGA=
+			9ob1zgeZuvh6UN75ILcRsOfmgZg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1728,7 +1824,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			idsI+A1wMgdW8EYjqZRfoyG4i4Q=
+			sjFCTiaIY9znQBUGDpfULFsfVWM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1737,7 +1833,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aWuA/zVIhlFldZSolB7T6gSGQTo=
+			91dt/xw0/h2Z+8uOpt+tEeACJrE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1746,7 +1842,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			7b/CAZTiglBSlroCEeq6P6hfejQ=
+			TQMc922rFyVCNg8bnZ+KjClgJZ0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1755,7 +1851,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9sLlx26MOVq5aYg/QH7GgQW4UBQ=
+			XhOmBEAhPbTTi2kdODYHczyPAjU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1764,7 +1860,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			qqEjPGMHgRCrKeY9u4/tSQ4k81c=
+			/84Y2sTScSHPy6QlWoZJjRqPqJU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1773,7 +1869,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			aHwsB/7ayQ57oL2dtJRdrJFyQVI=
+			1XMefHMHNHvqpVcV9LVmdVd0vEo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1782,7 +1878,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gwPVRRcP73aDLNHzSisNN5ivhOU=
+			3h676lKYlGtgjKz2QP+3LLKXjxA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1791,7 +1887,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			UsHJqPEKR3rYJEWN8PCGoWH1PjE=
+			lzfn3CWZlAVuMniq3HZcbLAZz0g=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1800,7 +1896,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5baqtL6SV+AO5MW/vosu3ctjr1Q=
+			ZnPvM5NdyOQ9pzkskGfOgYr2Nnk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1809,7 +1905,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ieGdAEVthpx/zBs0ZBL84AdEA7Y=
+			KN2g2+gCNAT8ra9YKMnm8XpD/Rk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1818,7 +1914,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			5yVWgey9SbjDkqFMEpM99XRPSM8=
+			Ff13EXB9Qx1P0oSpK3EnnKXC7dc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1827,7 +1923,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			dGkC3aIlsw0v3myUMHW+TGrQuWE=
+			g/1R3kURfmXmAfl0jB2y13fWTco=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1836,7 +1932,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			mkR7z/otW/MbuaVg50Pc+j9wTvM=
+			f0TecvrEMB3+ysNNWWfG2/ItVKQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1845,7 +1941,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jF58hgwNvmrmUcupWTJFCyDZZX4=
+			A0NqAqtER9poZkWyJJTzCHdTGWk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1854,7 +1950,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			i78M2FSKmDm95rN6aFZm+wsfwUk=
+			r6/LEMzPiPrLP1QiSUuWylVUn+A=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1863,7 +1959,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gZ/lkeL2ntntbrUeVv7UGD3w5LY=
+			N255zcFoHKi1g6eOBoj5YhQOWEY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1872,7 +1968,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pyDRd+y+MLmfUwK3Pz3SdGISouA=
+			RO66mZxQbuyHd92S/4ZJKFpwpWg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1881,7 +1977,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TDG9WqxslV/G0/WsuFbMlQtRbPw=
+			0dI9wwKrvV28zAMkgvg0ZgtIH74=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1890,7 +1986,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			+ldJAmG7SIHara10zV2uNnSzGig=
+			9xp69q6PVODT80UFDh5FVPPmHk0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1899,7 +1995,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			wTVTzJl9F58jjnxyXuKM1Q7F7gM=
+			cFF//C/xSnxB5y2fErgScY9/zt8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1908,7 +2004,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TFZQFisbpBWc3g6b/HcwqHxmULg=
+			WhBweaF/XmZ4h5bq4HOyPePeSpQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1917,7 +2013,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0rkILjGhBlrTYJyGF1SOGrhM+rY=
+			SDWKjrAI/cxF36zDzIrokP3wgAU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1926,7 +2022,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MM9Sj6uqH5G9T8w1e2GOz6jsgnY=
+			5/R8QVBlzICw3xlIjJtdO3/Vp74=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1935,7 +2031,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			u9EqhQuad5GsIOTnbVDbLl/a0ro=
+			3PWMZxZHSKralVwJGFvH7pGnNZo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1953,7 +2049,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			R7QlWlfKXBAGpl654jiymoif6Wg=
+			EAXGc5gH0bNtesCdEJ8Ka9iRpAo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1962,7 +2058,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0bq4/yoU5w1uXKTLxdFZ+tpDyOQ=
+			Dp5l3sT7JLPHbTLkrxLsObx37n8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1971,7 +2067,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			jtp4J7uMMOiFD1IbyYwMySe97Zk=
+			UwsPFEkAzoMHZbm/Ny8nBD3q+Kg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1980,7 +2076,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MiQ7fYqtkVWMic7lLqMpnX6CQQg=
+			a7hpC6t660fefB+OG2z4v1/dJyo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -1989,30 +2085,452 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GtmYd/w4RKFqA3JZQAFOpjt3kEY=
+			GXzKb2XlUZlX8ihN3idfmipORcA=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>Frameworks/StripeCore.framework/_CodeSignature/CodeResources</key>
 		<data>
-		hdHd82Yee74+MfXUCkSC1ZOzIJ0=
+		2LLwawhPhP9p/M/3nf2+F0gKo8s=
+		</data>
+		<key>Frameworks/StripeFinancialConnections.framework/Info.plist</key>
+		<data>
+		hDlQj6EDLzeCblIItzv4shCDfcY=
+		</data>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections</key>
+		<data>
+		fw9fqfFOzQRvZyY5qr+2ANIcm5w=
+		</data>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/Info.plist</key>
+		<data>
+		pFR3s/YowdhdR/jiCRl6VTH/0rM=
+		</data>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/_CodeSignature/CodeDirectory</key>
+		<data>
+		1VBeR57+zZ1zETmUNZ8szjBxdLI=
+		</data>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/_CodeSignature/CodeRequirements</key>
+		<data>
+		OnX22wWFKRSOFN1+obRynMCeyXM=
+		</data>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/_CodeSignature/CodeRequirements-1</key>
+		<data>
+		Nu/nGZYIy3t51mJSb4/1VVUE6e0=
+		</data>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/_CodeSignature/CodeResources</key>
+		<data>
+		LdIJbLsLNqL9wbcI8OCxY7Yu6oE=
+		</data>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/_CodeSignature/CodeSignature</key>
+		<data>
+		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
+		</data>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/back_arrow@3x.png</key>
+		<data>
+		DcHDHFo84SQTsQbEAdZKOcBXQXk=
+		</data>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/bg-BG.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			i5mMuvtQUmZrtOqUAaSQfbYs9TA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/ca-ES.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			11315j4LKQq38rvSHxOlSk14bmA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/close@3x.png</key>
+		<data>
+		xnQUP4lehFCh0GulXCtsOoL/G7c=
+		</data>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/cs-CZ.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			8rhXWPLjJv9VY3KBF2wIYPaS/TE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/da.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0DtnffYpqKiIWK0UzuEQIRSud+M=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/de.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3zwHFSbvEUnYSF4Cg4yyv97n/LU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/el-GR.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			DiGzY/WNHuoIZk2Lkllc2gc+KXk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/en-GB.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZotR2hQUXPSFMhqTa34sAojtN/s=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			ZotR2hQUXPSFMhqTa34sAojtN/s=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/es-419.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MKx/KsAyeWV9ox7u3iqA7btouoc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/es.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			MKx/KsAyeWV9ox7u3iqA7btouoc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/et-EE.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			EGtP58EeYDL1mST9MSFE8yKNQFs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/fi.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			BqKDfQ8eiQKVGB37ZStDhmd9WEE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/fil.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			R025VAXC8FIkruRwM1grbcBnNZ0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/fr-CA.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/718cgOhERjIU0ERLRcRnCVAJ3I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/fr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/718cgOhERjIU0ERLRcRnCVAJ3I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/hr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			AKKjZlouWrufFRrMQDoh4b4DmUo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/hu.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			pudgyw6XiM7uUNdPh67mMCMaUS4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/id.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			nHJ6bnn/AyhnKh3M/lpyyFI7pjU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/it.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			lNdzyhJJk4c4lCR5eFp8kTxEyyU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/ja.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0ZB5G6WpIlwGjW6WfluD8pVRsBE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/ko.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			TXGZJpBJOfTscf9LFfALxJMH0J0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/lt-LT.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CQh7cbc/GMlbUwJsKwTVORU0MO8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/lv-LV.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0OH2Dhav2p4dHjhf6p8ekVnseek=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/ms-MY.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			OqXHD9pf1DWpX69IBF0HzYyhKyo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/mt.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			gud/u6ezNm7ypPDJlzMF9UZyXaw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/nb.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			uTUKHYN6UNVcFKKGvMV5Ediega4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/nl.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9QoUyjlv7HofZ114IbqdwHDK0DQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/nn-NO.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			fWFAI2ObBkwDhmxBpg2RPwCCOrg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/pl-PL.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			4A1yd1zP7DAXGO0MWY3Oz4ao7so=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/pt-BR.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			e4q2WloEmLAuSUsyVHVGbzypyjE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/pt-PT.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3BuZwAvfZhnQK+jKI3Z+0RwFTDI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/ro-RO.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			x1ZRcl07HmwCZFISq/TEXNxJK84=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/ru.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			RrVk8oF4I7jVlIcK42tDTzwU3v4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/sk-SK.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			yG19x0JaZRZ+scuOs8MUAntAHF0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/sl-SI.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9vLxMwILe0r0SDR06mvcKmO0uoU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/sv.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			72U1Cedd/YM1tUUqB+ClRhAkDk8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/tk.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rcg7GeeTSRscbqD9i0bNnzLlkvw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/tr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			0hsH/5jctkzJQuUaUOpY59LIUck=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/vi.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			WmQfVf9h3ht/MUeuNyJujCMej1Y=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/zh-HK.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PBQN66PTM+HlH0BROcLlUgIoURg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/zh-Hans.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			CAo0tSgI6l9faEuqCDTkS5z7ep0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/zh-Hant.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			PBQN66PTM+HlH0BROcLlUgIoURg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/_CodeSignature/CodeResources</key>
+		<data>
+		yYxFjOEBXngC4ZnMWXYkTlQHjTg=
 		</data>
 		<key>Frameworks/StripeUICore.framework/Info.plist</key>
 		<data>
-		h3l5tAMJdoA3DIq4XDS1+pWMjAw=
+		fmudFXnu2t+9PEcoLJVKnIHVj0A=
 		</data>
 		<key>Frameworks/StripeUICore.framework/StripeUICore</key>
 		<data>
-		XGXl2PRLD5aBcIxqYeD2nYpCMhU=
+		u2GEWjFNY0Roi28AmCWR9E46DUY=
 		</data>
 		<key>Frameworks/StripeUICore.framework/StripeUICore.bundle/Info.plist</key>
 		<data>
-		ASy8raMIGTKmLLpisV5zq2fjJaI=
+		Rp48R0hVZeVVQEUZ6bMs7bTXD+o=
 		</data>
 		<key>Frameworks/StripeUICore.framework/StripeUICore.bundle/_CodeSignature/CodeDirectory</key>
 		<data>
-		H/ZXnz+BHtdh18nLhtshqOSGxxc=
+		fuxeURzRku8kk5rwuFKoCXeyzk0=
 		</data>
 		<key>Frameworks/StripeUICore.framework/StripeUICore.bundle/_CodeSignature/CodeRequirements</key>
 		<data>
@@ -2020,30 +2538,38 @@
 		</data>
 		<key>Frameworks/StripeUICore.framework/StripeUICore.bundle/_CodeSignature/CodeRequirements-1</key>
 		<data>
-		bAvk3SqvK6PGR1u1ybs/2YLAk2Y=
+		KDs4e18MmlihvmJ8URyz4EgjFnQ=
 		</data>
 		<key>Frameworks/StripeUICore.framework/StripeUICore.bundle/_CodeSignature/CodeResources</key>
 		<data>
-		+ExIDbvSqm//qrHrHOlLC9VMvgo=
+		iRuSxKRcP4qLupXGrPobl6WqzjQ=
 		</data>
 		<key>Frameworks/StripeUICore.framework/StripeUICore.bundle/_CodeSignature/CodeSignature</key>
 		<data>
 		2jmj7l5rSw0yVb/vlWAYkK/YBwk=
 		</data>
+		<key>Frameworks/StripeUICore.framework/StripeUICore.bundle/au_becs_bsb.json</key>
+		<data>
+		yEwltBJubtFnHH2tjp1tIZLap/E=
+		</data>
 		<key>Frameworks/StripeUICore.framework/StripeUICore.bundle/bg-BG.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			NTLdqteqK2OydL9k1qHuzkyRZYc=
+			6eWTFrRM5Gmgxp2ACSp19vlH4Ig=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Frameworks/StripeUICore.framework/StripeUICore.bundle/brand_stripe@3x.png</key>
+		<data>
+		fWyI/YqdqdgD4pNxeoeXicJ4JaI=
+		</data>
 		<key>Frameworks/StripeUICore.framework/StripeUICore.bundle/ca-ES.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			wcryUUoABE4x/enewFcMUBS0gHA=
+			IUs8hf5UOuDaw2dYGvq4MbsiViA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2052,7 +2578,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ekUfuSY0LTF6oZrHdehUatCSjvc=
+			udZOjl7rf7hKp9TK3in3PPOskoU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2061,7 +2587,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			GMrzUG+fFLWk7vgEFtVvQFsek5E=
+			TFUYYhptpfvkax9MymEve/+iy2A=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2070,7 +2596,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			V92LefxlLR00mNeWA5e23l/te/0=
+			trKowRk2U2YfiazP3qbhRTfhQFs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2079,7 +2605,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KPX9bM+w4bHdXEaLDToL1KzPihw=
+			/a1TsV8c6ET04byVIPlwW+FROzQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2088,7 +2614,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			pQQaiVmJz5oMLf9bMv5s64mvGSU=
+			tAWNoZ45y+ZPMPiWk7Azk3Lqggw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2097,7 +2623,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			tw5FOqg7KHT27TwHQqNjvJhCJ5I=
+			xLhrU8ECcuTqqYagK2X9bE/IjtQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2106,7 +2632,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			gCUqkk9h9jKKP/Mp1CvCzXWRmUw=
+			y+OoSqOvL/WT0V2IDjMRgMsB6uE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2115,7 +2641,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			bVSehgbQvhCTN/G7Cdj4wItCkRI=
+			822fHJFq08DLb/mUzB41btCjkxM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2124,7 +2650,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			MRQDBH2HJ0HIjBObGCG+onKCmns=
+			ue7bIu24rTfmr6183e1Hpz6FaE4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2133,7 +2659,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			g+5/vYPWxiVxFNNYSbEUuR/yYOA=
+			f/+YAE9fx/02MmQbVwhXiatgjXA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2142,16 +2668,20 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			2OFiEzZtxl1rH0hi60HPLxLqwOU=
+			UhFFvUsCFM3uw+FqzLOF5m2QBnA=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>Frameworks/StripeUICore.framework/StripeUICore.bundle/form_error_icon@3x.png</key>
+		<data>
+		B5g/ZVq+4CyYjs5+g5nZ4fNfRS4=
+		</data>
 		<key>Frameworks/StripeUICore.framework/StripeUICore.bundle/fr-CA.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			iNhH0eoN9soE2NOZ3lpQWRwNu/U=
+			1M4dWofQOgvs0uYm/tYL4OFbIEE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2160,7 +2690,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			fF/ss+zchg2JU+auv1uFBtpBQYs=
+			WOtz18obLFiuhXTR9hZd8Y2Q9v4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2169,7 +2699,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Pdj2OjrcOLGvyTBOQqIzwSbI/Zk=
+			dGom6xosBbnVMsPtp5o2eoIVhMo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2178,7 +2708,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			CYGmrkcI5Gl53UDbtW3/1/hIjWE=
+			u6SKggxf3hE7RPla6gPuB2jqfZA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2191,7 +2721,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Zi4UlOphkztH3o10u1HTEeAgCjM=
+			KlXlPbdqBFa+bxOPqwyMl5yrMOw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2200,7 +2730,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			uFmb22VN7ANiff41M9hzdPYQIi4=
+			pzSeixR+OZM3KTdp3a6XMBeFjjc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2209,7 +2739,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			TuKKxVUEpw64QvAgeVN6uo2PNfg=
+			XdoGjxVtjVD7Lskuc1t8MccE/bc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2218,20 +2748,20 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FJzM28wgGkuXyD7fIgBBPD5FYN4=
+			PmXbE+rYLtBUiBoxVyKOU8e7oGY=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>Frameworks/StripeUICore.framework/StripeUICore.bundle/localized_address_data.json</key>
 		<data>
-		ZtkcSE8gRFd0gGcyCoU8JBC6cLc=
+		gGa97mjIoWW3C3OV5esjYZsL60k=
 		</data>
 		<key>Frameworks/StripeUICore.framework/StripeUICore.bundle/lt-LT.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			V/7KMlRDP2ZWzIYFPX9GnXnt1GE=
+			DrSwfeBUTf6hvudEDXVIZT8Gn0E=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2240,7 +2770,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			cfC4nPJ/VsH/QspC1vTpFJSUVbA=
+			D+zXchlBp1HhWCyMoW+b0qujPzE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2249,7 +2779,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			AnhHorQtivwOUpy3MNYeY6+Tdnw=
+			qtwl+MQDCjGKPvYpReiwZK6Ckck=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2258,7 +2788,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			D8mR3WXjGE25neSXml7uBpV/+M8=
+			J02+u9pVk+Vt1o2IXzqZ9IVfqUg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2267,7 +2797,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			n2bH5KIhKjcQ1ObmLVu+hfuQb/I=
+			9kgs17tU32CzdLh1OMKkmgHW1vs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2276,7 +2806,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			PpikV7VLZkiQzzpHb7hpn7o5tJU=
+			RH/AIndfgL6RHwMvqIy+CbLWy5Y=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2285,7 +2815,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			nJecGxQ0ZZZfT5V0UE40c3YASXI=
+			uhjrdtPS7t6GmchUCDqH5l6ksHo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2294,7 +2824,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DEkv8Z77V2zq1+y6cxz6ZVDoUWI=
+			95wL4DhUvCQmCaVpXqrIJXRHOmA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2303,7 +2833,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/BCiGKB6IfV9JYlS4xphYdzZcuE=
+			jzcGvBkvBKArVK0kw+Q61Z4iit8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2312,7 +2842,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			s9xm+uDWpiU9l0xH303v13iBAiA=
+			lZILn1z2a3nvKmoF2A+l7xTaz3w=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2321,7 +2851,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ekk+rz0Dvf4XyHWGNYvdzez4Bg4=
+			p7qSXVQVX2eadbKdtaQscnE+kzc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2330,7 +2860,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			ho0qx+lwk7MGGl3WwbeGvyebHIo=
+			8nussxBuhaQC1lwsTJmO1y/NYKM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2339,7 +2869,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			0YOrlwnzW0++0V16g5Wglo++XyA=
+			3AGOBBctXo3cK/OK5w8ZuxAuqJ0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2348,7 +2878,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Q1DBq18x+HFQhinq/3nKsaGUjb0=
+			HMv/qGP99jJY8DncB6gF8iX2XoE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2357,7 +2887,16 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			FGkiLO5TW2vpKp2R5mevOp5WWF4=
+			LwzE/Q8SK0KzNdA7eoC2wKMkhos=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeUICore.framework/StripeUICore.bundle/tk.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			rcg7GeeTSRscbqD9i0bNnzLlkvw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2366,7 +2905,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			BMqIvYQuLjEmzASOOLvCrMFAQOE=
+			I7BfXTT5vQP1F5y+/weI80Cxh6s=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2375,7 +2914,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DMYfu9+0co1Tx+8yfSBzogKkGzg=
+			DgobDSfm8FDBi1j2tkQ6YBclALo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2384,7 +2923,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Zj0gknCQ8GIWVvbBvff1t4P7yHg=
+			bhJAkGvx+CcaEqt0AleKqaqkPmA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2393,7 +2932,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			KfuC2NF9TI5tZHJgbI1lmaA6yfI=
+			ErjtM8nrmjeiZ03KilxHUktzgfg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -2402,150 +2941,186 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			P5JtAZgj52kjmX0cKbUGFnXIslI=
+			RrW4fGay3tWNg4IfyaXkyU12XCk=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
 		<key>Frameworks/StripeUICore.framework/_CodeSignature/CodeResources</key>
 		<data>
-		m1m2O7qjGbkk+6V9VOfdTvMDqMM=
+		HieAJbBlrf8kiMCo+R5kaYxTRoo=
 		</data>
-		<key>Frameworks/device_info.framework/Info.plist</key>
+		<key>Frameworks/audio_session.framework/Info.plist</key>
 		<data>
-		yQULy36mf8BkBMShGgdhylfplgQ=
+		6KNV1ejEFvuUlIwr6GCqN9t9MH8=
 		</data>
-		<key>Frameworks/device_info.framework/_CodeSignature/CodeResources</key>
+		<key>Frameworks/audio_session.framework/_CodeSignature/CodeResources</key>
 		<data>
-		P4CG04HPWHCtK9Gb4AlV7B2B+8k=
+		GylAQOzUBYSegUzueQ6Vh6DAR+0=
 		</data>
-		<key>Frameworks/device_info.framework/device_info</key>
+		<key>Frameworks/audio_session.framework/audio_session</key>
 		<data>
-		WJNDkqOgwDvJ3/MEqQ5+/iNK9JI=
+		lsNQ6MM3H62pjZWH3ZXpRjor24E=
+		</data>
+		<key>Frameworks/device_info_plus.framework/Info.plist</key>
+		<data>
+		lowmRRBpwKx8xO7TkYoRDmtn1+E=
+		</data>
+		<key>Frameworks/device_info_plus.framework/_CodeSignature/CodeResources</key>
+		<data>
+		uJdsfqDrVdBg0OTWIkiAMEHL/e4=
+		</data>
+		<key>Frameworks/device_info_plus.framework/device_info_plus</key>
+		<data>
+		zuctAt+naGOK7hb/8dztimS7nwQ=
 		</data>
 		<key>Frameworks/flutter_secure_storage.framework/Info.plist</key>
 		<data>
-		QM1OYDAqtQYsl8fskzg7tRGYitI=
+		L6Sjh4n/B7M6iRh07cVTkUdwOD0=
 		</data>
 		<key>Frameworks/flutter_secure_storage.framework/_CodeSignature/CodeResources</key>
 		<data>
-		/nk1FFXmgOURigb1K5rexgZorTA=
+		V1/CCrscdcLtsQGOr/IbUHSRUfg=
 		</data>
 		<key>Frameworks/flutter_secure_storage.framework/flutter_secure_storage</key>
 		<data>
-		d3hjFYksOnlzTlskYJcC6/0gbYU=
+		IqEn0phIE1rI41jiMe7o7vjuwK8=
 		</data>
 		<key>Frameworks/flutter_web_browser.framework/Info.plist</key>
 		<data>
-		XBEpOOZJAg/hVHGEjgb4VAamZns=
+		weF5okWio8FU8wMqq7EOPo/DGOQ=
 		</data>
 		<key>Frameworks/flutter_web_browser.framework/_CodeSignature/CodeResources</key>
 		<data>
-		Wgh1t6h8/RKm0VfW7i8ZiimiwQU=
+		VfGMrDD6k1QzlBY9OVA2xbpFkRY=
 		</data>
 		<key>Frameworks/flutter_web_browser.framework/flutter_web_browser</key>
 		<data>
-		3bcBNTUc8VvRe7UkBYLFo4v45Zk=
+		/4q4tBi792TgvZeaK8SG8LrY5mI=
 		</data>
-		<key>Frameworks/hexcolor.framework/Info.plist</key>
+		<key>Frameworks/just_audio.framework/Info.plist</key>
 		<data>
-		p4Q3kP/yysHkoyWg0GoWtPTSs7o=
+		aJAilVGXoKxwjxkjnr9xIbVa3FI=
 		</data>
-		<key>Frameworks/hexcolor.framework/_CodeSignature/CodeResources</key>
+		<key>Frameworks/just_audio.framework/_CodeSignature/CodeResources</key>
 		<data>
-		gSuNvfl5kMH2FIu5zWGUUFfTuy0=
+		qG1IZ0lpOZnseReiQyi9dTH/KEY=
 		</data>
-		<key>Frameworks/hexcolor.framework/hexcolor</key>
+		<key>Frameworks/just_audio.framework/just_audio</key>
 		<data>
-		f/K9dfNgyq28QvHg29vfUqxyAxc=
+		nBqomHvfEQdY2F39zQez7bQcjYY=
 		</data>
 		<key>Frameworks/package_info.framework/Info.plist</key>
 		<data>
-		0rwoF3nUwC4LVPQil1GdsweWTFQ=
+		riDX2td3dFWVcnvNIAkdJeepr9g=
 		</data>
 		<key>Frameworks/package_info.framework/_CodeSignature/CodeResources</key>
 		<data>
-		0OMJ61v03Jb8iBrDJvKRdND0Kc4=
+		pVLvv61l/nDGURU+0o5RZGFHdjo=
 		</data>
 		<key>Frameworks/package_info.framework/package_info</key>
 		<data>
-		JyCP1I0pzl3BA7ubDY4ec/JMaBY=
+		m3GDgrrA1lcwjfxzMRJxts9wnbY=
 		</data>
-		<key>Frameworks/path_provider.framework/Info.plist</key>
+		<key>Frameworks/path_provider_ios.framework/Info.plist</key>
 		<data>
-		PNtWPJb6uvWjSAG/rsvjg0FBd7Q=
+		w5FyDyFsRrZnUFnRZwcRcFlpXtU=
 		</data>
-		<key>Frameworks/path_provider.framework/_CodeSignature/CodeResources</key>
+		<key>Frameworks/path_provider_ios.framework/_CodeSignature/CodeResources</key>
 		<data>
-		JuyLt7G31SZGQAiV+JHJxs91dV4=
+		QXIRaq2tggRJG5e80KAYyx6JVzg=
 		</data>
-		<key>Frameworks/path_provider.framework/path_provider</key>
+		<key>Frameworks/path_provider_ios.framework/path_provider_ios</key>
 		<data>
-		tvO9mPGQxijwuuUMQjQTmNZvAsI=
+		MNEu+V99Rkim40thhQ1jndVL4g0=
 		</data>
 		<key>Frameworks/shared_preferences_ios.framework/Info.plist</key>
 		<data>
-		0g3FcdoMWDWQ5gdmNqYzl3/+FQc=
+		0likQo/HZ230/N6tL9rpMooHgPk=
 		</data>
 		<key>Frameworks/shared_preferences_ios.framework/_CodeSignature/CodeResources</key>
 		<data>
-		4HpzWsHu8zFWhVeBpaPRRfigh2c=
+		UQ1M5duIQNPCXvRavXmEZvlZvgM=
 		</data>
 		<key>Frameworks/shared_preferences_ios.framework/shared_preferences_ios</key>
 		<data>
-		ZlLySwCX5tHWOlvKBikwvQhuepI=
+		VVHyxMKOdCNO3CNME8HjCqysYuA=
 		</data>
 		<key>Frameworks/sqflite.framework/Info.plist</key>
 		<data>
-		rE5djJ+CW2WDadbdecNtT0Qgdbs=
+		RuzWB7rDti6K/HwpYRvyKJPzjtI=
 		</data>
 		<key>Frameworks/sqflite.framework/_CodeSignature/CodeResources</key>
 		<data>
-		dRruBs0ETkIT/L4opwwOPLJEyKI=
+		YV6WcqTtipC3H98K5n++DK3j3Ok=
 		</data>
 		<key>Frameworks/sqflite.framework/sqflite</key>
 		<data>
-		7gsOngq/PtH9+WXJt8gmn4yzBLc=
+		zaUjY6TcyqSYnKbmwinfGZCLoec=
 		</data>
 		<key>Frameworks/stripe_ios.framework/Info.plist</key>
 		<data>
-		gY3vOanpraZIWodt0ln7fnCqJI0=
+		xarImtXz/EPI3KBcuw8TuQ9Cy78=
 		</data>
 		<key>Frameworks/stripe_ios.framework/_CodeSignature/CodeResources</key>
 		<data>
-		rwDntbn7Q9qLFbXS7VpE8h2c6fE=
+		AnX6JK7SR1EhpYIRPtPPgLaW/XA=
 		</data>
 		<key>Frameworks/stripe_ios.framework/stripe_ios</key>
 		<data>
-		sUgK2PE1iY5me8wui/WWWM60U8k=
+		Oh12vzB/5ShgDV34N+JmumkqEwU=
 		</data>
 		<key>Frameworks/url_launcher_ios.framework/Info.plist</key>
 		<data>
-		sMouAGtK6+oDSqV66dDUCXWcAPA=
+		9yJ4hgiqbrCbxl3he+jmzoyoRnk=
 		</data>
 		<key>Frameworks/url_launcher_ios.framework/_CodeSignature/CodeResources</key>
 		<data>
-		ts0ffoTXLwIl9i1o16WGvwmpDXo=
+		QkmLB6EigQPMqtHIM+wL2/dTfyQ=
 		</data>
 		<key>Frameworks/url_launcher_ios.framework/url_launcher_ios</key>
 		<data>
-		KtrP6bbycr2a5Ni5odEUqi1bD70=
+		LwB5b8bWm0fHwkgQcggh12Mqbvg=
+		</data>
+		<key>Frameworks/video_player_avfoundation.framework/Info.plist</key>
+		<data>
+		2l9ZBUT4l/D/8yXexEPA/yULQ84=
+		</data>
+		<key>Frameworks/video_player_avfoundation.framework/_CodeSignature/CodeResources</key>
+		<data>
+		ieAWvAS3CmFls1CccVyHJ8eIS3M=
+		</data>
+		<key>Frameworks/video_player_avfoundation.framework/video_player_avfoundation</key>
+		<data>
+		t16iECisS2VXLRRdLL0UPQt9WyM=
+		</data>
+		<key>Frameworks/wakelock.framework/Info.plist</key>
+		<data>
+		3FnHx4VWJeHTlh/Nk1/9gqWuRHU=
+		</data>
+		<key>Frameworks/wakelock.framework/_CodeSignature/CodeResources</key>
+		<data>
+		kRFm1kRwFKw/O3sn1BU4tMRUT0A=
+		</data>
+		<key>Frameworks/wakelock.framework/wakelock</key>
+		<data>
+		kgXIfKuboQWAIVCGyUe9LbnRZA4=
 		</data>
 		<key>Frameworks/webview_flutter_wkwebview.framework/Info.plist</key>
 		<data>
-		V/T8yM2+nU3Co+F3H/xitgJBme8=
+		+W4aNi/cJsREI3JWl6Sfb2V14/0=
 		</data>
 		<key>Frameworks/webview_flutter_wkwebview.framework/_CodeSignature/CodeResources</key>
 		<data>
-		1Thw+IDrysBbnPEOLdvhyLo1660=
+		Ao+ITj3a3VxU+bSMG3Auhj4sC+M=
 		</data>
 		<key>Frameworks/webview_flutter_wkwebview.framework/webview_flutter_wkwebview</key>
 		<data>
-		ihNY94MNGYhkr4smPCPIfM94Wzk=
+		TU4Bs4J7d2c+p9PQzUEJXA8WQ3E=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		J/kPAqAn4RWA1B7c/MREkOBWSf4=
+		tbMtz9lCcT3+SeRjN0NyiZ8lTcE=
 		</data>
 		<key>PkgInfo</key>
 		<data>
@@ -2579,7 +3154,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5JPv8kLWty4o608y7FzR9glLzCWnGvHURzAyckyR/VQ=
+			/kbFCw11jJFag97Iu84M+4n9Kp2K4fcThqLvH9Hx0PQ=
 			</data>
 		</dict>
 		<key>Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib</key>
@@ -2628,7 +3203,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iwwyl+LwtQ1vp77Mk8jN4eVgnb/vQAbmY+w53eQmGyg=
+			Q6+jmSkgTlFZjJnjVqLA1SWEcmAZ/vfpfgr+Hfzbjas=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/Info.plist</key>
@@ -2642,21 +3217,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			G4/nuvJsUlCPMS7P1I0TZ2O4MwefvTTTUCC/27sAq5U=
+			e85P0sK7iRB2Mwj1cEkL7pHl9biX280JOZ7dY0XeRS4=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/.env</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tOjXZmK7InDZnwE9qOHcE70Hs+19aJpmQhICeAajaHM=
+			v2pzZKsKeAUSgmjZV3g1CAmMMaBXmADa+sbz80ETk8s=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/AssetManifest.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uRZNEnWv536h1ZjweM7grhj0tKPuUhwjUjpP2fHcdxI=
+			YhR9QUbAiaILspTvffFtZNFQUsvOXYfSCsA5M+t0TS8=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/FontManifest.json</key>
@@ -2670,98 +3245,98 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yYFfe6H9XFsY2rPdr37W8XRzGNq0h7TZgdSBLQsY+0o=
+			OoNF5Ja5M9A3n9Ny5C7B3atFumMAtwMzewk4gOu9O/s=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/fonts/MaterialIcons-Regular.otf</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0E0I/gLatnGI9y4elyWPSg2LWYJSPgLt6hMvgJD5+rQ=
+			BugRRJlkJdABYrpi+ZDcvZjsh+EPQ4Uf2ST65b83vlc=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/isolate_snapshot_data</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZFODmTeagWrvsG4zM70kE2pUuv9LC65LEG0iTLSZR8s=
+			C7/dHOIHQrKZs9QJ05ge+h+ASynlvfrCK18NZnYRNOw=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/kernel_blob.bin</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ecj/CzAfx42cGONmsah08mNhWqaXshDdNChhlsnJ2Ow=
+			P2zHK4uttPdLr/VOLJEc6Yg/ykjJKQjtGPV4eNL73y4=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/lang/de.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			q29kr/jfyXIlDTDQs/1R1HHmPXhTWunLO3gVzsT3Jik=
+			sKbRk5dJWvEhoc7GcuDTZ7mDpJi2bVyZOwCQOyCy/iI=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/lang/en.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gBd+6AW7JofRN+bYyLyapD0Xo4nC5NSk8UNLB27y5gY=
+			dACUEH73zOX4YkCNt1G9pzs/Mj/EIw6pDO+emM6RGTA=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/lang/es.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			aAjyRbdAa0Xr5tleA5eGeNByDSpI53cR+eP9gCp9D5M=
+			wl+Y3jsKGP1IbQgu1R6/RuEQuBDOrFTUk5Nn2I/f4Uo=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/lang/fr.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			x14AVtEgNE3LdSFufCJlL5N6ROW0HimWRzxRqGPdFqw=
+			3CC1LBQ1OMW4MhAFh5bb7e8DNi59L94k4iWFxcq1Jm4=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/lang/hi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			YhxcqMzXUUR2H0pryR0oGxu+y9gmfY/0xwGdlhcWUzM=
+			u4si4GqD9DfBwNF+LWI/uvI+oiJ0+Ae95uOepYyZVw8=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/lang/it.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			duw/5xWA/OspiSOlYdTgh7JsddLgvhhH8/F4Ql+eyNU=
+			JwvjpuP/IQdYp3EgeuqQKSAw5uOT+Aps+qdR/uhAgPg=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/lang/nl.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pfmVjZyzxKcXk51AbgV2GDDSzZpSACw+P7DgWIjcvks=
+			/SNPVlPoSL2diFySJLGwB6+AoKPUYIxUUGx9OHPivCk=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/lang/pt.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			UCP2lBhq9Nz9hCmG0P11gsCz7kqETxpuIybqFKNDu4c=
+			6kIXqDWGH8vSpbZaiSyDduOSwjzt2MoK5d+pqT2jHjs=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/lang/tr.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			a+bWM6C0RNQn1bYhjlSLCnHMY5V90XMEj5EdTDqaqVM=
+			Ymyx381OulNZQOmcKu+t9hzLuyYEevpGVfnyHt6lvMg=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/lang/zh.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MKwIRIdubmnCulgrQFAFRjAzxeZBxPp67Y/Ff4Grmk8=
+			3A/Us6eEBBVdPlgecmHgNj68W4By0HPJm6esma5jVfI=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf</key>
@@ -2776,6 +3351,13 @@
 			<key>hash2</key>
 			<data>
 			I2qtX7ECyTDw43KedPWvuIpkYbhd/tnaJfAmM0fS2EM=
+			</data>
+		</dict>
+		<key>Frameworks/App.framework/flutter_assets/packages/wakelock_web/assets/no_sleep.js</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			3OTu8LGXtkCtaqqyIo7h7n3M+L1ta13lSE3RvRZDCng=
 			</data>
 		</dict>
 		<key>Frameworks/App.framework/flutter_assets/public/assets/fonts/.gitkeep</key>
@@ -2873,35 +3455,35 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nc7zSGd5LPg51+X2B4gM/FLTg8moyL55+ErAW3mTHI0=
+			cK33CI3s1P2SzbU//6hag8jxyl1KnDk2YkEoRBtUvuc=
 			</data>
 		</dict>
 		<key>Frameworks/FMDB.framework/FMDB</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wBXS4wqFddv1Vp6NxMbGtISrj3FjROgX3URmkWkR4R4=
+			FVF27qvzBllNaTIshRsFy8u9SjBHYFrnSAzzS9GbXBc=
 			</data>
 		</dict>
 		<key>Frameworks/FMDB.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			EEo0bgGVZ5hBk2w4K70zATt49jhCjSkHs2ZhY8C3dJQ=
+			gR+CEJa68yMDa9QRDtqVzAp3XJYwFEhcAV561uDWxu8=
 			</data>
 		</dict>
 		<key>Frameworks/FMDB.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			rnEra5PUxZtwFtrr7M3wMD5j/A25s/48tXuJ5qgL86Q=
+			TkLSwDdx9sIGeNtGpaeaTqHN4A6RW5ig23XMlfzrr8c=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Flutter</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			N3P3rUX/y74+nC9O2hpNYrcQs02F4OAlaHrzL+K3lXU=
+			MM/Ffjl/M7/AwsetwAxdPe+aU9xXhPo5NhoDitZ2Qks=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Headers/Flutter.h</key>
@@ -2922,21 +3504,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3SViazqKyfDFTyiD8JSsNncD/XtsdhhL1bSSPXnfIio=
+			4quj8X+HDK/AVExMhTcqLpIRxe/OjnnNTiON5KEv3hI=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Headers/FlutterCallbackCache.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			eY8bxazAyq1tt4tOITnPXoWgBSzFNNtgbLwGkMdVpdw=
+			1dNDb41OVcGRhdnQfLHPfpfNUSb9f9Dmg57Bqo4gJv0=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Headers/FlutterChannels.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			mMZONInvJM4ILgC2/EPW99HwFnhDr0K7Qti6QFfqno0=
+			IAJwMIrTpwHKIiP2tBsYBUQe8B8qT6nLVEQzZLi+yFc=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Headers/FlutterCodecs.h</key>
@@ -2957,14 +3539,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WybTKBP7Zyehq9vtFVJ9iLUGqGVjtid8sqkNCOYp+cw=
+			2y8eus4iJ7ghtc/gA0kfZ5anoS7ULVkmzsqbwY10ZyQ=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Headers/FlutterEngineGroup.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			n9SE/lluS1KHnPcTHN8vDfoi1jYklsflGv7iNlohNb8=
+			I+878Ez9ZpVdAR2GOzKJKjaZ5m807AeAF++2pSMQss4=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Headers/FlutterHeadlessDartRunner.h</key>
@@ -2992,14 +3574,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0A5Ks7tge5SF1tnhBes7S5quCY4A6SDz449L1EhWzdI=
+			nGbu0SXJXnL90HHWeBDDdp4TMAX9aCxs6QUNHIebL8c=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qh6v1uCtFmgZuTZJQxeFnZJemL/fcZbGzNFKH+Q+R9k=
+			EtaABLEmwzrHo7IO2TwLjD27xRbd1xOeRM7NrlUhRm0=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Headers/FlutterTexture.h</key>
@@ -3013,14 +3595,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			g9kFGn3cX4EiJery7mzGg05qDMpvHeJEOeWCttsMfXE=
+			TEZV6yflvdLz+8NOLbYifS8EwNzhPtmGY7HU0bFzNAk=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gz+qVqiWPzVOEUNCQgnqTxAy6HbDVRMYfj9oQ2C/EzU=
+			6aFYcfgJ8NbwzQBFxat7jLCJuV0n930kE7HMUJTCWzI=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/Modules/module.modulemap</key>
@@ -3034,42 +3616,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hatSb/SZYIv+Yz6EKeF/OxWfogIbMRZp9fBSiQ12FdA=
+			Dx7zwxxVv1ZcVP4atbTX2sppsxQUej2wKCHzwbRRn4A=
 			</data>
 		</dict>
 		<key>Frameworks/Flutter.framework/icudtl.dat</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Y7sS66zRuTsBvhoY8E7AmSrn+3DMMIOCUocmE2apBcw=
+			yNAOslsdK6e70q88cOrqlKovbuH0GiUDe+ICgawnSrQ=
 			</data>
 		</dict>
 		<key>Frameworks/Stripe.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lHGnPt/ZhzI9vU73T6uHHDeh0txnR/jBW2u1QeCHXII=
+			cwW6B9dVaPrSuMprrZr7QB5pLjU/vC/6bbGQQ5was8s=
 			</data>
 		</dict>
 		<key>Frameworks/Stripe.framework/Stripe</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			CZae4O5N6jZSaS4smldEul0a52vStDRM5wj91r8cHeg=
+			LK+DoPr4dSJIO0xVTVah22GNEJ/LEpCUFSIoZCkq7M4=
 			</data>
 		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NSppkBjmBsfj02J5SguixGEXmiRtkzX80kX7hSk+ygk=
+			4UXIGdB0Rwt4E3zdmP45ua+nGWEZjMB8OsEacHOGGkQ=
 			</data>
 		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			movvX6U1S8i6l7M5ftthLV5XKB7l4J26H20+EW9fBHo=
+			lnBFCjq1MwvSOUa85yNS/1P606fhDlFvRWdkkWOKOBQ=
 			</data>
 		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/_CodeSignature/CodeRequirements</key>
@@ -3083,14 +3665,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AcsFgIYCZTgSQjjJrSF8vWFl7Wy3rShzihCgSKvE2NQ=
+			psxZyPBlzqbHSmng+FoJ+SaBISx5MThGOm0bxdBlOsY=
 			</data>
 		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yNf3tXQxUiEj53cRp5OBCPrJaWkHZ0sdtmF6grEbF+E=
+			VV7DxLzR7SkIcv76sLY5fEQt1i5kwwj6X8ar1YZKfX8=
 			</data>
 		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/_CodeSignature/CodeSignature</key>
@@ -3098,6 +3680,20 @@
 			<key>hash2</key>
 			<data>
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			</data>
+		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/affirm_mark@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			4w6IRpfAaODL8fI4lY2ENXxafDH3iUGde+7xttG+UMY=
+			</data>
+		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/affirm_mark_dark@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lJgDUoMICYP1sPfX2ZqHod1MARC+Zim+f2xm4M3deAc=
 			</data>
 		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/afterpay_icon_info@3x.png</key>
@@ -3142,6 +3738,118 @@
 			Cd+piF3bgclsVb3Hd3/63GxvuDk9oZaFGb5SOKNpzso=
 			</data>
 		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/back_button@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wre3JS5g5i9/g80eOw7jItj/jM2CXNGjux6fwqtuUQk=
+			</data>
+		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/bank_icon_boa@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HsX+Sc/Z4t0OeHqk1qROVdCh9aYM622i9qESJfyRObA=
+			</data>
+		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/bank_icon_capitalone@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			LueiYNwAd5BC5EFI6D3u9WCLVrPZqxLX9s0XDI779JE=
+			</data>
+		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/bank_icon_citibank@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			x14azEQG8nKOYQ6yxMH02V+CijPPQcLiBYmKcaTS6TE=
+			</data>
+		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/bank_icon_compass@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZKiFxYbXTeXn9sd/+Q7SNALpgyNfz3/WGL1nX1g9C7c=
+			</data>
+		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/bank_icon_default@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Q8chBvI0cwIA7kabVJWRxcKkMdNHQlwAw2wvVHnpILU=
+			</data>
+		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/bank_icon_morganchase@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tiCbvkKZRTW5WlTjTLISg21M2WbPjo2W+m2i0Q2uA/Y=
+			</data>
+		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/bank_icon_nfcu@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DHZzBumZxGBN9Iptyi6PYLq8ByNRcxA++ZRkuOvwURU=
+			</data>
+		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/bank_icon_pnc@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			UICMP7fXolcSfMNChJ310fKVhddQoGdNupW+2nJR3K0=
+			</data>
+		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/bank_icon_stripe@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			w1b1G+2X0irPw5Cge4TwzGeEsu9OzfQ3npp6+E4E4lU=
+			</data>
+		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/bank_icon_suntrust@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jW//Cvbv6sdbaW6UIfNB332f8r34CHLRm2HyyUiauWk=
+			</data>
+		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/bank_icon_svb@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FDdiHeRcZLTu+UsUAy6mnSejsg4o283tOIHnDcF7Z8U=
+			</data>
+		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/bank_icon_td@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			MLVlHXwFz4H3Z9qKDE7HRWUNzYFYjgNuB/ZY9P+h5U4=
+			</data>
+		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/bank_icon_usaa@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Eaf3Ok9EHh/MEmNvTO40Nuor/86SCtaey6UDQJ1KpFE=
+			</data>
+		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/bank_icon_usbank@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jSRpXUM4Z52wv8t+v3FfAW2ulR1RiOdDbkgenqL0rAw=
+			</data>
+		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/bank_icon_wellsfargo@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			u0zuNxwqq4lXtHlSTnIp+iZ3tihAw7LX5aEKtNEnXUc=
+			</data>
+		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/bankofmelbourne@3x.png</key>
 		<dict>
 			<key>hash2</key>
@@ -3167,7 +3875,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q6r/8XpHll7btdBYmnQnOcvT+EUvmYOv5y7dq6zkt1s=
+			vKmjeIa8otETIrGUGdsLXaengBvSBtOZjduqIJuc78g=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3183,7 +3891,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			C+Hp/6nG1EIKszmlDZtcTmByzd92JyRd6HJcBcKfTcE=
+			jC+KtzcDQSz/Rnmn7aK66xG2kfWTHwoKXEniwCPag6Q=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3192,14 +3900,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lOH7aXly/PkIbU7GqQ3MAmzySh9qB8XNGZqauh+asG8=
-			</data>
-		</dict>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/card_amex_dark@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			zQjFfNnhOKaeL1zOalYsCMLTJMQsA31Xpc8Zbys87dY=
+			7dCXUQM5xLHFslsFgOIHGvNxMnDdBmeATgFcwfVFPKo=
 			</data>
 		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/card_cvc_amex_icon@3x.png</key>
@@ -3216,6 +3917,20 @@
 			kDgevtQ8BzM764uGGtDAYmvBDUU9Jk+0Y5UtKccs0Ho=
 			</data>
 		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/card_cvc_amex_updated_icon@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			I1M9gWtU9WDqb9isCyW+LbRHc71JvHd/+LM/Twy3rhs=
+			</data>
+		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/card_cvc_amex_updated_icon_dark@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gYoj4jjDzMA54DI4jKOoYmB411OV30F3MYxpUJ7c3Zo=
+			</data>
+		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/card_cvc_icon@3x.png</key>
 		<dict>
 			<key>hash2</key>
@@ -3230,88 +3945,60 @@
 			UFmmeVoykj62Ujs0irquxUEs86aBCzQNqxPFm1ynw9c=
 			</data>
 		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/card_cvc_updated_icon@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VHsG6NwmgN8L6figTiFmnfp2eHcqAkcgIRtpjh3qJOc=
+			</data>
+		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/card_cvc_updated_icon_dark@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VPGjkQWQ1j67n1PPXfj5yRs0E7YUuc3K3c2ngc236fU=
+			</data>
+		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/card_diners@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sWWCkfs8v8M6QqoUToD/iVZSrZ49l1PoD1j7MefU6LI=
-			</data>
-		</dict>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/card_diners_dark@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			236fIb1+ArMTHA4zHpLuES20whsXAehHeDaFwhewcI4=
+			KRRMJWbVgRfFBbFR2gtqSrnNO/b/LAQKYhXu5lNgsUc=
 			</data>
 		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/card_discover@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MUrEQWy1I/W62kWfSF1XGk21zApzUOkijFyTicQdDSg=
-			</data>
-		</dict>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/card_discover_dark@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			fDlHqj/JmM03vNozdnlp0A63yNGHfbTbRwv0eghGpCw=
+			S8CjSHScxU0/sV2JGFwtdPX7XW3e5JUYns8CbKEcIr0=
 			</data>
 		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/card_jcb@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LtphtmkCeP2Fvjwr7a528ZrgMa/V/uFtWcIQME2XKXE=
-			</data>
-		</dict>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/card_jcb_dark@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			e98k+lXlzeX9WNZqN48/TvkpjBEpdcmrCmzk22JRxV4=
+			i/yqXkBsBWbgfgfkF11/gm8VoVMs2Knl2KgPROfGq2U=
 			</data>
 		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/card_mastercard@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			A+/n/RvJ2Pft+WjS6fC4vJe/1fahV8BaBxkO1FeAoZ8=
-			</data>
-		</dict>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/card_mastercard_dark@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			O5R8XirZM42U1w1zxY4vhQ9UdOQFumz+tYp0rGX9ZGM=
+			fnfXkQJGxShEqbwnXK8iI14ndd5zm0Q+cd5xFY2mqK4=
 			</data>
 		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/card_unionpay@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			PPzxCqsKT9WNseJXU8Hi73xtMjAZchMrWFHOBYO3PWY=
-			</data>
-		</dict>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/card_unionpay_dark@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			HUGUlf31Cae+fU0OI8jOulU/O58ksrVoOFpOIWZf6C0=
+			2WrtyQBfc9Zw6NC+yPfB0ihrocR8Lpa+Vb3BN8WDszo=
 			</data>
 		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/card_unknown@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8NYbadjfXVsOPTlKQVPF9SIEi+B8v1XtkjkYokn13Es=
-			</data>
-		</dict>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/card_unknown_dark@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			g6iZ3zFXC5cDja/r4agr+gujDK+9MjxFa8+MXy9zDjQ=
+			+vnuEDhDdH+B0p6wMlO4p3DT3FpOydSE3K7mDG18Qcw=
 			</data>
 		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/card_unknown_icon@3x.png</key>
@@ -3328,18 +4015,25 @@
 			QjzAGwNoBwnjo0fPHEeFYJx0euevFZLU7rCz6QKFBVw=
 			</data>
 		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/card_unknown_updated_icon@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			A9EwwdZfqea48c9VxBKr4YSqmwj66Ny3P256Wk2j/Fk=
+			</data>
+		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/card_unknown_updated_icon_dark@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			71LWeVx8k0VijpCY5XeUEmxMh+NQCFptIksucXWZR0A=
+			</data>
+		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/card_visa@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8ZMObFTkkYeaIWoAf1k8RoCLjkp7x3J8sewZjFIFXxI=
-			</data>
-		</dict>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/card_visa_dark@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Ez/EA8EYgdWFAyp6NcBrAooFnm21yB99Kzf3woTe75Q=
+			+mvIlY7BaRRXoRacJ/o5GNuNn6gAUnkNjRYQoal8dmg=
 			</data>
 		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/cba@3x.png</key>
@@ -3367,7 +4061,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pjarln8ev5SosnV9A7jRkzmwdTIvTIOS5ljPsDRl/5A=
+			28sxNqIeIizJuA0j0+cYlNPKPTuUPSNy5jAF9xD/ObM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3376,7 +4070,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KwoaCoKId5u4p/mc8BBDS00xzd1Ug6LrcR43JTbEWsU=
+			UaZk4a6VtV68SmgtWEoPFG1/k1a+Usa7Ye1SzPVs68w=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3385,7 +4079,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			vG4YENgZlhftpryMXvEcxtMEPecgyivcnNIeFN/8eeo=
+			49BzzuVqRoylIomlL6+fof7suTV9xWJ0SMLfmRXaDyM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3394,7 +4088,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			S6v8KVg/Ibp4rE5btCfaSFaxCnlmpnmXeabqAplCGs0=
+			s/fYf3HzuCuVzOKKuAQxu8iD3FNMnuYRv9BC7xpJyHQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3403,7 +4097,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wKK3sc05OzQRXB0KnCJqmBVbbG54vWUIlXsI0Ioz8q0=
+			mYTmaqJ/4HN2TQ9M+qI9j7Y17BlzWlQ8QzLCA8IbvI4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3412,7 +4106,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6+KYQNHVPk86tfU1ln55V8eDSkM1YPHm/Vl/OUmf4YM=
+			od3R2sj0PewU5G1d3tye4g4OF8XsKIhzinA0y9fxNL0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3421,7 +4115,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			W4QG5rEUsBSsRiIPrLjcpSgj1T6rbvdQZoGRjimpNWg=
+			sT31PNCA8l0Mijwz0+dezxshU3/H4FJLzNW4ly09lOI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3430,7 +4124,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mmpIBvGXkOM7OnAphdMtreOU4hLMJtgkxuIBbsSv5hw=
+			qjphweqxJ4xEZjEMtTnOwDOQ91dl/8P99b60dRsDfPU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3439,7 +4133,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+1pIdBlV8Z30uNL60beB3ev26S+XYTXgJT5BtHT5e9Q=
+			K+vVxYka5P9zIKWESPqQZJvG8haPjlCSL2zC1s3Fj8Y=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3448,7 +4142,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TDVb69UbrtgbO23/kcpMUr0oVg85FijpTQb4JK7JkJs=
+			NyHcHurizPyGPEtuARuBP0E798rbmwpiJhPqxeMlVLw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3457,7 +4151,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yPD/qC+MaGuFttaJ2E5/HXLm2fSN3Xt94L577qOxLzU=
+			4z/cuHZTAYMJIw8smChJQGhdw3DEbJTH9/M8qNKkytQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3476,11 +4170,18 @@
 			8aTaixvRVMjc/1BcCtNc0tmUduBvjsfvLL4sRjfZLuE=
 			</data>
 		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/form_specs.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Qy7qV06yBxahsBgj4L+SpX2v2TekdL6glcRludelO7w=
+			</data>
+		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/fr-CA.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			t7oKzVXe7+6YN5/ar64/Xj5u/k/qmPzw6CqNuLbWLyY=
+			FIJS/r2oVzuxqS53xSfzSxhCd3VZrJgoDTYVcr78Ano=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3489,7 +4190,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lGqnRylrncx6LGIN90ezE+vt6JOqUSdk1nosOuRMQgY=
+			X6rqgcMB1rXUxH8h3g5jLgRWMgfm9RoXhnL/jH/7lgg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3498,7 +4199,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iuc+z7mF/0ykhIbJRwFG2SJZwUryWbGZcVgq7fbIBIE=
+			fKwyL9pvvCM+lt6VjhUn4ty5DoDYdvLsMBHXShD6RLk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3507,37 +4208,37 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+ZLQkyySL/e67Xfaa5TLoeD6b/4mKODx8n33/qYdUg8=
+			DSowUe+BDoZjyh4Det2F4hpI5qZdXUdx60ZoW3qUdNY=
 			</data>
 			<key>optional</key>
 			<true/>
+		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-affirm@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			q89zH0Dgs3LbWuuMmH6PBC0PVa0Q895a7+72pBGN1Jg=
+			</data>
 		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-afterpay@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			HrhYbfVEQYsSU2Es+r477vc0iwvzEGcQ6JVUl3RLRTU=
+			0bOJkrM2lWxRPODZkSIa0hiSpA3+7+DRbfE0r6T5nxs=
 			</data>
 		</dict>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-afterpay_dark@3x.png</key>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-aubecsdebit@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LZlFHUg4LEuG6houbxZxUCFeU8kMuma5qcQ1BWn3Nv8=
+			YigbXXhzGrG/AgOhEEHvQPKwgyUjQpsTD7bLu8lqlH8=
 			</data>
 		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-bancontact@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			JlODSyY9p9Emv9HBc2kA1ondsG4WVSkdR/AAejv/DiQ=
-			</data>
-		</dict>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-bancontact_dark@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			3hCaSyaxI4MHfdRa3wuM+eOa6OGkMWMIufU99S5GCX8=
+			jbRljRPzjxJ8IwVdXogg3rUls2kZFwqSEAlTDbFKv2o=
 			</data>
 		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-card@3x.png</key>
@@ -3551,84 +4252,70 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KZpnSqz8CDiphvqdReBqDwdq3ZGo4LLxqXqRcmbMUOs=
-			</data>
-		</dict>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-eps_dark@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			Img5p0aqngGUuNcHf2z4eWA8qOuCHCGPnMxD6BwWEqs=
+			9fYBuvdMEcf+aF3+vMQZcElbOhzNQ/15cd6rUCHBRGs=
 			</data>
 		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-giropay@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			7OOAHSX54JM1zkq+ncDS4xrlw3hKIAJMbczwfyPVQbc=
-			</data>
-		</dict>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-giropay_dark@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			qpKpCWfrQHz4mKuHQ9hGf5EBKOatKjrEkRfqoepeEXM=
+			TlFBftZnbTAJKx+AGE0U44H6GU/cPjEwTzMDeUzJRkg=
 			</data>
 		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-ideal@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fgmsj8MVHW7jGDEWmGa5NzybwoaPIyCbAb5nV2dIOQk=
+			csUCGAA8x3MkH/AaIiryc6kuR7FryLrSQoX/XLWgKw4=
 			</data>
 		</dict>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-ideal_dark@3x.png</key>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-klarna@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			fhkmcoyrQB8sLSbv9Mpn9qCbb/+JYwuU8Aw1FZSo2j0=
+			k2yML7772eQS6Z2y8jWeuT+ReGlfmD7cRhBGdK4mH4Y=
 			</data>
 		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-p24@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yOUAURJWFkDoh4s4qeB5F6Vvaksag9pzoFkwxzFG3L0=
+			g/3bP5VtW8Kt1PpGcfkqVsNcNmozVXWNjoE2WL9bkfI=
 			</data>
 		</dict>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-p24_dark@3x.png</key>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-paypal@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8h381ZSg+Yfv/yrpr9cwzxvhZ1JWcSUg0posimF3LNk=
+			vy+lyGwmC7ZiXfnS9VTtbHSoAovR6Yhy+dJGKReeXqM=
+			</data>
+		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-paypal_dark@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZdSstOpXUhYjOWRRVE/5dHUhEcJSZbAcJsb9VQTWCf8=
 			</data>
 		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-sepa@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2wq3UqvyexnDxvb/4VNGXyW/5JvDAFtH5Iliiev6wCI=
+			YCUBLrw+nI0tfpFSn3xbqxZex3GAOzRtF+Ot6OL0QQs=
 			</data>
 		</dict>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-sepa_dark@3x.png</key>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/icon_add_bordered@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			knO7GXv88xlP6ybSnkW7qtnIKDvBqIgu4dJ5hWMrQn4=
+			Qod+i+F2q3ijll3WO9OscCttIW0M43zHwCcDQFo9sHY=
 			</data>
 		</dict>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-sofort@3x.png</key>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/icon_cancel@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2/VqnTOmrNmdJt6cu0MiAqXh8YtTMBfE3hAvBAia2iU=
-			</data>
-		</dict>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/icon-pm-sofort_dark@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			qQdxD4QMgUcxabvxiFSkPfAzA/6zey00lt/kSThZ4Tk=
+			tcHkm8BlWvvN4YzFZFR3ZxR08FxR3pMmebemtHNWgh4=
 			</data>
 		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/icon_checkmark@3x.png</key>
@@ -3645,11 +4332,39 @@
 			9BEjmKTSGGGXB0l/i7JWt0mkb8r0sHgbdv8uBAz/5mU=
 			</data>
 		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/icon_chevron_left_standalone@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ZHCKfEJ3owuan/Lz6wvNrooX4xDQwbQ/1lMWYWUjQm0=
+			</data>
+		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/icon_link_error@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			G65V9plkYvV3ck4yM2fItR20yvUEzOs907abF30laiw=
+			</data>
+		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/icon_link_success@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FkpHFrAg5J5H7TaCRhxUaGx/EkEt2Ay71iT3UVyixXs=
+			</data>
+		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/icon_lock@3x.png</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			W6iwj54dlz6XgwR6agFRKA6CL3KYWj/HTZ1IjYR+RmU=
+			Xb3RBLSqDm0fWFQzLRu2BJKm3epVuvoXsVoXeRb0Cck=
+			</data>
+		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/icon_menu@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			zZ7QVnMRrWfW8QUNWLQrW+dTziaqyj5Z+GsoXzHUSAU=
 			</data>
 		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/icon_plus@3x.png</key>
@@ -3666,11 +4381,18 @@
 			L6vwVpm3beHDwc3HG2OffUXYtaIgUV6YjEvNBjkpsjs=
 			</data>
 		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/icon_x_standalone@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aJkFp+2DO9QzwgFWv1HaU9ba/C5P/hNi4WEhIvVx5Hc=
+			</data>
+		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/id.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			XoB+9WkDR3hOH5lleCTqwCBq4Vm5Hn6QsYFNafBZNpw=
+			8jEYIb9amgFJar0OLrFIYBdLDBLVgX+ZgOScsXRK2tk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3679,7 +4401,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			b5QI/XHrPNxEoBIlXoDr3lIOkdXh4fxazbpEt4+d43s=
+			61Ci5KBgjjrG+McHKHhcDn7hgNkg/lcmVEjiBZg/zD4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3688,7 +4410,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Lp3uell/uac47scwQjSxxi3l31eolSJC5SyOPR1W4Ho=
+			T9DIX+mShfqotG79GxPlhODyqN0U+csLLQymFiceUAY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3697,16 +4419,23 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ycH+1yVmHCQawPtZNoYBg+PXjtzMMx0B22EKonsBieM=
+			KtwptewwRXp1lPfmHjYKOvQfdikvrG4sXsImfPpnXQ0=
 			</data>
 			<key>optional</key>
 			<true/>
+		</dict>
+		<key>Frameworks/Stripe.framework/Stripe.bundle/link_logo@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			QN8O52EPahEjm+D5ctr8Cf1Fj3V3Y/kGurUKG1Nlq9w=
+			</data>
 		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/lt-LT.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6uCjcz5SO+JqQlqlF8L4zdcyU3ZRC5Ge6rT5m5hrbB0=
+			vjt3HcFYg+E9Ckc7bgGCTk2zmyZhy02+rXLrc1t49WM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3715,7 +4444,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			R6gIcVfYdcBG5pQxZ0BLMQw4+iRbk41So7niwrB00r8=
+			6+Eojikpah8sZICq59IQwwMx1Yat39d//QnTi1f2NTA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3724,7 +4453,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			b8/RKA/QKLNMbQdrt5/a9A5Q+VhD5fI6mDlnfICczeQ=
+			5vrkSNA0lOthfrJYkZ3Pyh7XRQByIxgr1//f2CllbAA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3733,7 +4462,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			iDQAhWMre3oiInk2aPz/IEGt0lKSgCZbX9+TIO8Hn9Y=
+			MzRHAKTn8pGuGfANOs96E8qdsO5Y4uKrvOmSJraOMtU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3749,7 +4478,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			wYOdwtUn3jY6kZiJKQCLFFSjenCkOyDlIThuy2YkVjo=
+			XHheJ/fmD1SchB+pDhC6Axd7UH/QITUnaaNqE8++WIU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3758,7 +4487,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1/vDIRfRQh6FcFGtL0rYB84sG71ynIFAAV2p58FPXPI=
+			Y5mwMJh3EvhOfh7fPv7pjsxvPgjmLh98F6af6ZCG2VQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3767,7 +4496,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8J1nr0NKaZiSComnF89lb6c2Acjd0uaec44sqlnUB9M=
+			cn1UarnqSTigy5i0HZycZ2CihxqG8VoPhjo6XUQUmmM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3776,7 +4505,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8Pun0fAL3p6rJlTGZHThK+U/2HRWrBybB29Ql0lrmwg=
+			YthUbdi5O8++Lbcqrt4jIrDdWwGHZSCMXhrnLJF1Qw4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3785,7 +4514,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Q/pxK36tCZmgfyiTnIa5LKy++NPLaARyH8kxZYjT3aQ=
+			JMLrmYcDWtHGSjTOGndCzdRbME5mDAclnqYXAc8Zi6A=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3794,7 +4523,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mfbXpO3Erd2nI/KTL9dhaNw4x/1695dqxcIAll3x/Kc=
+			Shb7rF6mbkyyPV9yVbP4CcZb60ORqSnO+JSKQWomXk0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3803,7 +4532,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			r+ohIVkhZcfaQTrZ1g6nPpXeIF73+bcG35KXX6P9kOw=
+			3XGlx7ArMSvPzdntZvGXSZC9UTuhgS6DE+sIv999X9w=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3812,7 +4541,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6rKRAqCgOVnsa15k43Z5l8htreqOP5tEVTH//4HeyjY=
+			NhWwy4boUw44+R3D7p4PwNBNhC8An3NPmwfr5z3gBuU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3821,7 +4550,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3ju+dXiXwuqwGNZ2S00Fx2/GkjtGGYYLO9obkT1zDUs=
+			hGYm/p9j+/qpUWJIyEsKL++saf9jXhMHtHD0vQumsV4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -3830,7 +4559,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eH/lVRXqAeM75UtgPcereYGaYJhYRakLI1ZUqBjdVVk=
+			O5F0v5VVCN6lBaifxxQUoURvoDecXCenswQHDEKSrxg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4185,13 +4914,6 @@
 			QL1PnjZXC/UmoVdYEy+oJzmchonnpA1wuFRVfdD+qQE=
 			</data>
 		</dict>
-		<key>Frameworks/Stripe.framework/Stripe.bundle/stripe@3x.png</key>
-		<dict>
-			<key>hash2</key>
-			<data>
-			0kEo4BFK6eVqt1YpWFKoJ0lpuECQIu0ZryVNuGPjdtA=
-			</data>
-		</dict>
 		<key>Frameworks/Stripe.framework/Stripe.bundle/suncorpmetway@3x.png</key>
 		<dict>
 			<key>hash2</key>
@@ -4203,7 +4925,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			w6Wa8rBkgM/Rbt3IxW/+aPYawlE7Fx4u9+6LS7HRP60=
+			utv3AFr2F4ZiE+puP1PgXWZZtEOkfZunEFdLJe/pOjg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4221,7 +4943,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1Au5Nrp0O6pNJkw9HqGJFj6vX1hv4T9KnjVfEQKDgvc=
+			mDsC6HSA6KZxgMej8EDmTpgm7xw2hEN3xt+lHLVx9kU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4230,7 +4952,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			aHx+oHI60suxj2qleQAGpfrlgnxM7lYU5Bkq2uUwTOg=
+			RQz03AUZg9bw0eBUFo88WRY9xu34MJxPyvt8Vsi254U=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4246,7 +4968,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cZaLP7gx6gntmNxdJhlrt4/zZb4OWGYV2IVvWC+8W4U=
+			WlZrTF5Roz6Uqv5BqWrUnRUSlpYJe9O+7HtWn+CB7yM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4255,7 +4977,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			NXVQnXdgo4RvVkh1MedX1smMv6fe8sm3p4gh4ys4nls=
+			TcdCMal+ImPPQuSXf8sxQkeXt5Yx7JAI/xg1zBKwsJA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4264,7 +4986,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5uq5HbZEL6ZzZ/PxdoUWb7P9oFPYV3VNu12dk2vNx0o=
+			ve7q8tCMGC9KIftVJegtxgoORCluuIepv0f174m3X0Q=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4280,14 +5002,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			hKbpoCbH7t2v7TDZgpkg2VZTBVgDvOr5RMyueULkSBc=
+			S5+Y7Bjr5aXMGeoYmSZEY6LxIfU/s+tkB4KP2WDkAC8=
 			</data>
 		</dict>
 		<key>Frameworks/Stripe.framework/Stripe3DS2.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IDfEYudrzo8TKpwNRdrSsNF+/MIMyzVuh9oacK9VBto=
+			Loakre1hY+WZnyu6dvrzgRtoXl8mOY/7zgXYhgp0ttM=
 			</data>
 		</dict>
 		<key>Frameworks/Stripe.framework/Stripe3DS2.bundle/_CodeSignature/CodeRequirements</key>
@@ -4301,7 +5023,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BhkzhRSUJK250fCzhrx75zPR+pk/PrnlG5OrLeVk5zU=
+			blYFSBU+OgbOJeBV2HIwcFRmNyGQhajWLIitJl/uJio=
 			</data>
 		</dict>
 		<key>Frameworks/Stripe.framework/Stripe3DS2.bundle/_CodeSignature/CodeResources</key>
@@ -4749,35 +5471,56 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZopqVbKnkuh3ciOKXPPE9//r9HBBd5YY74GFqk7qCmQ=
+			lJIplow2eHR651cUtdQokhpNyI9jBzEX3PQExfzVLMI=
+			</data>
+		</dict>
+		<key>Frameworks/StripeApplePay.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			gAQ/idMJV++w+f/whuMP54pEq+/unVEstz7q/Zf3UqE=
+			</data>
+		</dict>
+		<key>Frameworks/StripeApplePay.framework/StripeApplePay</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			NP7abpst4cCxUYSkPKiEXGpvvSCD9EFMppmNqed/rn0=
+			</data>
+		</dict>
+		<key>Frameworks/StripeApplePay.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			tL0EWt3dtLUKxLDZHmUqEFx2WrsLVliQVuoFYf4CZAU=
 			</data>
 		</dict>
 		<key>Frameworks/StripeCore.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dJKjvdW55n6UL8W+ELFw76ac1+QwS2EA38ALEP9I5XE=
+			BTHCak1p7tY1+JZDy3KDO0SDJ0gS8g7WY5+YbjNAI4U=
 			</data>
 		</dict>
 		<key>Frameworks/StripeCore.framework/StripeCore</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oKxDBYH763a2TRK6oXrQ93rwRjwQ8pkEPb8zoZWwBpA=
+			YFaqxF0aw1CzstoWpeS4GzPsXinkxP1zWrkrcrxZ3cg=
 			</data>
 		</dict>
 		<key>Frameworks/StripeCore.framework/StripeCore.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lhBTjBZvM76/chkFtQbbSmMpUSSOznCQyUGlm29cZHU=
+			0Pp8HLhP2GdBty6xss6Rb7/nSXVoCXK4lON2w/tu+ww=
 			</data>
 		</dict>
 		<key>Frameworks/StripeCore.framework/StripeCore.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			vAbDI4VTDwemJZSi8mZmqKFcU4eIEGFMVBKV6hck15o=
+			rZ38/H30tRAvnK1/CLX1UxmN5YmDhkfd4/6B0fol5M4=
 			</data>
 		</dict>
 		<key>Frameworks/StripeCore.framework/StripeCore.bundle/_CodeSignature/CodeRequirements</key>
@@ -4791,14 +5534,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			7o1oLITBkbmEhEdD/BMnCJSegZ8DgFQ1pMlbCyLz/dk=
+			a8XRl7sKZsJFw4kcHtiGQFX7/M6dZwosi/nMEq9sfZM=
 			</data>
 		</dict>
 		<key>Frameworks/StripeCore.framework/StripeCore.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			B6VGdcoqRrtQV01bAHfoFTQNhhceYCB3XWGkqOcz9hY=
+			KfJK9vDGeijHpZAofAlke+4Gtzxdb3tmfZAvX/GeG4M=
 			</data>
 		</dict>
 		<key>Frameworks/StripeCore.framework/StripeCore.bundle/_CodeSignature/CodeSignature</key>
@@ -4812,7 +5555,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XZartvPmTeQUCjbedtmc1nxcxBvk5rjyPEzClanag0c=
+			PGJ45l7nuD/0Vc1DEZDvibYqFaEJMDOXqsug7533mbY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4821,7 +5564,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kTKbpSD7lr4K0Cr2EjepXCrxtL2JkJy59xjXaPJLBfo=
+			tkmKXDN7v5k/Oju9p5eLPKoQM+FSjTfzprOwcG9WRII=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4830,7 +5573,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			n4oiWxroz58RpIUIhO3lAClvNeJgvZxSfq0KOuBxoY8=
+			F+PweiIz1qJvleRaohFmfp6hUxxG4wbEbnbDFLY8KqU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4839,7 +5582,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cwSev2JncUgKyKAo/J9gVkZhpeY1yKhyC3hnQiVECfs=
+			2vLMfE/b6lOzLaE8r6v5ZY02QpWIgP4W+KvMOQaL++Q=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4848,7 +5591,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1wFYxfjb/LsSuFOBx9m6v9+2iYpv1IKUefIJi+p/PXs=
+			crUeOJRW+6TKy1qOT/20Mh9HJeFnQJgnOiEHUF1YuR0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4857,7 +5600,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			C00+5kPWRXFQh5eZIs35Zm64MAO00cZjJShJjIRIqoA=
+			PJABQ6PRO4u5xsRrhf1BPioKyx1GTeAje+sk0HQQocY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4866,7 +5609,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2+a0wSrepKgLo7wpHfvOFkzlSlT+/3iRtc/5sqn9EAk=
+			1ZE7XbkHQPD6nPHbjdren48PHNvbL7+kK+KQLO8twnQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4875,7 +5618,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WKS/C44KEarRH8/fvk1d1+VeE9l0q2lPlAmUbIGioeI=
+			ZamkIJrd3VH0UHY8nBUu9zP2Ay2FVa+S134q+9sJFq4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4884,7 +5627,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+UDR3MmlxNH9dqr+745MgjZ1bcVlUtKD2igGjZaoNwY=
+			sbP0NpF6dwFwhBJ6+hV2P/y5wdVk/56hy2DQUlTcoX8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4893,7 +5636,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+B+HdMEKfCanCHtPQczBCceQojoj0RJLWapLrYA5EAo=
+			QLnxQdUlk/cG6BKh6WxkU7iqhaELSqrKanjXx6YxFqU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4902,7 +5645,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oI8tD9uyWuJD4wiZbH3198Ez7Z8B0acIY5nYIeAX2+k=
+			dpretyQo4IFQfG1WmEgq5MjcJc5puvatNuaXJecfMk8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4911,7 +5654,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VDaQ2DGG2oQGB+AFaK2zuBU+9xFWkcNNoFhPhgh5ZVQ=
+			OhLfjxVua5aGYFiqTWAusJmAMwcsP0NhNiwJC29kN3E=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4920,7 +5663,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Xr1fdcaZtTcRthilWDaDrVIbkiDw/JFAXOTe3i5bQQI=
+			amr6eguoLb/8AeBLs6p979yvsRJz+v+aPCd3N9JsTVo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4929,7 +5672,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XU+1OK8PYP7Tzg1ASQy2H6c80nEPVDof7a9Yh55EVys=
+			scVGmCPpu9YXqi7SpnqVR8LjJTb9iPUQXlP0x73T5Ps=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4938,7 +5681,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			t4eopVb8lpRh60TJ0AabWwcCfeLN08bvjImC4y7SlTw=
+			7Kl3pEk6OyW88afjhLGVe+seV9HN+/oRH6ZejahAwYM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4947,7 +5690,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			zgL2Lfhk5xnafLlu1Z2mz+r/m7//hcLHOOEYGhEbbFo=
+			pn/kvTgeutdPuICfIDY+myeUEQxkJ+K4sy3bFv5Mj8k=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4956,7 +5699,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			SJlKiLvm66vFXxLgX4+jRSq6oXQzfNFy4l+RRWmmuPs=
+			3fm4ZLDVec0NrhKbLoZUmBdx6SFp3jwq0gpmpnndP7s=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4965,7 +5708,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/DQPiLabf3o4hfclUDtBCtqmBk+7ZH7jZSkYax7D8OE=
+			OQkKjk73/NdNasqz5kHqSmAmFLSufS9iFl/iq7JnkfM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4974,7 +5717,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			PKD6LBiY05LoYtvNsGTIrfFsf/iQrY+4WaxiSv4A6zs=
+			LKSQ0gro7YsUh0yvXoWOlZgyEjClMP2bXgKucPBPaJw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4983,7 +5726,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			P/Rs5tXfdOaCOff8rS2agKaNRP4uvXHewKrq22z6Nxs=
+			q/IcUpexq/Z1OdA9wnbJ+W+sqMLVUbr3AkE6cgC/CoE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -4992,7 +5735,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			K3tb0F4e+dCsL4MwAGXeFmxZnddQBdf8BWwonA+vcZE=
+			izS5hQUf9HvUtshIM48zT5mWUvigtR4XFuMMv8mE54Y=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5001,7 +5744,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8AOVBhRn+SO5ehZprYj7W9udXgwWdcXBxbBbgNuIPIo=
+			XiWRwhgXB9I6d71dTRjSHCfKZ0Ydt1QWzFBoKJoneZ8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5010,7 +5753,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ubDG6u8ntlCVx1TlkBIda4RVL8fUAVeYBkNdgbQU4D0=
+			tj6tQtfoQa8d26LRzWM2GxuHKz0oLXwkxAScC20bwUw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5019,7 +5762,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LxVbnxNvq9yNYcfNTVfdWeb3Hd/n4DGYmMQLmRY3M1M=
+			J4GfRcb+iAnq7e5UatIgkeN+Po8gS2j0egrr/2rNjSM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5028,7 +5771,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			c/t1sXTpdfDJ1m1HULCv5jEJN/F5d4x4OiRh18VxET8=
+			W4WPyJyYpj4Vp95WcQZl3+k1RIQrw4f6DiCpycOEsZI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5037,7 +5780,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qf76cBnn7VNvPYKFjv+CnPDbbRQSYhtcIxvXL28oreA=
+			8ohwZOGnLaMb3oO25xpej/KXQUXmfiOxaDuRB9GrwWk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5046,7 +5789,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			IkoUnBIWkut4r0rHyeZujf1yJdnLLOWItDLOUQE4Ggw=
+			lVlykEk2rRgFzYrguN9mgdI3RR0OWi3XfRJ6dnN7M2k=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5055,7 +5798,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BWUgHj+lGwH2diyUNpbRRarO68waESc0ge93Qmxk5po=
+			fNduom/2+1v+0c95MqEUVwdEmLcfJWK8D4f7jOTyFz4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5064,7 +5807,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			a/UIVJVnJq+o/N+E19Wsj3SQkQB9LzuH5uqJVqp2GUg=
+			GSxKab4ZgMlE6OrMe/jEuOfUAflrkQthLLxw7tqBzyU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5073,7 +5816,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			w2I9PPYK8b202xfl61UIcD5y9+tVSivF9qGPg2NJ7tI=
+			Kl2Af0+Fjhi4g9bwEMHThNlPjxS3sWpsAUj7Q3j6x68=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5082,7 +5825,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			I6NTM8CXdxL5f77YoWZX9Iim0YtrsD/I7UgSL8+yvmM=
+			X71aBW3kHS53qdAeiPCjObElmoqSt6gapTfK3LUKaBE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5091,7 +5834,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			BkUwe9orFeeTUpzdfqrwZdSH9fLwWhYDLTbFq/T9xd8=
+			g79d0HwOGpV+IuaEbuAlNW3Ad1t2PQhAQv+77GX56ig=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5100,7 +5843,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			sU2z4cjlJ9a04b9wPJXujdWpzkICri4/h7yLf3NWkPA=
+			0cs8OMOAhEdcHGt9UZVizpRRjODcHmWfbIfNx/VF7LY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5109,7 +5852,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			bzWNIrZthDV4wBzSF27SBTrll4p/kVuZ+AfDXI/7Lcw=
+			zmohgxEHrhpl4ixD3yOjrHCygdtYMQirrs+IDhdS5jM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5118,7 +5861,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8WAU6a1ILRn/NWZQRFGA37EkkVgfKBKzEmnXSoM9RIc=
+			9QAgnr1U++tl91qWrZderrv9PG6Xa8Y3mqORM0gv4gg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5127,7 +5870,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1BShSqHY9bRPlZFLurlm06szqqrFUddeyBxVOIAw19w=
+			2yFr0lSlmVPJ30SmaiUtmPspcXSVJfuK6a001VbX6MI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5145,7 +5888,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MyRGCZ7VAeDqV4ozfSxw9eICrGGnX80VbysXTcNMUB8=
+			MdF8C7H8MX21NinNrVnLwe8eTF/z4Vyje/ofHqmZ0ms=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5154,7 +5897,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CLe2UMFUNdsITssO1kkSaOCBaxdNTbr4av5AowktC90=
+			H0j57J5FlWggWhJlwWBTCCslRQzPxsxfnyb61rBYcgE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5163,7 +5906,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			15Sx7Ebd03C6R5h7/SRDreFaM36KUCuNwGUhjivpfyg=
+			8bBySUbadYI5WtJmmlpC2rWO1BlVgq/ok7jFEA/0lfo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5172,7 +5915,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			An85SYJXF9Bwl6dYL8SfGffgQ43XnTG3Gw1go5cCivs=
+			5DPBj5SkKC0BWRDcX0LSCnQFwaImPcnL0u8m4vSMzKM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5181,7 +5924,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			n1F3KlPIwErf20E2huLjNlo5R3Lh6MTK9DeSoi/Or30=
+			VH+E+jpsLTWhLaXShgBbN22M3kqJ2vd8u0Skv3kCpC4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5190,35 +5933,490 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dYayH0fAVqo+8amo3UW0GLRPsa3JrXv16CeBl9Tce9M=
+			s/cX7RmiIvTU91VJ/zm+Szk/0S1nX11ZLpY6dckLyXs=
+			</data>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DKkSkLUxvfROdwpf7WwUqPs0SXegLGshPE74illWUqk=
+			</data>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			ax8tGgtiVkmBzU0cWtZmj8vc8aIK8MCs0jbY6SoCRaU=
+			</data>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TbCNzN0rSLVNBoS/FCGLwnkdov032LQmLOXh2Xx0aq4=
+			</data>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/_CodeSignature/CodeDirectory</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			2PZUzZ93DCyfpTqiF1vpAvZKXnX2x0pQxHifxpT8xsE=
+			</data>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/_CodeSignature/CodeRequirements</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			mHkgkE6rZQ51eIwFSqCwUk5qgL/HGqMt+NI3phdD+YY=
+			</data>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/_CodeSignature/CodeRequirements-1</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			R/k2/H6LPgmK9p0p1DOuP+W/kdnQM+QNkxyi6FdSapo=
+			</data>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aiSy9dkQz2/2zxzwRdR+zURZWl7lrHJhIU1ltApZyOs=
+			</data>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/_CodeSignature/CodeSignature</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
+			</data>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/back_arrow@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			W7kyuks5onFfaMEJIzCuYVp4nt3odQMk0s+kruy48RA=
+			</data>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/bg-BG.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			GzY6IwwNUvXF9OMFRbb0pHFtpHxfsIa0+DNaVZnqj68=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/ca-ES.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			bHriM701egq7m5ZqGtYizTBH11EoAN6U1mVU9VFETbI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/close@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			VSYHbrHi1tgulGJA/LzyiM6mm0Oh4Vtnyu8eRs5xv9M=
+			</data>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/cs-CZ.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Bgw53yWzuZNZxeN/SqVar/BKapYl9EVUytUGR4Be6Q0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/da.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9bUBMnDNe87ZwjyWTg2j/s+qBPaFkTw9v1May26uvBA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/de.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Od91V/kFoZe5By4B5d2mZ22ck+xjS3vO5XRWb0w5hR4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/el-GR.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cjZxDQcQpWapaAhXAx6qPUcjZ8yW8WZzGinVoYazSWk=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/en-GB.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/9hXUDBo14UZRvKKYyP5GNB5XWrKWt32kxzILSbNVdI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/en.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/9hXUDBo14UZRvKKYyP5GNB5XWrKWt32kxzILSbNVdI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/es-419.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			K7EYk6uUlDTOOPxks9PtSE+J78QgklIBdg8AwnQ/pFM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/es.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			K7EYk6uUlDTOOPxks9PtSE+J78QgklIBdg8AwnQ/pFM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/et-EE.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/WxtcJni/S9BydR65lGNDmVSB4HcVd4EQ3XuU7qbA74=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/fi.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			wZGuSGlKTASawFziw+kzCSU8ysLxvX3jTuen57zudU0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/fil.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5DSPgmcUT9/MwBZuYJURsj1g4fzRHAwOSzGz3eAU1t4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/fr-CA.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9R4U7G+uT4vobZnvwXAhjxzFy1N1O09WKM5vFgWMPzI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/fr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9R4U7G+uT4vobZnvwXAhjxzFy1N1O09WKM5vFgWMPzI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/hr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cTJ1HCtMO/zLjSVHoGn6qrkNoZMGnp7fYv8U1EuMgGE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/hu.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			+kUdEDHlj2LGxQTgANlruuwoecK4FM1mln/1TBNO7f0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/id.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			az7hzkuxK/hDMl7jluoGFJmN0XMp1XDm1/4Si5j6q4g=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/it.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jhYLbGKUGfVaHVfje+LN3xamsmILMItZnAYgIi2zfYY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/ja.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			aU9vm3LP24APT5w8nKc7wW1jtuS2rLtpJmFUuaFYLSE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/ko.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			9BgRmzGSSwDWvRyskDxfWa1CpRtgTUhmDvm/GXEZW6U=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/lt-LT.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			33bRTya8r6FFKE4uxh+0z7ES07dhebLl2KGwl9Hoi20=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/lv-LV.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			5nJeHobpo4VvPTUj5DLJgjYfJl0NeY6wODtF4X6Hhg4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/ms-MY.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			cObWH0BFgOoi1Cpcd6qt5YX38MWNME7uJWLCMlubuf0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/mt.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TtndS198rKZkoXcsDCGKZok+AEhzFrtVPLbvvJLUeNg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/nb.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Vbsv5oAH3TbdjKQ3+gajgjfZKLTnM+G7VX+lHk2FSRg=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/nl.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			T+4sodhbhusz7FJJibt+G5k31kwc1SDjQezZyivGI3o=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/nn-NO.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Wg2DtOlWOmyDk8vPCUpiLcjH2LUpH8SICGQt3ocwAcM=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/pl-PL.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Y28vULWYJ4ikdj7o5Rphe7A3MdNd1EiD3anvUHrohqc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/pt-BR.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			/qnFJ7Scjp8tLjVidN7Z7Qbxv4N0gkYW/MudaChAo+M=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/pt-PT.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			U1XXIAg+XUVa1xfd3XmuIrRdXNz58oF1K7E04tXA+e8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/ro-RO.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			w80+cYf4D20CmhT5RSOiGZrqoMbmnSomqdsl+QYLx6c=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/ru.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1m/QQbXFVQZsAbdJkwEWWYnI23fFWBqciRdOzx7ecC8=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/sk-SK.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			s71nx5D1trw7Qv87NT4Os0nqAYLR0yh71luqzKRROGQ=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/sl-SI.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Of3K5MJQqYV6i+DDg3VXlY5KM8WLaNhPgyK6Lgf97vY=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/sv.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Z6cSy0feQMSuKXmg6V+8TJB+XWg4B4qPQ2x//dbdCZo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/tk.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AbpHGcgLb+kRsJGnwFEktk7uzpZOCcBY74+YBdrKVGs=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/tr.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FgFZw0MbBrxs2wUYOSPt6VJqLyGCnBJ2+LMFP6Jo4/Q=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/vi.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			CYs1E60XxoQGZ++pOAAUQRvYXP0SF+jb4BhGq1/UCRI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/zh-HK.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			r3QKz4jsalsOzD9w6+k1ddH9DE9MEolNSsMq1yn56Vw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/zh-Hans.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			6hlh7+6ixosetnYIVaoqlfjD+he5OSRuq2O3zzf2dzE=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/StripeFinancialConnections.bundle/zh-Hant.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			r3QKz4jsalsOzD9w6+k1ddH9DE9MEolNSsMq1yn56Vw=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeFinancialConnections.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			I5XFNXG39UdhE3uCNkZR9Kq/Bf/vvAoUp5rTbwSENtc=
 			</data>
 		</dict>
 		<key>Frameworks/StripeUICore.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KXzh9DZo1Otap0CmUUBKYtIQhLtivNiP16TkoTUesfE=
+			5MMMeF4HtrIELQvE+nipTRCijZ85gVQ9lSCMADRtauY=
 			</data>
 		</dict>
 		<key>Frameworks/StripeUICore.framework/StripeUICore</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MwuSNwP3b0HpRc/CD5HfiAiQEJMMM7Kj7xImASyBCDo=
+			CBLhhAXeVnEVI7QVrvC4IfJQAj11+Ihz3jUXjIsS1I8=
 			</data>
 		</dict>
 		<key>Frameworks/StripeUICore.framework/StripeUICore.bundle/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oW/+C+I7SUB5tjq0RZ+YJYwZz1zr2/mQp3Rn9RiRj2g=
+			uBSgTd6Nb6lqcK2uyV5CdNhbjPB0GOIK6VbkS4RpcDE=
 			</data>
 		</dict>
 		<key>Frameworks/StripeUICore.framework/StripeUICore.bundle/_CodeSignature/CodeDirectory</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			oYxNmVms/bR3Pl1mlJV2qMPFCU9qCiaF2QrSugFWuak=
+			qOj1tWo6aWbIPnPM1zg3ENvvQwCDWrT64YuESQM6lSw=
 			</data>
 		</dict>
 		<key>Frameworks/StripeUICore.framework/StripeUICore.bundle/_CodeSignature/CodeRequirements</key>
@@ -5232,14 +6430,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			rQRc1b2ZpwHSVvRuv5hjgEMih4skM52rw9I9bYPlX2Y=
+			R2cVtsjpbx12TpPT77vkiLZNN+uYHdIUAxNs0Icbrm8=
 			</data>
 		</dict>
 		<key>Frameworks/StripeUICore.framework/StripeUICore.bundle/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			51QLt8bEfzMVfRCn0NAZx86KJQTnMTxHJhXCeUIPei4=
+			MsSXIHunQrJd7+YbR4NKOnYBuKwFskbtRmUReKNVeEU=
 			</data>
 		</dict>
 		<key>Frameworks/StripeUICore.framework/StripeUICore.bundle/_CodeSignature/CodeSignature</key>
@@ -5249,20 +6447,34 @@
 			47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=
 			</data>
 		</dict>
+		<key>Frameworks/StripeUICore.framework/StripeUICore.bundle/au_becs_bsb.json</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			w8BoD80byn9hOVcWVsJFl14VsG019QYXo3d+WjVUlq4=
+			</data>
+		</dict>
 		<key>Frameworks/StripeUICore.framework/StripeUICore.bundle/bg-BG.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dGbpzxTn8RkiyXUIket8qnefqjGzixhseTgol/lh0ww=
+			SLRrMO19FtQbBa5q0XWl5hX/iAjUrQZh5eW7yIOzDYM=
 			</data>
 			<key>optional</key>
 			<true/>
+		</dict>
+		<key>Frameworks/StripeUICore.framework/StripeUICore.bundle/brand_stripe@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			0kEo4BFK6eVqt1YpWFKoJ0lpuECQIu0ZryVNuGPjdtA=
+			</data>
 		</dict>
 		<key>Frameworks/StripeUICore.framework/StripeUICore.bundle/ca-ES.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LntKLeTBep+1iofVxA6E4gx7f5/dcXFOQlPGXdrI/ms=
+			ekOApeMjLUWGJX1sqaLUck0cryV6aE/kjFbrBkh2icY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5271,7 +6483,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8fbXPws1ROeWPhfVO2mA63lfV4HC5VzF7/MzfDuFZMk=
+			l7ILgIQ1xt5ApCK1e23stl/nx0sym2sGsdInvvEK3Q0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5280,7 +6492,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			V4BkIZcTWftyqwgZqR/4iwxQ5aXNnXAs53Dsz9fhtvk=
+			ZVxWH+mh84naN2qrgXG950N73Jo7/34OGUgphoh+xmQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5289,7 +6501,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5jfm/Y1ntrlQPUdEPsQqF2/PqCfKoHR+196+1HwmzG8=
+			CP64y5+ATfznQGWLZ7D8LvuZaI3raQtxzGc/xR2KFcE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5298,7 +6510,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0ZJcFK9dUKdljyOev4Msjd00arcqs/J12ET1i3vcstI=
+			d+e6oqUkyKQa5s67e5Dy5PT/hpdNm+gX6dD57co66+k=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5307,7 +6519,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			w3KtMu0lWG/Lz3riqehpHgX4H0naBrgIOBC5YX07vvg=
+			KEjBx56bPhQ1Jd41QkB0ltA3eAvCAHJ9/m/QQqIDsqk=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5316,7 +6528,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2guNOTIudLsI5ecSWt8bEQQiVztJ5fCUZZAVfp0UYuU=
+			tNeTAfFC7r/03QVqb4izItYBXSyrVHEmfymOkIyWAQY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5325,7 +6537,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2Of12+RcwnNHG1anTBZMxG32BqMw4QJQ1pPY0RSMj+U=
+			1+PbN104WpaXI8y4sJjw8k3gBhFnFDRb8doj99rw7MQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5334,7 +6546,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			h5evxqvQw09bMRKb3A+OUA8CRdPUW0Qj7jgXCsFGrM0=
+			A/4DrF8iZJab293LF1YEWpSNJ0xE05MS4mQFi+HWwrA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5343,7 +6555,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0Wh9nIEctX4ZYnpWiFDZL9l0gMBAf93DTDlCbloBdBg=
+			wXJ+tOvGclB3cNB7342C34QheVfVDDngDZFTPoDnQMg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5352,7 +6564,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Qx61GIzqkihTnhtIgWGj+LBIKz6fJ1/4vRIS751X77E=
+			foVjgubHfzICBTa3+Oib5l2Wb9efj7jgdFeJ+tPL9nM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5361,16 +6573,23 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4KXG0fZDIORUJzOS7nZdNGRRhN3+g754GeeDqpvZqfw=
+			zsj/b97ceoD43Ru/k1NzompYtDLVdNXOHT1RvY30jiI=
 			</data>
 			<key>optional</key>
 			<true/>
+		</dict>
+		<key>Frameworks/StripeUICore.framework/StripeUICore.bundle/form_error_icon@3x.png</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			DqE2+6qqFdcF9wHn7kLVwhY++7yQXXbAdvAQESeIBnE=
+			</data>
 		</dict>
 		<key>Frameworks/StripeUICore.framework/StripeUICore.bundle/fr-CA.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			RJDyaAmxqiyQpE5KH+lwpQna2xcSYDLUlY1vqAfQP6Y=
+			RY02lz0FtPZCZBRPqmoHf93V5ocDlEwb7IF6kQaw7Js=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5379,7 +6598,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			AoO5/NCMqsTKPz542qG3ALtSv691QMYqke4FM5XScUk=
+			l8KfpmGw0ylbLR3+XcWpivU1HdtLL/6vaNFj/W+/zPc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5388,7 +6607,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			83dn4UTRjcE2BTIP/S98xftUXwRXdzIutWOj9r+7B9M=
+			HH5HZmpp1zZXf8w3MuZTlWW7xQaiRVh1zW1p1eT0YkE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5397,7 +6616,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2y5Vek9YlJ+9IxrZPJp52cttTSYF0RiSIZyqlV8Pvxs=
+			2PL1QlIOwheZ6NcTvzWcTjlMifxFoJbJnedPKOt0aq0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5413,7 +6632,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oPX7eFbkg6FHsyY0FIri6nJfvmQ1kuYl0gqKmdG9C8Q=
+			nNndTDr7J8+n0ThY7vH0hAw+0oxrW6ylHwYxUF2XJdY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5422,7 +6641,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RtShYNo7e9MapwwSWZ3Y3yOMzhyznCfiNFv/LRmJCe0=
+			ns7yolSJkVWD3y+JVB5YIAXX6siCC1AXzildv/eE/D4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5431,7 +6650,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FpXqc8pd7Np+iMMNXi/k83wYA6WTCZpsjQYjdca9E/E=
+			msNsw38rj44xs3Z9g4KAwBDi2zK0qWiNqFNvBqX+QzQ=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5440,7 +6659,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			jVBrjOq45iw8KWuVcE8Ed0qg02E1jAftsBcZ6uPfOYM=
+			wQqCRj3eQ83SAbpTmlYWSg9eOWP9urTZOiJgSP9BOGE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5449,14 +6668,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4eQprfRvTcEsIiYG6ZwwYQ8HlX5pJufbQkiPFq/+QSQ=
+			AXywGjRyt0IMW1c9FnR3yi2aO2EynQ6qGKmbHYlEcDQ=
 			</data>
 		</dict>
 		<key>Frameworks/StripeUICore.framework/StripeUICore.bundle/lt-LT.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			KtyIfpgATi9FtkcgMF4qe3lOMEKYm8NXvNjTpw+xUnE=
+			s/wLOuhjkIx0xrVytu+GbSwxIFr39/9JIRWZsG8wkqw=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5465,7 +6684,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1k77KKF4fxZzsSYcWC8cAh3SaWgRs8GinEl5N3EhLb8=
+			u7uPy/GuKN8JpzWc4haCcJMKRC3ly95Fsm4Ds4SFU8A=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5474,7 +6693,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			d1A9JZ8a0GmDxLIDG/8k7fyopBwebeabUf/nqp4Iz4c=
+			LqhWw4jRwJuDnOiAQS9TiFTG/aeFK2a7ISwnG6ON988=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5483,7 +6702,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6UHXyrFyQELEUaWOlDLOW4JCRoirKRsOV56sYgPaKqg=
+			TlLDl6Y7KnooiNEjjjJvClgg2pn/xSSypjxEziDb8QE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5492,7 +6711,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6FX7g1WW0ody5NyWSePg9cWGOGfDuGSrmbSkeWcaCaw=
+			fhObaQ/n8W2iPxWMCEWw+K+xLm6jVADihEOD14sJ3qc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5501,7 +6720,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			oyQR0cczqzLworbHeWmMEv/8BZjI+Id8rOree7QtjY8=
+			k/jLXZQaqzONJf5FzIMchtQ114HDIp5jfbN0S3iO0Dg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5510,7 +6729,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6vO5AJq6+A0GHNv1/OmzFmJMsKhWPqyAl4wlMt5gltE=
+			kOOrMCbmEJocPi/of9/oPB3ki0jfAs8ASgZPitieVlU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5519,7 +6738,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YVcWO28Q4QHwJUg82LcEE4rX2FnSx0Jfd03SISXPoGM=
+			9fpXOGjAaNUoxgUuS6tN/Y2RC5gkyjK4lAnTwXcDOU8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5528,7 +6747,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2ixcAQbCypUnaHn5Fv4zLbSlpnyMqUDSkouTNW4poHY=
+			pIZndGkNkmVaGWLmYIpft8rWVXV1vztIMinZ1C24QU0=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5537,7 +6756,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KmX+9d4l5ig1W6tQAuQWouIwrlSIM4NhARhyW++e+L4=
+			D4pvVPYhCvZvJD6Uo+wJjPLw5KIv5cHMqHSxG/P9D8E=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5546,7 +6765,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+8RlwQMjk5aQLPdxy6fbl1GWxjM01L7mhjir4ePfMSQ=
+			ScdcHTaxaGqY2zzo/YpfZbvwO4/mMAZ3lFhHeCLqkCI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5555,7 +6774,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			RhuAYBQHHRrD3w5cQt8JT9noIwicp9tv03pKNWnnQdc=
+			RhNyA5NDSFWlJlqo4TinluivndFo6qOWUeB3favmmtE=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5564,7 +6783,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			UbktbZH6QWt9TcdhBqAIIXbM7e3S9p0MepZhX9eJMns=
+			qH/DGdlU4zWExTN71+HPhadfKVCJGKuZz+ScNwxhQDI=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5573,7 +6792,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			MQ1K0XE1NyzoMYBRk4u6oyWHT70Q3GIBBzaYd6BIb9Y=
+			MxlkS2/XyyEWBxFs2H1TZb0D3iQsR5PBruTGADegT6Y=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5582,7 +6801,16 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nNNAPqUEwCmbXsXhreo8qwRhrDl0ncvUB4yubhX98Kw=
+			gdBIZHHyjjNomBIkcFqXsk1aGf/v9P2cPWMS4ioiyS0=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>Frameworks/StripeUICore.framework/StripeUICore.bundle/tk.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			AbpHGcgLb+kRsJGnwFEktk7uzpZOCcBY74+YBdrKVGs=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5591,7 +6819,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			stcwFbHc6CqGGgxK1qaP4snH0Si1RiaNdTEaeH8c5Gs=
+			KufA/9i6QZYNS1RFgQQOPE786vcP6wecgzmXLCKxbaM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5600,7 +6828,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			KEQSdoHvVbbIlAA33iiW9pZRSK4XJnqSkXurzaN8Cbw=
+			oGEdFvM0VGdnqBWs2ChewzIHnvJ7av4L3S514cJI0KM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5609,7 +6837,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			6twIYhOK+tkNhM7F9FmWzEdQpcmIgGrd3DQgUEpd7mg=
+			PWvzOVtpnBVo3PpZEvnsLUkbCPaAnp8v23lUQcMkmfY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5618,7 +6846,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			dPiQZAYvil031m2uVuL0MZc92C4sdWpJl0U6cIEoGOs=
+			zeiIVRDcdF7/3OGsc6MdlvCUdRgNgT2JhkThHp0b6g8=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5627,7 +6855,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			5AOrenWvh9sbaKZkOR/4HPWzKMEcEcWOgXgGaeSsHWE=
+			hrICYMEmHLCvGzQMXaUDx/3G67g8bsjYegfMdy+cp5o=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -5636,238 +6864,301 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			tNUjFNcJ+nHqka3IQJEtcf11kI0rDa8DyPjtJEyLkvI=
+			TfwTcWQ8L2vKfz7oi8OkBteDKPmztjywUHMOLYcNoMg=
 			</data>
 		</dict>
-		<key>Frameworks/device_info.framework/Info.plist</key>
+		<key>Frameworks/audio_session.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IZeK+pEZ3IPOWfVdQ4GDsXsrExBaEpqyXPQfNtmHsGk=
+			F48oQn4Zd7MWcRSfEQfb1OHKlopDxRMenrHP9GGe7UI=
 			</data>
 		</dict>
-		<key>Frameworks/device_info.framework/_CodeSignature/CodeResources</key>
+		<key>Frameworks/audio_session.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			IwfNV4Z5xItOdCaLwplyOx8s9Z6hxI/9aTp4VV4RbV8=
+			tHbAvF/X4lfOrjiZSZbZFY1cTdovSgkLFqAm3q0GAyQ=
 			</data>
 		</dict>
-		<key>Frameworks/device_info.framework/device_info</key>
+		<key>Frameworks/audio_session.framework/audio_session</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cT/4aHxQdrpGvlfDsfB/uI7vB6Nv9UQKOHkCd0LMCk0=
+			oWbsGf98NRGZ3aoowrOynJJtLomK24apfzuzsin1y+M=
+			</data>
+		</dict>
+		<key>Frameworks/device_info_plus.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			jyeObVojKdUxGt3eib7S4oyL0tMq/598oRrKl7pfLII=
+			</data>
+		</dict>
+		<key>Frameworks/device_info_plus.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TJQle9/4M5JpHe2lKb1nyogkzWzSlQApqdv0wQd4Esg=
+			</data>
+		</dict>
+		<key>Frameworks/device_info_plus.framework/device_info_plus</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			RFBpITUS5wj0IJZ+f6KaVVRljP1u3kScjCoaP0ytA88=
 			</data>
 		</dict>
 		<key>Frameworks/flutter_secure_storage.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			SYs+/fbKlamI+ajo6TP/03xf4B4FZCfgcIDNwxT8w9M=
+			GSyal0Xbah/jcr5uHhFGmh4sw5AfGQJu0huCxdGyZ/c=
 			</data>
 		</dict>
 		<key>Frameworks/flutter_secure_storage.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4ogOVsoZHP6s1UCSKTOrG3fXvor3IxC3berRA/5GJg4=
+			+rzB1/rGc/avPK1IirI88r7k7q3+dMBsQ2U/6raEsls=
 			</data>
 		</dict>
 		<key>Frameworks/flutter_secure_storage.framework/flutter_secure_storage</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pbiGKTTP8ATX3eRe+0y4wQueKHlJfsyuZU0vQp/DD8g=
+			XExGOPUDz74OUTS684cUo1XhUVi6ljyqIxmd9GXq//Y=
 			</data>
 		</dict>
 		<key>Frameworks/flutter_web_browser.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			76jR6i8Sq9iMzRkwM+mIL2hFPjoAEcoNxSQPsVHYRfI=
+			AdTkbFBGG/3zUXkfjzsGTAK6S3GPvRf2lYX/caScT/c=
 			</data>
 		</dict>
 		<key>Frameworks/flutter_web_browser.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8TzKdOEJkWjbpYijCi/PfncyLgGMGctA22IJED9o5pI=
+			9x07uDjS6VL3+xCCGzZUuXuDiqexrtUiDKVUebvs+oc=
 			</data>
 		</dict>
 		<key>Frameworks/flutter_web_browser.framework/flutter_web_browser</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			BBPBIEiCwPz77ymVDTgSsITWdXbz4/+Chy93V6HLbxs=
+			zCz5wL0z1d4I4f81ujYC32JK2nvdiFzZ6YifZsc6ZkU=
 			</data>
 		</dict>
-		<key>Frameworks/hexcolor.framework/Info.plist</key>
+		<key>Frameworks/just_audio.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			uHpoB5ozmMBQeppjcyDuLqp4WUkkOFqq48qfylsXiNY=
+			TCON8l0wJPWNWkD3E4m1gwfA+giCzEHIZThIUa68aF8=
 			</data>
 		</dict>
-		<key>Frameworks/hexcolor.framework/_CodeSignature/CodeResources</key>
+		<key>Frameworks/just_audio.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xnoMpxEIkAuK0F012gHZpFzxkeJcCCU456NIlbPj0gg=
+			Kwo223jIjSvvE0AHviOfSE66WQob8CTT8qT8WB+Xaoc=
 			</data>
 		</dict>
-		<key>Frameworks/hexcolor.framework/hexcolor</key>
+		<key>Frameworks/just_audio.framework/just_audio</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wJmDQP2RSrpxRWDAPyTB9g/dlsvr9xzgITpKs+SulmU=
+			VzVeNYGkCCx6C7OrwW39SeOlmYYwa4X2EsoyFA5Oopg=
 			</data>
 		</dict>
 		<key>Frameworks/package_info.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			/KkCSwgXMeAXhWXnDryPUdBaoD11ngf9aaOlLcPAhcs=
+			Ed4AojmqfQF2Y1OHZxQs3L/GIC+6M4QW5uDnbtR7oRw=
 			</data>
 		</dict>
 		<key>Frameworks/package_info.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			h5PQjYVrfFjJSjrV2XSowYJXmwfJTuw5XSxLHOQAPEs=
+			KDKO00T081pCveIF7pKqZbXrVKOkF8Wa2V8sVkys7RM=
 			</data>
 		</dict>
 		<key>Frameworks/package_info.framework/package_info</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			MbN7uh0Y7jyI6rLR5/a/5WR0LykkRlAiRfu8ZIsbk9U=
+			vpmR/zq+CbOOkknjHpLbtWIqCyUbHsXp2VeXtaLYEsw=
 			</data>
 		</dict>
-		<key>Frameworks/path_provider.framework/Info.plist</key>
+		<key>Frameworks/path_provider_ios.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			dbhgC6rZ4I5M9tlaVmgnWq2L8ahSw10CNgI4GGFt5VM=
+			59jeSejBvCUdPQaeUGmPEy8nzh92y+80HhXGV9i6qHk=
 			</data>
 		</dict>
-		<key>Frameworks/path_provider.framework/_CodeSignature/CodeResources</key>
+		<key>Frameworks/path_provider_ios.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			sJzRvWOnJ1H6IWC5JkXDosNX6Pg6RiRDohzs+rG09AI=
+			7AtJsd41AV/XitIOBBD1cK4bwTmes9Fk8WgZ5F33AsQ=
 			</data>
 		</dict>
-		<key>Frameworks/path_provider.framework/path_provider</key>
+		<key>Frameworks/path_provider_ios.framework/path_provider_ios</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			tPB0eE4OCFXwmNAMv4WBlY6K3/YOXOa2T473FCZnGCA=
+			MT0jQ9SjlWSPt1/I+uu1C4SXOJXgTscNVSCXlzggYlk=
 			</data>
 		</dict>
 		<key>Frameworks/shared_preferences_ios.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yzccEYy7Rtlk/c8KFF3j0uttpTYX3QGJlLXTWA3qEM4=
+			0Jm+qTCoxdS8ltcmmHRe4ngjKKTap7pJ1ASABTa3HMg=
 			</data>
 		</dict>
 		<key>Frameworks/shared_preferences_ios.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			AmhASUKOe26Zlqv/ctV2VWoZYaMgaPdKEYeu+Ok21rg=
+			9ieOmaSx1kmBilb8Ek5GgfyxXbrgjwgn8gQXMgi9grI=
 			</data>
 		</dict>
 		<key>Frameworks/shared_preferences_ios.framework/shared_preferences_ios</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9RsyWvgq0822CUC7JklXgJAG2yWbiuMz3VOUXmAulGM=
+			ovgPnWWEWvFir2JMOhrbrEsGPuCcXYmsW3MfP9BYye0=
 			</data>
 		</dict>
 		<key>Frameworks/sqflite.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GmJ6/LicvOwmGoVB2hg6GcMOOWpqYfCskYpKs9iduqA=
+			5ZQKdlV7MU2jl6ss9oMQ6CNm6Kxn5pHdMtb0BNrV+JI=
 			</data>
 		</dict>
 		<key>Frameworks/sqflite.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			a33+ZOx/gqT3f/9rpkESVSIjg1H8A+BWD5gnxATXuyc=
+			TXcI6UJaKtyMbBaIWM8ZlWMS7wdorzUjMkvbGuOL7EY=
 			</data>
 		</dict>
 		<key>Frameworks/sqflite.framework/sqflite</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3HVSvdux6ffLKerdxrTDKw0opi4nAA9Zl/F0f9rtyFc=
+			gAcZDnjTW1EAYE/m6VIRe4P9rOAeWJ1Yfvz0beBVftY=
 			</data>
 		</dict>
 		<key>Frameworks/stripe_ios.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			NzEJ0jXfe1pIsVNw+dAIGTsBLqYjUV4za3jrlyRHL5U=
+			aogOTj1BQ+Kz3LIVBL+8Wg/MAzK5LAqpSuyxdogmcDM=
 			</data>
 		</dict>
 		<key>Frameworks/stripe_ios.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			yl/pqxr46d4VpQw5CPLGPhWIH2oeCZTv9BJ5MDSW4aQ=
+			e9Zz2HeSSMx2nOpc+Tdw1y8uU4wmTOVxkFTKB/kjx9g=
 			</data>
 		</dict>
 		<key>Frameworks/stripe_ios.framework/stripe_ios</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			G+Pi++JtorFJAihN+Y5VsofRXpOyQz6kNgqXYxhBcVA=
+			E20oxKBbNOUDDJS7aDcNloZymvwlxwhB8L87vD00E64=
 			</data>
 		</dict>
 		<key>Frameworks/url_launcher_ios.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			gzN6IvT1H2zRcudGFbMw7A9b6jlS3OoxZXLFaMbhMDw=
+			P2IbHkkFWqlUkvMef28jdd9BQ3DVMbw+3Z2BGcqJ7U8=
 			</data>
 		</dict>
 		<key>Frameworks/url_launcher_ios.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			i8IUM7NiNcVW/CR8Iw713nz0RwLN6VNJo/zXn5pDZt4=
+			6AmYVMxNIbLFCq0T2+YeHKCF1DSk4fhmp72TZ2MYApI=
 			</data>
 		</dict>
 		<key>Frameworks/url_launcher_ios.framework/url_launcher_ios</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			K3F6+Kfx78l330CeGH8ojOBvnrhSbuojPEPWxNYUJHk=
+			FjnLgFcSPdhvNUjB7xWO/cQKXAmUNwe24sSDugMepX4=
+			</data>
+		</dict>
+		<key>Frameworks/video_player_avfoundation.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			pZjRHL6BH74vobuQiTrCs7BN8v6sI/OejQngEA24ISk=
+			</data>
+		</dict>
+		<key>Frameworks/video_player_avfoundation.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1jyhEdidbmIsoSTPn//8EFNpC5kobs+EkdwI5rGEibo=
+			</data>
+		</dict>
+		<key>Frameworks/video_player_avfoundation.framework/video_player_avfoundation</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			G50ba31RJX8PLy3i8M98VoWk/5xoQR6ZQUuQtGc/WeU=
+			</data>
+		</dict>
+		<key>Frameworks/wakelock.framework/Info.plist</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			lDowN/eL4GyJf16cnSxwZwCwAQcEFwGhsDYtKsMVnpg=
+			</data>
+		</dict>
+		<key>Frameworks/wakelock.framework/_CodeSignature/CodeResources</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			eWcly1l/SW1/HrIuWC0l5UIKzrF0OTPDoE659xwiZyQ=
+			</data>
+		</dict>
+		<key>Frameworks/wakelock.framework/wakelock</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1AzGs2qst7fhlAzeFwIrQgXS+Uk+qfpQnBVBHc7m100=
 			</data>
 		</dict>
 		<key>Frameworks/webview_flutter_wkwebview.framework/Info.plist</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9DnKcFtqZeVegfbdDsURvDolOP1x47QWxIHVnE/YS6k=
+			MQiG2kzweZYHnuS2LUXYc7nkddZMzfxkioTpAXE6Bwk=
 			</data>
 		</dict>
 		<key>Frameworks/webview_flutter_wkwebview.framework/_CodeSignature/CodeResources</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			71MMkIV7JfBOZc19iE4D8xtgnfKa5tw49YJICUVWiBE=
+			H9H0kyK2BZgDmfrq5ak3rr+6KzOAGtBeWqL2K1c+/Sw=
 			</data>
 		</dict>
 		<key>Frameworks/webview_flutter_wkwebview.framework/webview_flutter_wkwebview</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			9ce00giwpeiIFMiPx36blVt53kdLLf+erluNA+vKn+4=
+			z3O3D/J6P/HB+wavcUL8Yu/9Ynodn4kt9buiRlS65js=
 			</data>
 		</dict>
 	</dict>

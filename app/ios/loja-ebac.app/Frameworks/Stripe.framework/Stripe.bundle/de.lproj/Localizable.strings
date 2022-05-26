@@ -40,6 +40,9 @@
 /* Title shown above a card entry form */
 "Add a card" = "Karte hinzufügen";
 
+/* Button prompt to add a bank account as a payment method. */
+"Add bank account" = "Bankkonto hinzufügen";
+
 /* Label of a button displayed below a card entry form that saves the card details */
 "Add card" = "Karte hinzufügen";
 
@@ -52,11 +55,17 @@
 /* Address line 2 placeholder for billing address form. */
 "Address line 2 (optional)" = "Adresszeile 2 (optional)";
 
+/* Payment Method type brand name */
+"Affirm" = "Affirm";
+
 /* Payment Method type brand name  */
 "Afterpay" = "Afterpay";
 
 /* Payment Method type brand name */
 "AfterpayClearpay" = "AfterpayClearpay";
+
+/* Payment Method type brand name */
+"AfterpayClearpay_copy" = "AfterpayClearpay";
 
 /* Source type brand name */
 "Alipay" = "Alipay";
@@ -88,6 +97,9 @@
 /* Source type brand name */
 "Bancontact" = "Bancontact";
 
+/* Link Instant Debit payment method display name */
+"Bank" = "Bank";
+
 /* Label for Bank Account selection or detail entry form */
 "Bank Account" = "Bankkonto";
 
@@ -100,11 +112,26 @@
 /* Payment Method type brand name */
 "Boleto" = "Boleto";
 
+/* Klarna buy now or pay later copy */
+"Buy now or pay later with Klarna." = "Jetzt kaufen oder später mit Klarna bezahlen.";
+
+/* Text providing link to terms for ACH payments */
+"By continuing, you agree to authorize payments pursuant to <terms>these terms</terms>." = "Indem Sie fortfahren, akzeptieren Sie die Autorisierung von Zahlungen gemäß <terms>diesen Bedingungen</terms>.";
+
+/* Mandate text displayed when paying via Link instant debit. */
+"By continuing, you agree to authorize payments pursuant to these <terms>terms</terms>." = "Indem Sie fortfahren, akzeptieren Sie die Autorisierung von Zahlungen gemäß <terms>diesen Bedingungen</terms>.";
+
+/* Legal text shown when creating a Link account. */
+"By joining Link, you agree to the <terms>Terms</terms> and <privacy>Privacy Policy</privacy>." = "Indem Sie Link beitreten, stimmen Sie den <terms>Nutzungsbedingungen</terms> und der <privacy>Datenschutzerklärung</privacy> zu.";
+
 /* SEPA legal authorization text – must use official translations. */
 "By providing your IBAN and confirming this payment, you are authorizing %@ and Stripe, our payment service provider, to send instructions to your bank to debit your account and your bank to debit your account in accordance with those instructions. You are entitled to a refund from your bank under the terms and conditions of your agreement with your bank. A refund must be claimed within 8 weeks starting from the date on which your account was debited." = "Indem Sie Ihre IBAN angeben und diese Zahlung bestätigen, ermächtigen Sie %@ und Stripe, unseren Zahlungsdienstleister, Ihrer Bank Anweisungen zur Belastung Ihres Kontos und Ihrer Bank zur Belastung Ihres Kontos gemäß diesen Anweisungen zu senden. Sie haben Anspruch auf Rückerstattung von Ihrer Bank gemäß den Bedingungen Ihrer Vereinbarung mit Ihrer Bank. Eine Rückerstattung muss innerhalb von 8 Wochen ab dem Datum der Belastung Ihres Kontos beantragt werden.";
 
 /* SEPA mandate text */
 "By providing your payment information and confirming this payment, you authorise (A) %@ and Stripe, our payment service provider, to send instructions to your bank to debit your account and (B) your bank to debit your account in accordance with those instructions. As part of your rights, you are entitled to a refund from your bank under the terms and conditions of your agreement with your bank. A refund must be claimed within 8 weeks starting from the date on which your account was debited. Your rights are explained in a statement that you can obtain from your bank. You agree to receive notifications for future debits up to 2 days before they occur." = "Durch Angabe der Zahlungsinformationen und Bestätigung der Zahlung ermächtigen Sie (A) %@ und Stripe, unseren Zahlungsdienstleister, Zahlungen von Ihrem Konto mittels Lastschrift einzuziehen. Zugleich (B) weisen Sie Ihr Kreditinstitut gemäß diesen Anweisungen an, Ihr Konto entsprechend zu belasten. Sie haben im Rahmen Ihrer Rechte Anspruch auf Erstattung von Ihrem Kreditinstitut gemäß den vereinbarten Bedingungen mit Ihrem Kreditinstitut. Sie können innerhalb von 8 Wochen, beginnend mit dem Belastungsdatum, die Erstattung des belasteten Betrages verlangen. Es gelten dabei die mit Ihrem Kreditinstitut vereinbarten Bedingungen. Weiterhin erklären Sie sich damit einverstanden, die Vorabankündigung bis spätestens 2 Tage vor Zahlungseinzug zu erhalten.";
+
+/* Mandate text with link to terms when saving a bank account payment method to a merchant (merchant name replaces %@). */
+"By saving your bank account for %@ you agree to authorize payments pursuant to <terms>these terms</terms>." = "Indem Sie Ihr Bankkonto für %@ speichern, akzeptieren Sie die Autorisierung von Zahlungen gemäß <terms>diesen Bedingungen</terms>.";
 
 /* Title for card number entry field */
 "CARD" = "Karte";
@@ -120,9 +147,6 @@
 
 /* Label for entering CVV in text field */
 "CVV" = "CVV";
-
-/* Button title to cancel action in an alert */
-"Cancel" = "Abbrechen";
 
 /* Title for credit card number entry field */
 "Card" = "Karte";
@@ -147,9 +171,6 @@
 
 /* Title for contact info form */
 "Contact" = "Kontakt";
-
-/* Text for continue button */
-"Continue" = "Weiter";
 
 /* Title for delivery address entry section */
 "DELIVERY ADDRESS" = "Lieferadresse";
@@ -193,6 +214,9 @@
 /* Source type brand name */
 "Klarna" = "Klarna";
 
+/* Link Payment Method type brand name */
+"Link" = "Link";
+
 /* Title for screen when data is still loading from the network. */
 "Loading…" = "Wird geladen...";
 
@@ -223,9 +247,6 @@
 /* Button to move to the next text entry field */
 "Next" = "Weiter";
 
-/* No comment provided by engineer. */
-"OK" = "OK";
-
 /* Payment Method type brand name */
 "OXXO" = "OXXO";
 
@@ -238,14 +259,14 @@
 /* Title of a section containing a card form that will collect the payment information from the user. */
 "Or pay with a card" = "Oder mit Karte bezahlen";
 
-/* An option in a dropdown selector indicating the customer's desired selection is not in the list. e.g., 'Choose your bank: Bank1, Bank2, Other' */
-"Other" = "Sonstiges";
-
 /* Source type brand name */
 "P24" = "P24";
 
 /* Label of a button that initiates payment when tapped */
 "Pay %@" = "%@ zahlen";
+
+/* Klarna pay later copy */
+"Pay later with Klarna." = "Später mit Klarna bezahlen.";
 
 /* Pay with {payment method} */
 "Pay with %@" = "Mit %@ bezahlen";
@@ -255,9 +276,6 @@
 
 /* Title for Payment Method screen */
 "Payment Method" = "Zahlungsmethode";
-
-/* Caption for Phone field on address form */
-"Phone" = "Telefon";
 
 /* Accessibility instructions for card scanning. */
 "Point the camera at your card." = "Richten Sie die Kamera auf die Karte.";
@@ -317,15 +335,9 @@
 /* The label of a switch indicating whether to save the user&apos;s card for future payments to this merchant */
 
 "Save this card for future %@ payments" = "Karte für zukünftige Zahlungen von %@ speichern";
-/* Text for button to scan a credit card */
+/* The label of a switch indicating whether to save the user's card for future payment */
 
-"Scan Card" = "Karte scannen";
-/* Button title to open camera to scan credit/debit card */
-
-"Scan card" = "Karte scannen";
-/* Label of a button displayed below a payment method form. Tapping the button closes the form and uses the entered payment method details for checkout in the next step */
-
-"Select" = "Auswählen";
+"Save this card for future Stripe payments" = "Diese Karte für zukünftige Stripe-Zahlungen speichern";
 /* label for iDEAL-bank selection picker */
 
 "Select bank" = "Bank auswählen";
@@ -351,6 +363,9 @@
 
 /* Caption for generalized state/province/region field on address form (not tied to a specific country&apos;s format) */
 "State / Province / Region" = "Bundesland / Kanton / Region";
+
+/* Prompt for microdeposit verification before completing purchase with merchant. %@ will be replaced by merchant business name */
+"Stripe will deposit $0.01 to your account in 1-2 business days. Then you’ll get an email with instructions to complete payment to %@." = "In ein bis zwei Werktagen wird Stripe Ihrem Konto einen Betrag von 0,01 USD gutschreiben. Danach erhalten Sie eine E-Mail mit weiteren Anweisungen zur Durchführung der Zahlung an %@.";
 
 /* Error string displayed to user when they have entered an incomplete BSB number. BSB refers to an Australian bank account number */
 "The BSB you entered is incomplete." = "Die eingegebene BSB-Nummer ist unvollständig.";

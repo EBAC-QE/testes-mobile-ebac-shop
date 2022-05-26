@@ -13,8 +13,17 @@
 /* Label of an address field in hk */
 "Area" = "Regio";
 
+/* Placeholder for AU BECS BSB number */
+"BSB number" = "BSB-nummer";
+
+/* Button title to cancel action in an alert */
+"Cancel" = "Annuleren";
+
 /* Caption for City field on address form */
 "City" = "Plaats";
+
+/* Text for continue button */
+"Continue" = "Doorgaan";
 
 /* Caption for Country field on address form */
 "Country" = "Land";
@@ -46,17 +55,41 @@
 /* Used to describe address in United Arab Emirates */
 "Emirate" = "Emiraat";
 
+/* Label for first (given) name field */
+"First" = "Voornaam";
+
+/* Error description for incomplete phone number */
+"Incomplete phone number" = "Onvolledig telefoonnummer";
+
 /* Label of an address field */
 "Island" = "Eiland";
+
+/* Label for last (family) name field */
+"Last" = "Achternaam";
+
+/* Form field header for entering a mobile phone number */
+"Mobile number" = "Mobiel nummer";
 
 /* Caption for Name field on address form */
 "Name" = "Naam";
 
+/* Label for Name on account field on form */
+"Name on account" = "Naam op account";
+
+/* No comment provided by engineer. */
+"OK" = "OK";
+
 /* Label of an address field */
 "Oblast" = "Oblast";
 
+/* An option in a dropdown selector indicating the customer's desired selection is not in the list. e.g., 'Choose your bank: Bank1, Bank2, Other' */
+"Other" = "Overige";
+
 /* Label of an address field */
 "Parish" = "Parochie";
+
+/* Caption for Phone field on address form */
+"Phone" = "Telefoon";
 
 /* Short string for postal code (text used in non-US countries) */
 "Postal code" = "Postcode";
@@ -76,8 +109,17 @@
 /* Label of an address field */
 "Suburb or city" = "Stad of voorstad";
 
+/* An error message. */
+"The ID number you entered is incomplete." = "Het opgegeven identificatienummer is onvolledig.";
+
+/* Error description for incomplete account number */
+"The account number you entered is incomplete." = "Het opgegeven rekeningnummer is onvolledig.";
+
 /* Label of an address field */
 "Town or city" = "Stad of plaats";
+
+/* Error string when we can't parse a phone number */
+"Unable to parse phone number" = "Kan telefoonnummer niet parseren";
 
 /* Error message when email is invalid */
 "Your email is invalid." = "Je e-mailadres is ongeldig.";

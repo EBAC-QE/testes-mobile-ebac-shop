@@ -19,6 +19,9 @@
 /* This is a Payment Method type brand name so shouldn&apos;t be translated unless it has a different name in a given localization. */
 "AU BECS Debit" = "Χρέωση AU BECS";
 
+/* Payment Method type brand name. */
+"AU BECS Direct Debit" = "Άμεση χρέωση AU BECS";
+
 /* part of {Account} ending in {last4} */
 "Account" = "Λογαριασμός";
 
@@ -40,6 +43,9 @@
 /* Title shown above a card entry form */
 "Add a card" = "Προσθήκη μιας κάρτας";
 
+/* Button prompt to add a bank account as a payment method. */
+"Add bank account" = "Προσθήκη τραπεζικού λογαριασμού";
+
 /* Label of a button displayed below a card entry form that saves the card details */
 "Add card" = "Προσθήκη κάρτας";
 
@@ -49,11 +55,11 @@
 /* Title shown above a form where the customer can enter payment information like credit card details, email, billing address, etc. */
 "Add your payment information" = "Προσθέστε τα στοιχεία πληρωμής σας";
 
-/* Caption for Address field on address form */
-"Address" = "Διεύθυνση";
-
 /* Address line 2 placeholder for billing address form. */
 "Address line 2 (optional)" = "Γραμμή διεύθυνσης 2 (προαιρετικό)";
+
+/* Payment Method type brand name */
+"Affirm" = "Affirm";
 
 /* Payment Method type brand name  */
 "Afterpay" = "Afterpay";
@@ -72,9 +78,6 @@
 
 /* Caption for Apartment/Address line 2 field on address form */
 "Apt." = "Διαμ.";
-
-/* Label of an address field in hk */
-"Area" = "Περιοχή";
 
 /* Title for bank picker section */
 "BANK" = "ΤΡΑΠΕΖΑ";
@@ -97,6 +100,9 @@
 /* Source type brand name */
 "Bancontact" = "Bancontact";
 
+/* Link Instant Debit payment method display name */
+"Bank" = "Τράπεζα";
+
 /* Label for Bank Account selection or detail entry form */
 "Bank Account" = "Τραπεζικός λογαριασμός";
 
@@ -106,11 +112,32 @@
 /* Billing address section title for card form entry. */
 "Billing address" = "Διεύθυνση χρέωσης";
 
+/* Payment Method type brand name */
+"Boleto" = "Boleto";
+
+/* Klarna buy now or pay later copy */
+"Buy now or pay later with Klarna." = "Αγορά τώρα ή πληρωμή αργότερα με Klarna.";
+
+/* Text providing link to terms for ACH payments */
+"By continuing, you agree to authorize payments pursuant to <terms>these terms</terms>." = "Εάν συνεχίσετε, συμφωνείτε να εξουσιοδοτείτε πληρωμές με βάση <terms>αυτούς τους όρους</terms>.";
+
+/* Mandate text displayed when paying via Link instant debit. */
+"By continuing, you agree to authorize payments pursuant to these <terms>terms</terms>." = "Εάν συνεχίσετε, συμφωνείτε να εξουσιοδοτείτε πληρωμές με βάση αυτούς τους <terms>όρους</terms>.";
+
+/* Legal text shown when creating a Link account. */
+"By joining Link, you agree to the <terms>Terms</terms> and <privacy>Privacy Policy</privacy>." = "Με την εγγραφή σας στο Link, συμφωνείτε με τους <terms>Όρους</terms> και την <privacy>Πολιτική απορρήτου</privacy>.";
+
 /* SEPA legal authorization text – must use official translations. */
 "By providing your IBAN and confirming this payment, you are authorizing %@ and Stripe, our payment service provider, to send instructions to your bank to debit your account and your bank to debit your account in accordance with those instructions. You are entitled to a refund from your bank under the terms and conditions of your agreement with your bank. A refund must be claimed within 8 weeks starting from the date on which your account was debited." = "Παρέχοντας τον κωδικό IBAN σας και επιβεβαιώνοντας αυτήν την πληρωμή, εξουσιοδοτείτε τον χρήστη %@ και τη Stripe, τον πάροχο υπηρεσιών πληρωμών μας, να στέλνουν οδηγίες στην τράπεζά σας για χρέωση του λογαριασμού σας και την τράπεζά σας να χρεώνει τον λογαριασμό σας σύμφωνα με αυτές τις οδηγίες. Δικαιούστε επιστροφή χρημάτων από την τράπεζά σας σύμφωνα με τους όρους και τις προϋποθέσεις της συμφωνίας σας με την τράπεζά σας. Η αξίωση για επιστροφή χρημάτων πρέπει να υποβληθεί εντός 8 εβδομάδων από την ημερομηνία χρέωσης του λογαριασμού σας.";
 
+/* Legal text shown when using AUBECS. */
+"By providing your bank account details and confirming this payment, you agree to this Direct Debit Request and the <terms>Direct Debit Request service agreement</terms>, and authorise Stripe Payments Australia Pty Ltd ACN 160 180 343 Direct Debit User ID number 507156 (“Stripe”) to debit your account through the Bulk Electronic Clearing System (BECS) on behalf of %@ (the \"Merchant\") for any amounts separately communicated to you by the Merchant. You certify that you are either an account holder or an authorised signatory on the account listed above." = "Παρέχοντας τα στοιχεία του τραπεζικού λογαριασμού σας και επιβεβαιώνοντας την παρούσα πληρωμή, συμφωνείτε με το παρόν Αίτημα Άμεσης Χρέωσης και τη <terms>Σύμβαση παροχής υπηρεσιών Αιτήματος Άμεσης Χρέωσης</terms> και εξουσιοδοτείτε την Stripe Payments Australia Pty Ltd, με εταιρικό αριθμό ACN 160 180 343 και Αναγνωριστικό αριθμό Χρήστη Άμεσης Χρέωσης 507156 («Stripe») να χρεώσει τον λογαριασμό σας μέσω του Bulk Electronic Clearing System (BECS) εκ μέρους της %@ (ο «Έμπορος») για οποιαδήποτε ποσά, για τα οποία θα σας ενημερώνει χωριστά ο Έμπορος. Βεβαιώνετε ότι είστε δικαιούχος λογαριασμού ή εξουσιοδοτημένος υπογράφων για τον λογαριασμό που εμφανίζεται παραπάνω.";
+
 /* SEPA mandate text */
 "By providing your payment information and confirming this payment, you authorise (A) %@ and Stripe, our payment service provider, to send instructions to your bank to debit your account and (B) your bank to debit your account in accordance with those instructions. As part of your rights, you are entitled to a refund from your bank under the terms and conditions of your agreement with your bank. A refund must be claimed within 8 weeks starting from the date on which your account was debited. Your rights are explained in a statement that you can obtain from your bank. You agree to receive notifications for future debits up to 2 days before they occur." = "Με την παροχή των στοιχείων πληρωμής σας και επιβεβαιώνοντας αυτήν την πληρωμή, εξουσιοδοτείτε (A) την %@ και την Stripe, τον πάροχο υπηρεσιών πληρωμών μας, να στείλουν οδηγίες στην τράπεζά σας προκειμένου να χρεώσει τον λογαριασμό σας και (B) την τράπεζά σας προκειμένου να χρεώσει τον λογαριασμό σας, σύμφωνα με τις οδηγίες αυτές. Στο πλαίσιο των δικαιωμάτων σας, δικαιούστε επιστροφή από την τράπεζά σας με βάση τους όρους και τις προϋποθέσεις που διατυπώνονται στη σύμβαση με την τράπεζά σας. Η αξίωση για επιστροφή πρέπει να υποβληθεί εντός 8 εβδομάδων από την ημερομηνία χρέωσης του λογαριασμού σας. Τα δικαιώματά σας επεξηγούνται σε αναλυτική κατάσταση, την οποία μπορείτε να εξασφαλίσετε από την τράπεζά σας. Συμφωνείτε να λαμβάνετε ειδοποιήσεις για μελλοντικές χρεώσεις έως και 2 ημέρες προτού προκύψουν.";
+
+/* Mandate text with link to terms when saving a bank account payment method to a merchant (merchant name replaces %@). */
+"By saving your bank account for %@ you agree to authorize payments pursuant to <terms>these terms</terms>." = "Αποθηκεύοντας τον τραπεζικό λογαριασμό σας για την %@, συμφωνείτε να εξουσιοδοτείτε πληρωμές σύμφωνα με <terms>αυτούς τους όρους</terms>.";
 
 /* Title for card number entry field */
 "CARD" = "ΚΑΡΤΑ";
@@ -127,9 +154,6 @@
 /* Label for entering CVV in text field */
 "CVV" = "CVV";
 
-/* Button title to cancel action in an alert */
-"Cancel" = "Ακύρωση";
-
 /* Title for credit card number entry field */
 "Card" = "Κάρτα";
 
@@ -145,9 +169,6 @@
 /* TODO */
 "Choose a payment method" = "Επιλέξτε μέθοδο πληρωμής";
 
-/* Caption for City field on address form */
-"City" = "Πόλη";
-
 /* Payment Method type brand name */
 "Clearpay" = "Clearpay";
 
@@ -156,15 +177,6 @@
 
 /* Title for contact info form */
 "Contact" = "Επικοινωνία";
-
-/* Text for continue button */
-"Continue" = "Συνέχεια";
-
-/* Caption for Country field on address form */
-"Country" = "Χώρα";
-
-/* Caption for County field on address form (only countries that use county, like United Kingdom) */
-"County" = "Κομητεία";
 
 /* Title for delivery address entry section */
 "DELIVERY ADDRESS" = "ΔΙΕΥΘΥΝΣΗ ΠΑΡΑΔΟΣΗΣ";
@@ -175,26 +187,11 @@
 /* Title for delivery address entry section */
 "Delivery Address" = "Διεύθυνση παράδοσης";
 
-/* Label of an address field */
-"Department" = "Τμήμα";
-
-/* Label for the district field on an address form */
-"District" = "Περιφέρεια";
-
-/* Label of an address field */
-"Do Si" = "Do Si";
-
 /* Source type brand name */
 "EPS" = "EPS";
 
 /* Button title to enter editing mode */
 "Edit" = "Επεξεργασία";
-
-/* Label of an address field */
-"Eircode" = "Ταχυδρομικός κώδικας";
-
-/* Used to describe address in United Arab Emirates */
-"Emirate" = "Εμιράτο";
 
 /* Payment Method type brand name */
 "FPX" = "FPX";
@@ -222,6 +219,9 @@
 
 /* Source type brand name */
 "Klarna" = "Klarna";
+
+/* Link Payment Method type brand name */
+"Link" = "Link";
 
 /* Title for screen when data is still loading from the network. */
 "Loading…" = "Φόρτωση…";
@@ -253,14 +253,8 @@
 /* Button to move to the next text entry field */
 "Next" = "Επόμενο";
 
-/* No comment provided by engineer. */
-"OK" = "OK";
-
 /* Payment Method type brand name */
 "OXXO" = "OXXO";
-
-/* Label of an address field */
-"Oblast" = "Περιφέρεια";
 
 /* Button to pay with a Bank Account (using FPX). */
 "Online Banking (FPX)" = "Τραπεζικές υπηρεσίες μέσω διαδικτύου (FPX)";
@@ -271,17 +265,17 @@
 /* Title of a section containing a card form that will collect the payment information from the user. */
 "Or pay with a card" = "Ή πληρωμή με κάρτα";
 
-/* An option in a dropdown selector indicating the customer's desired selection is not in the list. e.g., 'Choose your bank: Bank1, Bank2, Other' */
-"Other" = "Άλλο";
-
 /* Source type brand name */
 "P24" = "P24";
 
-/* Label of an address field */
-"Parish" = "Δήμος";
-
 /* Label of a button that initiates payment when tapped */
 "Pay %@" = "Πληρωμή %@";
+
+/* Klarna pay later copy */
+"Pay later with Klarna." = "Πληρωμή αργότερα με Klarna.";
+
+/* Pay over time with Affirm copy */
+"Pay over time with %@" = "Πληρωμή σταδιακά με %@";
 
 /* Pay with {payment method} */
 "Pay with %@" = "Πληρωμή με %@";
@@ -292,9 +286,6 @@
 /* Title for Payment Method screen */
 "Payment Method" = "Μέθοδος πληρωμής";
 
-/* Caption for Phone field on address form */
-"Phone" = "Τηλέφωνο";
-
 /* Accessibility instructions for card scanning. */
 "Point the camera at your card." = "Στρέψτε την κάμερα στην κάρτα σας.";
 
@@ -304,17 +295,8 @@
 /* Caption for Postal Code field on address form (only shown in countries other than the United States) */
 "Postal Code" = "Ταχυδρομικός κώδικας";
 
-/* Short string for postal code (text used in non-US countries) */
-"Postal code" = "Ταχυδρομικός κώδικας";
-
-/* Label of an address field */
-"Prefecture" = "Νομός";
-
 /* Label of a button that, when tapped, initiates payment, becomes disabled, and displays this text */
 "Processing..." = "Επεξεργασία…";
-
-/* Caption for Province field on address form (only countries that use province, like Canada) */
-"Province" = "Επαρχία";
 
 /* Payment Method type brand name. */
 "Przelewy24" = "Przelewy24";
@@ -332,6 +314,12 @@
 /* Title for confirmation alert to remove a card */
 
 "Remove Card" = "Αφαίρεση κάρτας";
+/* Title for confirmation alert to remove a saved bank account payment method */
+
+"Remove bank account" = "Αφαίρεση τραπεζικού λογαριασμού";
+/* Content for alert popup prompting to confirm removing a saved bank account. e.g. 'Remove bank account ending in 4242' */
+
+"Remove bank account ending in %@" = "Αφαίρεση του τραπεζικού λογαριασμού που λήγει σε %@";
 /* part of {SEPA Account} ending in {last4} */
 
 "SEPA Account" = "Λογαριασμός SEPA";
@@ -356,12 +344,9 @@
 /* The label of a switch indicating whether to save the user&apos;s card for future payments to this merchant */
 
 "Save this card for future %@ payments" = "Αποθηκεύστε αυτή την κάρτα για μελλοντικές %@ πληρωμές";
-/* Text for button to scan a credit card */
+/* The label of a switch indicating whether to save the user's card for future payment */
 
-"Scan Card" = "Σάρωση κάρτας";
-/* Label of a button displayed below a payment method form. Tapping the button closes the form and uses the entered payment method details for checkout in the next step */
-
-"Select" = "Επιλογή";
+"Save this card for future Stripe payments" = "Αποθηκεύστε αυτήν την κάρτα για μελλοντικές πληρωμές Stripe";
 /* label for iDEAL-bank selection picker */
 
 "Select bank" = "Επιλογή τράπεζας";
@@ -385,17 +370,11 @@
    Source type brand name */
 "Sofort" = "Sofort";
 
-/* Caption for State field on address form (only countries that use state , like United States) */
-"State" = "Πολιτεία";
-
 /* Caption for generalized state/province/region field on address form (not tied to a specific country&apos;s format) */
 "State / Province / Region" = "Πολιτεία / Επαρχία / Περιοχή";
 
-/* Label of an address field */
-"Suburb" = "Προάστιο";
-
-/* Label of an address field */
-"Suburb or city" = "Προάστιο ή πόλη";
+/* Prompt for microdeposit verification before completing purchase with merchant. %@ will be replaced by merchant business name */
+"Stripe will deposit $0.01 to your account in 1-2 business days. Then you’ll get an email with instructions to complete payment to %@." = "Η Stripe θα καταθέσει 0,01 $ στον λογαριασμό σας σε 1-2 εργάσιμες ημέρες. Στη συνέχεια, θα λάβετε email με οδηγίες για να ολοκληρώσετε την πληρωμή στην %@.";
 
 /* Error string displayed to user when they have entered an incomplete BSB number. BSB refers to an Australian bank account number */
 "The BSB you entered is incomplete." = "Ο κωδικός BSB που εισάγατε είναι ατελής.";
@@ -409,23 +388,14 @@
 /* An error message displayed when the IBAN country code is not supported. */
 "The IBAN you entered is invalid, \"%@\" is not a supported country code." = "Ο κωδικός IBAN που εισάγατε δεν είναι έγκυρος, ο κωδικός «%@» δεν είναι υποστηριζόμενος κωδικός χώρας.";
 
-/* An error message displayed when the customer's iban is invalid. */
-"The IBAN you entered is invalid." = "Ο κωδικός IBAN που εισαγάγατε δεν είναι έγκυρος.";
-
 /* Error when the seleted payment method is not available (eg attempted to use 3D Secure on a card that does not support it). */
 "The selected payment method is not available." = "Η επιλεγμένη μέθοδος πληρωμής δεν είναι διαθέσιμη.";
-
-/* Error when there is a problem processing the credit card */
-"There was an error processing your card -- try again in a few seconds" = "Προέκυψε απροσδόκητο σφάλμα κατά την επεξεργασία της κάρτας σας -- δοκιμάστε ξανά σε μερικά δευτερόλεπτα";
 
 /* Error when 3DS2 authentication timed out. */
 "Timed out authenticating your payment method -- try again" = "Έληξε το χρονικό όριο επαλήθευσης της μεθόδου πληρωμής σας -- δοκιμάστε ξανά";
 
 /* Error when the user hasn&apos;t allowed the current app to access the camera when scanning a payment card. &apos;Settings&apos; is the localized name of the iOS Settings app. */
 "To scan your card, allow camera access in Settings." = "Για να σαρώσετε την κάρτα σας, επιτρέψτε την πρόσβαση της κάμερας από τις Ρυθμίσεις.";
-
-/* Label of an address field */
-"Town or city" = "Κωμόπολη ή πόλη";
 
 /* Payment Method type brand name */
 "UPI" = "UPI";
@@ -463,17 +433,11 @@
 /* Error message for when postal code in form is invalid (US only) */
 "Your ZIP is invalid." = "Ο ταχυδρομικός κώδικάς σας δεν είναι έγκυρος.";
 
-/* Error when the card has already expired */
-"Your card has expired" = "Η κάρτα σας έχει λήξει";
-
 /* Error message for card form when card number is incomplete */
 "Your card number is incomplete." = "Ο αριθμός της κάρτας σας είναι ελλιπής.";
 
 /* Error message for card form when card number is invalid */
 "Your card number is invalid." = "Ο αριθμός της κάρτας σας δεν είναι έγκυρος.";
-
-/* Error when the card was declined by the credit card networks */
-"Your card was declined" = "Η κάρτα σας απορρίφθηκε";
 
 /* Error message for card details form when expiration date isn&apos;t entered completely */
 "Your card's expiration date is incomplete." = "Η ημερομηνία λήξης της κάρτας σας είναι ελλιπής.";
@@ -481,41 +445,23 @@
 /* Error message for card details form when expiration date is invalid */
 "Your card's expiration date is invalid." = "Η ημερομηνία λήξης της κάρτας σας δεν είναι έγκυρη.";
 
-/* Error when the card&apos;s expiration month is not valid */
-"Your card's expiration month is invalid" = "Ο μήνας λήξης της κάρτας σας δεν είναι έγκυρος";
-
 /* String to describe an invalid month in expiry date. */
 "Your card's expiration month is invalid." = "Ο μήνας λήξης της κάρτας σας δεν είναι έγκυρος.";
-
-/* Error when the card&apos;s expiration year is not valid */
-"Your card's expiration year is invalid" = "Το έτος λήξης της κάρτας σας δεν είναι έγκυρο";
 
 /* String to describe an invalid year in expiry date. */
 "Your card's expiration year is invalid." = "Το έτος λήξης της κάρτας σας δεν είναι έγκυρο.";
 
-/* Error when the card number is not valid */
-"Your card's number is invalid" = "Ο αριθμός της κάρτας σας δεν είναι έγκυρος";
-
 /* Error message for card entry form when CVC/CVV is incomplete. */
 "Your card's security code is incomplete." = "Ο κωδικός ασφαλείας της κάρτας σας είναι ελλιπής.";
 
-/* Error when the card&apos;s CVC is not valid */
-"Your card's security code is invalid" = "Ο κωδικός ασφαλείας της κάρτας σας δεν είναι έγκυρος";
-
 /* Error message for card entry form when CVC/CVV is invalid */
 "Your card's security code is invalid." = "Ο κωδικός ασφαλείας της κάρτας σας δεν είναι έγκυρος.";
-
-/* Error when customer's name is invalid */
-"Your name is invalid." = "Το όνομά σας δεν είναι έγκυρο.";
 
 /* Error message for when postal code in form is incomplete */
 "Your postal code is incomplete." = "Ο ταχυδρομικός κώδικάς σας είναι ελλιπής.";
 
 /* Error message for when postal code in form is invalid */
 "Your postal code is invalid." = "Ο ταχυδρομικός κώδικάς σας δεν είναι έγκυρος.";
-
-/* Short string for zip code (United States only) Please keep to 5 characters or less if possible. */
-"ZIP" = "Τ.Κ.";
 
 /* Caption for Zip Code field on address form (only shown when country is United States only) */
 "ZIP Code" = "Ταχυδρομικός κώδικας";

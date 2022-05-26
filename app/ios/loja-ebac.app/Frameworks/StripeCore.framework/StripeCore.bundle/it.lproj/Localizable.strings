@@ -1,6 +1,12 @@
 /* Text for close button */
 "Close" = "Chiudi";
 
+/* Text for button to scan a credit card */
+"Scan Card" = "Scansiona carta";
+
+/* Button title to open camera to scan credit/debit card */
+"Scan card" = "Scansiona carta";
+
 /* An error message displayed when the customer's iban is invalid. */
 "The IBAN you entered is invalid." = "L'IBAN inserito non è valido.";
 
@@ -9,6 +15,9 @@
 
 /* Unexpected error, such as a 500 from Stripe or a JSON parse error */
 "There was an unexpected error -- try again in a few seconds" = "Si è verificato un errore imprevisto. Riprova fra qualche secondo.";
+
+/* Button to reload web view if we were unable to connect. */
+"Try again" = "Riprova";
 
 /* Error when the card has already expired */
 "Your card has expired" = "La carta è scaduta";

@@ -40,6 +40,9 @@
 /* Title shown above a card entry form */
 "Add a card" = "Tilføj et kort";
 
+/* Button prompt to add a bank account as a payment method. */
+"Add bank account" = "Tilføj bankkonto";
+
 /* Label of a button displayed below a card entry form that saves the card details */
 "Add card" = "Tilføj kort";
 
@@ -51,6 +54,9 @@
 
 /* Address line 2 placeholder for billing address form. */
 "Address line 2 (optional)" = "Adresselinje 2 (valgfrit)";
+
+/* Payment Method type brand name */
+"Affirm" = "Affirm";
 
 /* Payment Method type brand name  */
 "Afterpay" = "Afterpay";
@@ -91,6 +97,9 @@
 /* Source type brand name */
 "Bancontact" = "Bancontact";
 
+/* Link Instant Debit payment method display name */
+"Bank" = "Bank";
+
 /* Label for Bank Account selection or detail entry form */
 "Bank Account" = "Bankkonto";
 
@@ -103,11 +112,26 @@
 /* Payment Method type brand name */
 "Boleto" = "Boleto";
 
+/* Klarna buy now or pay later copy */
+"Buy now or pay later with Klarna." = "Køb nu, eller betal senere med Klarna.";
+
+/* Text providing link to terms for ACH payments */
+"By continuing, you agree to authorize payments pursuant to <terms>these terms</terms>." = "Ved at fortsætte accepterer du at godkende betalinger i henhold til <terms>disse vilkår</terms>.";
+
+/* Mandate text displayed when paying via Link instant debit. */
+"By continuing, you agree to authorize payments pursuant to these <terms>terms</terms>." = "Ved at fortsætte accepterer du at godkende betalinger i henhold til disse <terms>vilkår</terms>.";
+
+/* Legal text shown when creating a Link account. */
+"By joining Link, you agree to the <terms>Terms</terms> and <privacy>Privacy Policy</privacy>." = "Ved at tilmelde dig Link accepterer du <terms>vilkårene</terms> og <privacy>privatlivspolitikken</privacy>.";
+
 /* SEPA legal authorization text – must use official translations. */
 "By providing your IBAN and confirming this payment, you are authorizing %@ and Stripe, our payment service provider, to send instructions to your bank to debit your account and your bank to debit your account in accordance with those instructions. You are entitled to a refund from your bank under the terms and conditions of your agreement with your bank. A refund must be claimed within 8 weeks starting from the date on which your account was debited." = "Ved at oplyse dit IBAN og bekræfte denne betaling giver du tilladelse til, at %@ og Stripe, vores udbyder af betalingstjenester, sender instruktioner til din bank om at debitere din konto, og til at din bank debiterer din konto i overensstemmelse med disse instruktioner. Du er berettiget til en refusion fra din bank iflg. betingelserne og vilkårene i din aftale med banken. Der skal ansøges om en refusion inden 8 uger fra den dato, hvor din konto blev debiteret.";
 
 /* SEPA mandate text */
 "By providing your payment information and confirming this payment, you authorise (A) %@ and Stripe, our payment service provider, to send instructions to your bank to debit your account and (B) your bank to debit your account in accordance with those instructions. As part of your rights, you are entitled to a refund from your bank under the terms and conditions of your agreement with your bank. A refund must be claimed within 8 weeks starting from the date on which your account was debited. Your rights are explained in a statement that you can obtain from your bank. You agree to receive notifications for future debits up to 2 days before they occur." = "Ved at give dine betalingsoplysninger og bekræfte denne betaling giver du (A) %@ og Stripe, vores betalingstjenesteudbyder, tilladelse til at sende instruktioner til din bank om at debitere din konto og (B) din bank til at debitere din konto i overensstemmelse med disse instruktioner. Som en del af dine rettigheder har du ret til en refusion fra din bank under vilkårene og betingelserne i din aftale med din bank. Der skal kræves refusion inden for 8 uger fra den dato, hvor din konto blev debiteret. Dine rettigheder forklares i en erklæring, som du kan få fra din bank. Du accepterer at modtage underretninger om fremtidig debitering op til to dage før de opstår.";
+
+/* Mandate text with link to terms when saving a bank account payment method to a merchant (merchant name replaces %@). */
+"By saving your bank account for %@ you agree to authorize payments pursuant to <terms>these terms</terms>." = "Ved at gemme din bankkonto for %@ accepterer du at godkende betalinger i henhold til <terms>disse vilkår</terms>.";
 
 /* Title for card number entry field */
 "CARD" = "KORT";
@@ -123,9 +147,6 @@
 
 /* Label for entering CVV in text field */
 "CVV" = "CVV";
-
-/* Button title to cancel action in an alert */
-"Cancel" = "Annuller";
 
 /* Title for credit card number entry field */
 "Card" = "Kort";
@@ -150,9 +171,6 @@
 
 /* Title for contact info form */
 "Contact" = "Kontaktperson";
-
-/* Text for continue button */
-"Continue" = "Fortsæt";
 
 /* Title for delivery address entry section */
 "DELIVERY ADDRESS" = "LEVERINGSADRESSE";
@@ -196,6 +214,9 @@
 /* Source type brand name */
 "Klarna" = "Klarna";
 
+/* Link Payment Method type brand name */
+"Link" = "Link";
+
 /* Title for screen when data is still loading from the network. */
 "Loading…" = "Indlæser ...";
 
@@ -226,9 +247,6 @@
 /* Button to move to the next text entry field */
 "Next" = "Næste";
 
-/* No comment provided by engineer. */
-"OK" = "OK";
-
 /* Payment Method type brand name */
 "OXXO" = "OXXO";
 
@@ -241,14 +259,14 @@
 /* Title of a section containing a card form that will collect the payment information from the user. */
 "Or pay with a card" = "Eller betal med et kort";
 
-/* An option in a dropdown selector indicating the customer's desired selection is not in the list. e.g., 'Choose your bank: Bank1, Bank2, Other' */
-"Other" = "Andet";
-
 /* Source type brand name */
 "P24" = "P24";
 
 /* Label of a button that initiates payment when tapped */
 "Pay %@" = "Betal %@";
+
+/* Klarna pay later copy */
+"Pay later with Klarna." = "Betal senere med Klarna.";
 
 /* Pay with {payment method} */
 "Pay with %@" = "Betal med %@";
@@ -258,9 +276,6 @@
 
 /* Title for Payment Method screen */
 "Payment Method" = "Betalingsmetode";
-
-/* Caption for Phone field on address form */
-"Phone" = "Telefon";
 
 /* Accessibility instructions for card scanning. */
 "Point the camera at your card." = "Ret kameraet mod dit kort.";
@@ -320,15 +335,9 @@
 /* The label of a switch indicating whether to save the user&apos;s card for future payments to this merchant */
 
 "Save this card for future %@ payments" = "Gem dette kort til fremtidige %@ betalinger";
-/* Text for button to scan a credit card */
+/* The label of a switch indicating whether to save the user's card for future payment */
 
-"Scan Card" = "Scan kort";
-/* Button title to open camera to scan credit/debit card */
-
-"Scan card" = "Scan kort";
-/* Label of a button displayed below a payment method form. Tapping the button closes the form and uses the entered payment method details for checkout in the next step */
-
-"Select" = "Vælg";
+"Save this card for future Stripe payments" = "Gem dette kort til fremtidige Stripe-betalinger";
 /* label for iDEAL-bank selection picker */
 
 "Select bank" = "Vælg bank";
@@ -354,6 +363,9 @@
 
 /* Caption for generalized state/province/region field on address form (not tied to a specific country&apos;s format) */
 "State / Province / Region" = "Region";
+
+/* Prompt for microdeposit verification before completing purchase with merchant. %@ will be replaced by merchant business name */
+"Stripe will deposit $0.01 to your account in 1-2 business days. Then you’ll get an email with instructions to complete payment to %@." = "Stripe vil sætte 0,01 USD ind på din konto i løbet af 1-2 hverdage. Derefter modtager du en e-mail med instruktioner til at fuldføre betalingen til %@.";
 
 /* Error string displayed to user when they have entered an incomplete BSB number. BSB refers to an Australian bank account number */
 "The BSB you entered is incomplete." = "Den BSB, du angav, er ufuldstændig.";

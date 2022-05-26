@@ -40,6 +40,9 @@
 /* Title shown above a card entry form */
 "Add a card" = "Добавьте карту";
 
+/* Button prompt to add a bank account as a payment method. */
+"Add bank account" = "Добавить банковский счет";
+
 /* Label of a button displayed below a card entry form that saves the card details */
 "Add card" = "Добавить карту";
 
@@ -52,11 +55,17 @@
 /* Address line 2 placeholder for billing address form. */
 "Address line 2 (optional)" = "Адрес (строка 2) (необязательно)";
 
+/* Payment Method type brand name */
+"Affirm" = "Affirm";
+
 /* Payment Method type brand name  */
 "Afterpay" = "Afterpay";
 
 /* Payment Method type brand name */
 "AfterpayClearpay" = "AfterpayClearpay";
+
+/* Payment Method type brand name */
+"AfterpayClearpay_copy" = "AfterpayClearpay";
 
 /* Source type brand name */
 "Alipay" = "Alipay";
@@ -88,6 +97,9 @@
 /* Source type brand name */
 "Bancontact" = "Bancontact";
 
+/* Link Instant Debit payment method display name */
+"Bank" = "Банк";
+
 /* Label for Bank Account selection or detail entry form */
 "Bank Account" = "Банковский счет";
 
@@ -100,11 +112,26 @@
 /* Payment Method type brand name */
 "Boleto" = "Boleto";
 
+/* Klarna buy now or pay later copy */
+"Buy now or pay later with Klarna." = "Купить немедленно или оплатить позже через систему Klarna.";
+
+/* Text providing link to terms for ACH payments */
+"By continuing, you agree to authorize payments pursuant to <terms>these terms</terms>." = "Продолжая, вы соглашаетесь авторизовать платежи в соответствии с <terms>этими условиями</terms>.";
+
+/* Mandate text displayed when paying via Link instant debit. */
+"By continuing, you agree to authorize payments pursuant to these <terms>terms</terms>." = "Продолжая использование, вы тем самым соглашаетесь авторизовать платежи согласно данным <terms>условиям</terms>.";
+
+/* Legal text shown when creating a Link account. */
+"By joining Link, you agree to the <terms>Terms</terms> and <privacy>Privacy Policy</privacy>." = "Регистрируясь в Link, вы принимаете соответствующие <terms>Условия</terms> и <privacy>Политику конфиденциальности</privacy>.";
+
 /* SEPA legal authorization text – must use official translations. */
 "By providing your IBAN and confirming this payment, you are authorizing %@ and Stripe, our payment service provider, to send instructions to your bank to debit your account and your bank to debit your account in accordance with those instructions. You are entitled to a refund from your bank under the terms and conditions of your agreement with your bank. A refund must be claimed within 8 weeks starting from the date on which your account was debited." = "Предоставив свой код IBAN и подтвердив платеж, вы уполномочиваете %@ и Stripe, наш сервис обработки платежей, отправить запрос вашему банку на списание средств с вашего счета, а ваш банк — списать средства в соответствии с этим запросом. Ваши права на возмещение средств определяются условиями вашего соглашения с банком. Заявка на возмещение средств должна быть подана не позднее чем через 8 недель после даты списания средств со счета.";
 
 /* SEPA mandate text */
 "By providing your payment information and confirming this payment, you authorise (A) %@ and Stripe, our payment service provider, to send instructions to your bank to debit your account and (B) your bank to debit your account in accordance with those instructions. As part of your rights, you are entitled to a refund from your bank under the terms and conditions of your agreement with your bank. A refund must be claimed within 8 weeks starting from the date on which your account was debited. Your rights are explained in a statement that you can obtain from your bank. You agree to receive notifications for future debits up to 2 days before they occur." = "Указав свои платежные данные и подтвердив платеж, вы уполномочиваете (A) %@ и Stripe, нашего поставщика платежных услуг, на отправку вашему банку инструкций на списание средств с вашего счета и (B) ваш банк на списание средств с вашего счета согласно данным инструкциям. Вы имеете право на возврат средств от вашего банка согласно положениям и условиям Вашего соглашения с банком. Подать заявку на возврат средств следует в течение 8 недель с даты списания средств с вашего счета. Ваши права объясняются в выписке, которую вы можете получить в своем банке. Вы даете согласие на получение уведомлений о будущих дебетованиях в срок до 2 дней до их поступления.";
+
+/* Mandate text with link to terms when saving a bank account payment method to a merchant (merchant name replaces %@). */
+"By saving your bank account for %@ you agree to authorize payments pursuant to <terms>these terms</terms>." = "Сохраняя реквизиты своего банковского счета у %@, вы соглашаетесь авторизовать платежи в соответствии с <terms>этими условиями</terms>.";
 
 /* Title for card number entry field */
 "CARD" = "КАРТА";
@@ -120,9 +147,6 @@
 
 /* Label for entering CVV in text field */
 "CVV" = "Код CVV/CVC";
-
-/* Button title to cancel action in an alert */
-"Cancel" = "Отмена";
 
 /* Title for credit card number entry field */
 "Card" = "Карта";
@@ -147,9 +171,6 @@
 
 /* Title for contact info form */
 "Contact" = "Контактные данные";
-
-/* Text for continue button */
-"Continue" = "Продолжить";
 
 /* Title for delivery address entry section */
 "DELIVERY ADDRESS" = "АДРЕС ДОСТАВКИ";
@@ -193,6 +214,9 @@
 /* Source type brand name */
 "Klarna" = "Klarna";
 
+/* Link Payment Method type brand name */
+"Link" = "Link";
+
 /* Title for screen when data is still loading from the network. */
 "Loading…" = "Идет загрузка...";
 
@@ -223,9 +247,6 @@
 /* Button to move to the next text entry field */
 "Next" = "Далее";
 
-/* No comment provided by engineer. */
-"OK" = "ОК";
-
 /* Payment Method type brand name */
 "OXXO" = "OXXO";
 
@@ -238,14 +259,14 @@
 /* Title of a section containing a card form that will collect the payment information from the user. */
 "Or pay with a card" = "Или оплатить картой";
 
-/* An option in a dropdown selector indicating the customer's desired selection is not in the list. e.g., 'Choose your bank: Bank1, Bank2, Other' */
-"Other" = "другой";
-
 /* Source type brand name */
 "P24" = "P24";
 
 /* Label of a button that initiates payment when tapped */
 "Pay %@" = "Оплатить %@";
+
+/* Klarna pay later copy */
+"Pay later with Klarna." = "Оплатить позже через систему Klarna.";
 
 /* Pay with {payment method} */
 "Pay with %@" = "Оплатить с помощью %@";
@@ -255,9 +276,6 @@
 
 /* Title for Payment Method screen */
 "Payment Method" = "Метод оплаты";
-
-/* Caption for Phone field on address form */
-"Phone" = "Телефон";
 
 /* Accessibility instructions for card scanning. */
 "Point the camera at your card." = "Направьте камеру телефона на карту.";
@@ -317,15 +335,9 @@
 /* The label of a switch indicating whether to save the user&apos;s card for future payments to this merchant */
 
 "Save this card for future %@ payments" = "Сохранить данные этой карты для будущих платежей %@";
-/* Text for button to scan a credit card */
+/* The label of a switch indicating whether to save the user's card for future payment */
 
-"Scan Card" = "Сканировать карту";
-/* Button title to open camera to scan credit/debit card */
-
-"Scan card" = "Сканировать карту";
-/* Label of a button displayed below a payment method form. Tapping the button closes the form and uses the entered payment method details for checkout in the next step */
-
-"Select" = "Выбрать";
+"Save this card for future Stripe payments" = "Сохранить данные этой карты для будущих платежей через систему Stripe";
 /* label for iDEAL-bank selection picker */
 
 "Select bank" = "Выбрать банк";
@@ -351,6 +363,9 @@
 
 /* Caption for generalized state/province/region field on address form (not tied to a specific country&apos;s format) */
 "State / Province / Region" = "Штат / провинция / регион";
+
+/* Prompt for microdeposit verification before completing purchase with merchant. %@ will be replaced by merchant business name */
+"Stripe will deposit $0.01 to your account in 1-2 business days. Then you’ll get an email with instructions to complete payment to %@." = "Через 1-2 рабочих дня Stripe положит вам на счет сумму $0,01. После этого вы получите электронное письмо с инструкциями по завершению платежа в адрес %@.";
 
 /* Error string displayed to user when they have entered an incomplete BSB number. BSB refers to an Australian bank account number */
 "The BSB you entered is incomplete." = "Введенный код BSB неполон.";

@@ -19,6 +19,9 @@
 /* This is a Payment Method type brand name so shouldn&apos;t be translated unless it has a different name in a given localization. */
 "AU BECS Debit" = "AU BECS дебитиране";
 
+/* Payment Method type brand name. */
+"AU BECS Direct Debit" = "AU BECS директно дебитиране";
+
 /* part of {Account} ending in {last4} */
 "Account" = "Сметка";
 
@@ -40,6 +43,9 @@
 /* Title shown above a card entry form */
 "Add a card" = "Добавяне на карта";
 
+/* Button prompt to add a bank account as a payment method. */
+"Add bank account" = "Добавяне на банкова сметка";
+
 /* Label of a button displayed below a card entry form that saves the card details */
 "Add card" = "Добавяне на карта";
 
@@ -49,17 +55,20 @@
 /* Title shown above a form where the customer can enter payment information like credit card details, email, billing address, etc. */
 "Add your payment information" = "Добавете своята информация за плащането";
 
-/* Caption for Address field on address form */
-"Address" = "Адрес";
-
 /* Address line 2 placeholder for billing address form. */
 "Address line 2 (optional)" = "Ред 2 на адреса (по желание)";
+
+/* Payment Method type brand name */
+"Affirm" = "Affirm";
 
 /* Payment Method type brand name  */
 "Afterpay" = "Afterpay";
 
 /* Payment Method type brand name */
 "AfterpayClearpay" = "AfterpayClearpay";
+
+/* Payment Method type brand name */
+"AfterpayClearpay_copy" = "AfterpayClearpay";
 
 /* Source type brand name */
 "Alipay" = "Alipay";
@@ -69,9 +78,6 @@
 
 /* Caption for Apartment/Address line 2 field on address form */
 "Apt." = "Aп.";
-
-/* Label of an address field in hk */
-"Area" = "Район";
 
 /* Title for bank picker section */
 "BANK" = "БАНКА";
@@ -94,6 +100,9 @@
 /* Source type brand name */
 "Bancontact" = "Bancontact";
 
+/* Link Instant Debit payment method display name */
+"Bank" = "Банка";
+
 /* Label for Bank Account selection or detail entry form */
 "Bank Account" = "Банкова сметка";
 
@@ -103,11 +112,32 @@
 /* Billing address section title for card form entry. */
 "Billing address" = "Адрес за фактуриране";
 
+/* Payment Method type brand name */
+"Boleto" = "Boleto";
+
+/* Klarna buy now or pay later copy */
+"Buy now or pay later with Klarna." = "Платете сега или платете по-късно чрез Klarna.";
+
+/* Text providing link to terms for ACH payments */
+"By continuing, you agree to authorize payments pursuant to <terms>these terms</terms>." = "Продължавайки, Вие се съгласявате да удостоверявате плащания съгласно <terms>тези условия</terms>.";
+
+/* Mandate text displayed when paying via Link instant debit. */
+"By continuing, you agree to authorize payments pursuant to these <terms>terms</terms>." = "Продължавайки, Вие се съгласявате да удостоверявате плащания съгласно тези <terms>условия</terms>.";
+
+/* Legal text shown when creating a Link account. */
+"By joining Link, you agree to the <terms>Terms</terms> and <privacy>Privacy Policy</privacy>." = "С присъединяването към Link Вие се съгласявате с <terms>Условията</terms> и с <privacy>Правилата за защита на личните данни</privacy>.";
+
 /* SEPA legal authorization text – must use official translations. */
 "By providing your IBAN and confirming this payment, you are authorizing %@ and Stripe, our payment service provider, to send instructions to your bank to debit your account and your bank to debit your account in accordance with those instructions. You are entitled to a refund from your bank under the terms and conditions of your agreement with your bank. A refund must be claimed within 8 weeks starting from the date on which your account was debited." = "Предоставяйки Вашия IBAN и потвърждавайки това плащане, Вие оправомощавате %@ и Stripe, нашия доставчик на платежни услуги, да изпраща инструкции на Вашата банка за дебитиране на Вашата сметка и Вашата банка да дебитира Вашата сметка в съответствие с тези инструкции. Имате правото на възстановяване на сумата от Вашата банка в съответствие с условията на Вашия договор с нея. Искане за възстановяване трябва да бъде предявено в рамките на 8 седмици, считано от датата, на която Вашата сметка е била дебитирана.";
 
+/* Legal text shown when using AUBECS. */
+"By providing your bank account details and confirming this payment, you agree to this Direct Debit Request and the <terms>Direct Debit Request service agreement</terms>, and authorise Stripe Payments Australia Pty Ltd ACN 160 180 343 Direct Debit User ID number 507156 (“Stripe”) to debit your account through the Bulk Electronic Clearing System (BECS) on behalf of %@ (the \"Merchant\") for any amounts separately communicated to you by the Merchant. You certify that you are either an account holder or an authorised signatory on the account listed above." = "Предоставяйки данните за банковата си сметка и потвърждавайки това плащане, Вие се съгласявате с това Искане за директен дебит и със <terms>споразумението за обслужване на искане за директен дебит</terms> и оправомощавате Stripe Payments Australia Pty Ltd ACN 160 180 343, потребителски ИД номер за директен дебит 507156 („Stripe“) да дебитира Вашата сметка чрез системата масов електронен клиринг (BECS) от името на %@ („Търговеца“) за всички суми, за които Търговецът Ви е съобщил отделно. Удостоверявате, че по отношение на горепосочената сметка сте титуляр на сметката или лице, имащо правото да подписва.";
+
 /* SEPA mandate text */
 "By providing your payment information and confirming this payment, you authorise (A) %@ and Stripe, our payment service provider, to send instructions to your bank to debit your account and (B) your bank to debit your account in accordance with those instructions. As part of your rights, you are entitled to a refund from your bank under the terms and conditions of your agreement with your bank. A refund must be claimed within 8 weeks starting from the date on which your account was debited. Your rights are explained in a statement that you can obtain from your bank. You agree to receive notifications for future debits up to 2 days before they occur." = "С предоставянето на информация за плащания и с потвърждаването на това плащане Вие упълномощавате (A) %@ и Stripe, нашия доставчик на платежни услуги, да изпращат инструкции до Вашата банка за дебитиране на сметката Ви и (B) Вашата банка да дебитира сметката Ви в съответствие с тези инструкции. Като част от Вашите права имате право на възстановяване на суми от Вашата банка при условията и реда на споразумението с Вашата банка. Възстановяването на сума трябва да бъде поискано в рамките на 8 седмици, считано от датата, на която сметката Ви е била дебитирана. Вашите права са обяснени в извлечение, което можете да получите от Вашата банка. Вие давате своето съгласие да получавате известия за бъдещи дебитирания до 2 дни преди изпълнението им.";
+
+/* Mandate text with link to terms when saving a bank account payment method to a merchant (merchant name replaces %@). */
+"By saving your bank account for %@ you agree to authorize payments pursuant to <terms>these terms</terms>." = "Като запазвате банковата си сметка за %@, Вие се съгласявате да удостоверявате плащания съгласно <terms>тези условия</terms>.";
 
 /* Title for card number entry field */
 "CARD" = "КАРТА";
@@ -124,9 +154,6 @@
 /* Label for entering CVV in text field */
 "CVV" = "CVV";
 
-/* Button title to cancel action in an alert */
-"Cancel" = "Отмяна";
-
 /* Title for credit card number entry field */
 "Card" = "Карта";
 
@@ -142,9 +169,6 @@
 /* TODO */
 "Choose a payment method" = "Избор на метод на плащане";
 
-/* Caption for City field on address form */
-"City" = "Град";
-
 /* Payment Method type brand name */
 "Clearpay" = "Clearpay";
 
@@ -153,15 +177,6 @@
 
 /* Title for contact info form */
 "Contact" = "Контакт";
-
-/* Text for continue button */
-"Continue" = "Продължаване";
-
-/* Caption for Country field on address form */
-"Country" = "Държава";
-
-/* Caption for County field on address form (only countries that use county, like United Kingdom) */
-"County" = "Окръг";
 
 /* Title for delivery address entry section */
 "DELIVERY ADDRESS" = "АДРЕС ЗА ДОСТАВКА";
@@ -172,26 +187,11 @@
 /* Title for delivery address entry section */
 "Delivery Address" = "Адрес за доставка";
 
-/* Label of an address field */
-"Department" = "Отдел";
-
-/* Label for the district field on an address form */
-"District" = "Окръг";
-
-/* Label of an address field */
-"Do Si" = "Do Si";
-
 /* Source type brand name */
 "EPS" = "EPS";
 
 /* Button title to enter editing mode */
 "Edit" = "Редактиране";
-
-/* Label of an address field */
-"Eircode" = "Eircode";
-
-/* Used to describe address in United Arab Emirates */
-"Emirate" = "Емирство";
 
 /* Payment Method type brand name */
 "FPX" = "FPX";
@@ -219,6 +219,9 @@
 
 /* Source type brand name */
 "Klarna" = "Klarna";
+
+/* Link Payment Method type brand name */
+"Link" = "Link";
 
 /* Title for screen when data is still loading from the network. */
 "Loading…" = "Зареждане...";
@@ -250,14 +253,8 @@
 /* Button to move to the next text entry field */
 "Next" = "Следващо";
 
-/* No comment provided by engineer. */
-"OK" = "OK";
-
 /* Payment Method type brand name */
 "OXXO" = "OXXO";
-
-/* Label of an address field */
-"Oblast" = "Област";
 
 /* Button to pay with a Bank Account (using FPX). */
 "Online Banking (FPX)" = "Онлайн банкиране (FPX)";
@@ -268,17 +265,17 @@
 /* Title of a section containing a card form that will collect the payment information from the user. */
 "Or pay with a card" = "Или платете с карта";
 
-/* An option in a dropdown selector indicating the customer's desired selection is not in the list. e.g., 'Choose your bank: Bank1, Bank2, Other' */
-"Other" = "Друга";
-
 /* Source type brand name */
 "P24" = "P24";
 
-/* Label of an address field */
-"Parish" = "Енория";
-
 /* Label of a button that initiates payment when tapped */
 "Pay %@" = "Плащане %@";
+
+/* Klarna pay later copy */
+"Pay later with Klarna." = "Платете по-късно чрез Klarna.";
+
+/* Pay over time with Affirm copy */
+"Pay over time with %@" = "Плащане на разсрочени вноски с %@";
 
 /* Pay with {payment method} */
 "Pay with %@" = "Платете чрез %@";
@@ -289,9 +286,6 @@
 /* Title for Payment Method screen */
 "Payment Method" = "Метод на плащане";
 
-/* Caption for Phone field on address form */
-"Phone" = "Телефон";
-
 /* Accessibility instructions for card scanning. */
 "Point the camera at your card." = "Насочете камерата към картата си.";
 
@@ -301,17 +295,8 @@
 /* Caption for Postal Code field on address form (only shown in countries other than the United States) */
 "Postal Code" = "Пощенски код";
 
-/* Short string for postal code (text used in non-US countries) */
-"Postal code" = "Пощенски код";
-
-/* Label of an address field */
-"Prefecture" = "Префектура";
-
 /* Label of a button that, when tapped, initiates payment, becomes disabled, and displays this text */
 "Processing..." = "Обработване...";
-
-/* Caption for Province field on address form (only countries that use province, like Canada) */
-"Province" = "Област";
 
 /* Payment Method type brand name. */
 "Przelewy24" = "Przelewy24";
@@ -329,6 +314,12 @@
 /* Title for confirmation alert to remove a card */
 
 "Remove Card" = "Премахване на банкова карта";
+/* Title for confirmation alert to remove a saved bank account payment method */
+
+"Remove bank account" = "Премахване на банкова сметка";
+/* Content for alert popup prompting to confirm removing a saved bank account. e.g. 'Remove bank account ending in 4242' */
+
+"Remove bank account ending in %@" = "Премахване на банкова сметка, завършваща на %@";
 /* part of {SEPA Account} ending in {last4} */
 
 "SEPA Account" = "Сметка SEPA";
@@ -353,12 +344,9 @@
 /* The label of a switch indicating whether to save the user&apos;s card for future payments to this merchant */
 
 "Save this card for future %@ payments" = "Запазете тази карта за следващи %@ плащания";
-/* Text for button to scan a credit card */
+/* The label of a switch indicating whether to save the user's card for future payment */
 
-"Scan Card" = "Сканиране на картата";
-/* Label of a button displayed below a payment method form. Tapping the button closes the form and uses the entered payment method details for checkout in the next step */
-
-"Select" = "Избиране";
+"Save this card for future Stripe payments" = "Запазете тази карта за бъдещи Stripe плащания";
 /* label for iDEAL-bank selection picker */
 
 "Select bank" = "Избиране на банка";
@@ -382,17 +370,11 @@
    Source type brand name */
 "Sofort" = "Sofort";
 
-/* Caption for State field on address form (only countries that use state , like United States) */
-"State" = "Щат";
-
 /* Caption for generalized state/province/region field on address form (not tied to a specific country&apos;s format) */
 "State / Province / Region" = "Щат/Област/Регион";
 
-/* Label of an address field */
-"Suburb" = "Предградие";
-
-/* Label of an address field */
-"Suburb or city" = "Предградие или град";
+/* Prompt for microdeposit verification before completing purchase with merchant. %@ will be replaced by merchant business name */
+"Stripe will deposit $0.01 to your account in 1-2 business days. Then you’ll get an email with instructions to complete payment to %@." = "В рамките на 1-2 работни дни Stripe ще депозира в сметката Ви сума от 0.01 USD. След това ще получите имейл с инструкции за завършване на плащането към %@.";
 
 /* Error string displayed to user when they have entered an incomplete BSB number. BSB refers to an Australian bank account number */
 "The BSB you entered is incomplete." = "BSB, който сте въвели, е непълен.";
@@ -406,23 +388,14 @@
 /* An error message displayed when the IBAN country code is not supported. */
 "The IBAN you entered is invalid, \"%@\" is not a supported country code." = "Въведеният IBAN е невалиден, „%@“ не е поддържан код на държава.";
 
-/* An error message displayed when the customer's iban is invalid. */
-"The IBAN you entered is invalid." = "IBAN, който сте въвели, е невалиден.";
-
 /* Error when the seleted payment method is not available (eg attempted to use 3D Secure on a card that does not support it). */
 "The selected payment method is not available." = "Избраният метод на плащане не е наличен.";
-
-/* Error when there is a problem processing the credit card */
-"There was an error processing your card -- try again in a few seconds" = "Възникна грешка при обработката на Вашата карта -- опитайте отново след няколко секунди";
 
 /* Error when 3DS2 authentication timed out. */
 "Timed out authenticating your payment method -- try again" = "Времето на изчакване на удостоверяването на Вашия метод на плащане изтече -- опитайте отново";
 
 /* Error when the user hasn&apos;t allowed the current app to access the camera when scanning a payment card. &apos;Settings&apos; is the localized name of the iOS Settings app. */
 "To scan your card, allow camera access in Settings." = "За да сканирате картата си, разрешете достъп до камерата в Настройки.";
-
-/* Label of an address field */
-"Town or city" = "Град";
 
 /* Payment Method type brand name */
 "UPI" = "UPI";
@@ -460,17 +433,11 @@
 /* Error message for when postal code in form is invalid (US only) */
 "Your ZIP is invalid." = "Вашият ZIP код е невалиден.";
 
-/* Error when the card has already expired */
-"Your card has expired" = "Вашата карта е изтекла";
-
 /* Error message for card form when card number is incomplete */
 "Your card number is incomplete." = "Номерът на Вашата карта е непълен.";
 
 /* Error message for card form when card number is invalid */
 "Your card number is invalid." = "Номерът на Вашата карта е невалиден.";
-
-/* Error when the card was declined by the credit card networks */
-"Your card was declined" = "Вашата карта бе отхвърлена";
 
 /* Error message for card details form when expiration date isn&apos;t entered completely */
 "Your card's expiration date is incomplete." = "Срокът на валидност на Вашата карта е непълен.";
@@ -478,41 +445,23 @@
 /* Error message for card details form when expiration date is invalid */
 "Your card's expiration date is invalid." = "Датата на валидност на Вашата карта е невалидна.";
 
-/* Error when the card&apos;s expiration month is not valid */
-"Your card's expiration month is invalid" = "Месецът на валидност на Вашата карта е невалиден";
-
 /* String to describe an invalid month in expiry date. */
 "Your card's expiration month is invalid." = "Месецът на валидност на Вашата карта е невалиден.";
-
-/* Error when the card&apos;s expiration year is not valid */
-"Your card's expiration year is invalid" = "Годината на валидност на Вашата карта е невалидна";
 
 /* String to describe an invalid year in expiry date. */
 "Your card's expiration year is invalid." = "Годината на валидност на Вашата карта е невалидна.";
 
-/* Error when the card number is not valid */
-"Your card's number is invalid" = "Номерът на Вашата карта е невалиден";
-
 /* Error message for card entry form when CVC/CVV is incomplete. */
 "Your card's security code is incomplete." = "Кодът за сигурност на Вашата карта е непълен.";
 
-/* Error when the card&apos;s CVC is not valid */
-"Your card's security code is invalid" = "Кодът за сигурност на Вашата карта е невалиден";
-
 /* Error message for card entry form when CVC/CVV is invalid */
 "Your card's security code is invalid." = "Кодът за сигурност на Вашата карта е невалиден.";
-
-/* Error when customer's name is invalid */
-"Your name is invalid." = "Името Ви е невалидно.";
 
 /* Error message for when postal code in form is incomplete */
 "Your postal code is incomplete." = "Вашият пощенски код е непълен.";
 
 /* Error message for when postal code in form is invalid */
 "Your postal code is invalid." = "Вашият пощенски код е невалиден.";
-
-/* Short string for zip code (United States only) Please keep to 5 characters or less if possible. */
-"ZIP" = "п.к.";
 
 /* Caption for Zip Code field on address form (only shown when country is United States only) */
 "ZIP Code" = "Пощенски код";
